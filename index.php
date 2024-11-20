@@ -156,6 +156,12 @@
                 </div>
             </div>
             <style>
+                .feature-item{
+                    background-color:#d4d0d0;
+                }
+                .feature-item:hover{
+                    background-color:white;
+                }
                 .feature-item .count {
                     -webkit-text-stroke: 2px #FDA31B;
                 }
@@ -170,7 +176,7 @@
                                 <div class="feature-item">
                                     <span class="count">01</span>
                                     <div class="feature-icon"
-                                        style="display:flex;justify-content:center;background-color:#ff002a">
+                                        style="display:flex;justify-content:center;background-color:var(--footer-bg)">
                                         <img src="assets/img/icon/scholarship.svg" alt>
                                     </div>
                                     <div class="feature-content">
@@ -183,15 +189,15 @@
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-3">
-                                <div class="feature-item" style="background-color:#ff002a">
+                                <div class="feature-item" >
                                     <span class="count">02</span>
                                     <div class="feature-icon"
                                         style="display:flex;justify-content:center;background-color:var(--footer-bg)">
                                         <img src="assets/img/icon/teacher.svg" alt>
                                     </div>
                                     <div class="feature-content">
-                                        <h4 class="feature-title" style="color:white !important">Facilities</h4>
-                                        <p style="color:white !important">Discover our state-of-the-art facilities that
+                                        <h4 class="feature-title" >Facilities</h4>
+                                        <p >Discover our state-of-the-art facilities that
                                             provide a safe, modern, and
                                             enriching environment for students to learn, play, and grow.</p>
                                         <a href="facility.php" class="theme-btn" style="margin-top:10px;">Explore More<i
@@ -200,15 +206,15 @@
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-3">
-                                <div class="feature-item" style="background-color:var(--footer-bg)">
+                                <div class="feature-item">
                                     <span class="count">03</span>
                                     <div class="feature-icon"
-                                        style="display:flex;justify-content:center;background-color:#3db2d5">
+                                        style="display:flex;justify-content:center;background-color:var(--footer-bg)">
                                         <img src="assets/img/icon/library.svg" alt>
                                     </div>
                                     <div class="feature-content">
-                                        <h4 class="feature-title" style="color:white !important">Student Life</h4>
-                                        <p style="color:white !important">Engage in a vibrant student life filled with
+                                        <h4 class="feature-title" >Student Life</h4>
+                                        <p >Engage in a vibrant student life filled with
                                             clubs, sports, cultural
                                             activities, and leadership opportunities that foster holistic growth.</p>
                                         <a href="students-life.php" class="theme-btn" style="margin-top:10px;">Discover
@@ -217,14 +223,14 @@
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-3">
-                                <div class="feature-item" style="background-color:#3db2d5">
+                                <div class="feature-item" >
                                     <span class="count">04</span>
                                     <div class="feature-icon" style="display:flex;justify-content:center;">
                                         <img src="assets/img/icon/money.svg" alt>
                                     </div>
                                     <div class="feature-content">
-                                        <h4 class="feature-title" style="color:white !important">Admissions</h4>
-                                        <p style="color:white !important">Join our learning community! Learn more about
+                                        <h4 class="feature-title" >Admissions</h4>
+                                        <p >Join our learning community! Learn more about
                                             our admission process and how
                                             to enroll your child for the upcoming academic session.</p>
                                         <a href="admission.php" class="theme-btn" style="margin-top:10px;">Apply Now<i
@@ -1291,13 +1297,13 @@
                                 <h2 class="site-title">Secure Your Child’s Future with <br><span>G.D Goenka
                                         School!</span></h2>
                                 <p style="color:white">Don't miss out on the opportunity to provide your child with a world-class education
-                                    in a nurturing and innovative environment. Enrollnow for the 2025-26 academic
+                                    in a nurturing and innovative environment. Enroll now for the 2025-26 academic
                                     session and take the first step toward your child's bright future.</p>
                             </div>
                         </div>
                     </div>
                     <div style="display:flex;justify-content:center;align-items:center;">
-                        <a href="application-form.php" class="theme-btn" style="padding: 14px 100px;">EnrollNow<i
+                        <a href="application-form.php" class="theme-btn" style="padding: 14px 100px;">Enroll Now<i
                                 class="fas fa-arrow-right-long"></i></a>
                     </div>
                 </div>
@@ -1359,7 +1365,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <a href="application-form.php" class="theme-btn mt-5">EnrollNow<i
+                                        <a href="application-form.php" class="theme-btn mt-5">Enroll Now<i
                                                 class="fas fa-arrow-right-long"></i></a>
                                     </div>
                                 </div>

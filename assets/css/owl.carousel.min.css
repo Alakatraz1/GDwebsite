@@ -55,7 +55,7 @@
 }
 
 .owl-carousel .owl-item img {
-    filter: brightness(4) invert(.9);
+    
     display: block;
     width: 100%
 }

@@ -232,16 +232,16 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="academics.php">Academics</a>
                             <ul class="dropdown-menu fade-down" style="width:auto">
-                                <li><a class="dropdown-item" href="students-life.php#">Student Life</a></li>
+                                <li style="display:none"><a class="dropdown-item" href="students-life.php#">Student Life</a></li>
                                 <li><a class="dropdown-item" href="academics.php#achievements">Academic Achievements</a>
                                 </li>
                                 <li><a class="dropdown-item" href="academics.php#profiles">Faculty Profiles</a></li>
                                 <li><a class="dropdown-item" href="academics.php#overview">Curriculum Overview</a></li>
 
-                                <li><a class="dropdown-item" href="grades.php">Grades</a></li>
+                                <li style="display:none"><a class="dropdown-item" href="grades.php">Grades</a></li>
 
-                                <li><a class="dropdown-item" href="academics.php#resources">Learning Resources</a></li>
-                                <li><a class="dropdown-item" href="academics.php#assessment">Examination &
+                                <li style="display:none"><a class="dropdown-item" href="academics.php#resources">Learning Resources</a></li>
+                                <li style="display:none"><a class="dropdown-item" href="academics.php#assessment">Examination &
                                         Assessment</a></li>
                                 <li style="display:none"><a class="dropdown-item" href="calendar.php">Academic
                                         Calendar</a></li>
@@ -263,10 +263,11 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="admission.php">Admissions</a>
                             <ul class="dropdown-menu fade-down">
-                                <li><a class="dropdown-item" href="admission.php">Admission Guidelines</a></li>
+                            <li ><a class="dropdown-item" href="admission.php">Fee Structure</a></li>
+                                <li style="display:none"><a class="dropdown-item" href="admission.php">Admission Guidelines</a></li>
                                 <li><a class="dropdown-item" href="application-form.php">Online Registration Form</a>
                                 </li>
-                                <li><a class="dropdown-item" href="faq.php">FAQs</a></li>
+                                <li style="display:none"><a class="dropdown-item" href="faq.php">FAQs</a></li>
                                 <li style="display:none"><a class="dropdown-item" href="virtual-tour.php">Virtual
                                         Tour</a></li>
 
@@ -374,16 +375,16 @@
                             <a class="nav-link dropdown-toggle" href="academics.php"
                                 data-bs-toggle="dropdown">Academics</a>
                             <ul class="dropdown-menu fade-down">
-                                <li><a class="dropdown-item" href="students-life.php#">Student Life</a></li>
+                                <li style="display:none"><a class="dropdown-item" href="students-life.php#">Student Life</a></li>
                                 <li><a class="dropdown-item" href="academics.php#achievements">Academic Achievements</a>
                                 </li>
                                 <li><a class="dropdown-item" href="academics.php#profiles">Faculty Profiles</a></li>
                                 <li><a class="dropdown-item" href="academics.php#overview">Curriculum Overview</a></li>
 
-                                <li><a class="dropdown-item" href="grades.php">Grades</a></li>
+                                <li style="display:none"><a class="dropdown-item" href="grades.php">Grades</a></li>
 
-                                <li><a class="dropdown-item" href="academics.php#resources">Learning Resources</a></li>
-                                <li><a class="dropdown-item" href="academics.php#assessment">Examination &
+                                <li style="display:none"><a class="dropdown-item" href="academics.php#resources">Learning Resources</a></li>
+                                <li style="display:none"><a class="dropdown-item" href="academics.php#assessment">Examination &
                                         Assessment</a></li>
                                 <li style="display:none"><a class="dropdown-item" href="calendar.php">Academic
                                         Calendar</a></li>
@@ -407,10 +408,11 @@
                             <a class="nav-link dropdown-toggle" href="admission.php"
                                 data-bs-toggle="dropdown">Admissions</a>
                             <ul class="dropdown-menu fade-down">
-                                <li><a class="dropdown-item" href="admission.php">Admission Guidelines</a></li>
+                            <li><a class="dropdown-item" href="admission.php">Fee Structure</a></li>
+                                <li style="display:none"><a class="dropdown-item" href="admission.php">Admission Guidelines</a></li>
                                 <li><a class="dropdown-item" href="application-form.php">Online Registration Form</a>
                                 </li>
-                                <li><a class="dropdown-item" href="faq.php">FAQs</a></li>
+                                <li style="display:none"><a class="dropdown-item" href="faq.php">FAQs</a></li>
                                 <li style="display:none"><a class="dropdown-item" href="virtual-tour.php">Virtual
                                         Tour</a></li>
 

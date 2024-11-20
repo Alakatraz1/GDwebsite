@@ -24,13 +24,14 @@
             body {
                 overflow-y: hidden;
             }
-            .feature-icon{
+
+            .feature-icon {
                 background: #a46a3759;
             }
+
             .feature-item .count {
                 -webkit-text-stroke: 2px var(--theme-color2) !important !important;
             }
-
         </style>
 
     </head>
@@ -258,7 +259,7 @@
                 </div>
             </div>
             <style>
-                .popup-content>p{
+                .popup-content>p {
                     text-align: justify;
                 }
             </style>
@@ -298,13 +299,14 @@
                     <div class="row align-items-center">
                         <div class="col-lg-6">
                             <div class="choose-content wow fadeInUp" data-wow-delay=".25s">
-                                <div class="choose-content-info" >
+                                <div class="choose-content-info">
                                     <div class="site-heading mb-0">
 
                                         <h2 class="site-title text-white mb-10">Message from <span>Principal</span></h2>
                                         <p class="text-white">
                                             Dear Students, Parents, and Well-Wishers,
-                                            A warm welcome to G.D. Goenka Public School, Bareilly! As the Principal, it is
+                                            A warm welcome to G.D. Goenka Public School, Bareilly! As the Principal, it
+                                            is
                                             both an honor and a privilege to lead this vibrant institution that stands
                                             for more than just academic excellence—it is a place where young minds are
                                             nurtured, values are instilled, and futures are shaped. Our school is
@@ -456,7 +458,8 @@
                         </div>
                         <div class="my-4">
 
-                            <p>At G.D. Goenka Public School, Bareilly, we are committed to more than just education; we are
+                            <p>At G.D. Goenka Public School, Bareilly, we are committed to more than just education; we
+                                are
                                 dedicated to shaping the leaders of tomorrow. Our unique approach combines academic
                                 excellence, a values-driven curriculum, and a nurturing environment, all designed to
                                 help students thrive in a rapidly changing world. Here’s why G.D. Goenka Public School
@@ -498,6 +501,12 @@
                             box-shadow: 10px 10px 5px 2px rgba(0, 0, 0, 0.1);
 
 
+                        }
+
+                        .owl-carousel .owl-item img {
+                            filter: brightness(4) invert(.9);
+                            
+                            
                         }
                     </style>
                     <div class="department-slider owl-carousel owl-theme">
