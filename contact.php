@@ -71,7 +71,7 @@
                 }
 
                 .contact-info-icon {
-                    background: var(--theme-color2)
+                    background: #35353554;
                 }
 
                 .contact-info-icon::before {

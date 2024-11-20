@@ -63,7 +63,7 @@
 
             <div class="hero-section">
                 <div class="hero-slider owl-carousel owl-theme">
-                    <div class="hero-single" style="background: url(assets/home/hero1.webp)">
+                    <div class="hero-single" style="background: url(assets/gd/images/home/hero1.jpg)">
                         <div class="container">
                             <div class="row align-items-center">
                                 <div class="col-md-12 col-lg-7">
@@ -93,7 +93,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="hero-single" style="background: url(assets/home/hero2.webp)">
+                    <div class="hero-single" style="background: url(assets/gd/images/home/hero2.jpg)">
                         <div class="container">
                             <div class="row align-items-center">
                                 <div class="col-md-12 col-lg-7">
@@ -123,7 +123,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="hero-single" style="background: url(assets/home/hero3.webp)">
+                    <div class="hero-single" style="background: url(assets/home/smallalltop.jpg)">
                         <div class="container">
                             <div class="row align-items-center">
                                 <div class="col-md-12 col-lg-7">
@@ -600,7 +600,7 @@
 
 
 
-            <div class="course-area py-120">
+            <div class="course-area py-120" style="display:none">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12 mx-auto">
@@ -1026,7 +1026,9 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="choose-img wow fadeInRight" data-wow-delay=".25s">
-                                <img src="assets/home/why.JPG" alt>
+                                <img src="assets/home/smallalltop.jpg" alt style="width: 100%; /* Full width of the parent container */
+    aspect-ratio: 1 / 1; /* Maintains a 1:1 aspect ratio */
+    object-fit: cover; /* Ensures the image fits nicely */">
                             </div>
                         </div>
                     </div>
@@ -1128,14 +1130,14 @@
             </div>
 
 
-            <div class="cta-area" style="background-image: url(assets/home/sales.webp)">
+            <div class="cta-area" style="background-image: url(assets/gd/images/home/hero1.jpg)">
                 <div class="container">
                     <div class="cta-wrapper">
                         <div class="row align-items-center">
                             <div class="col-lg-5 ms-lg-auto">
                                 <style>
                                     .cta-content1::before {
-                                        background-color: #3db2d5;
+                                        background-color: var(--footer-bg);
                                     }
                                 </style>
                                 <div class="cta-content cta-content1">

@@ -254,7 +254,7 @@
                         </li>
 
 
-                        <li class="nav-item dropdown">
+                        <li class="nav-item dropdown" style="display:none">
                             <a class="nav-link " href="facility.php#">Facilities</a>
 
 
@@ -274,7 +274,7 @@
 
                             </ul>
                         </li>
-                        <li class="nav-item dropdown">
+                        <li class="nav-item dropdown" style="display:none">
                             <a class="nav-link " href="gallery.php#">Gallery</a>
 
 
@@ -397,7 +397,7 @@
                         </li>
 
 
-                        <li class="nav-item dropdown">
+                        <li class="nav-item dropdown" style="display:none">
                             <a class="nav-link " href="facility.php#">Facilities</a>
 
 
@@ -433,7 +433,7 @@
                             </ul>
                         </li>
 
-                        <li class="nav-item dropdown">
+                        <li class="nav-item dropdown" style="display:none">
                             <a class="nav-link " href="gallery.php#">Gallery</a>
 
 
