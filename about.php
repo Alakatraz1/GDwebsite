@@ -9,7 +9,7 @@
         <meta name="description" content>
         <meta name="keywords" content>
 
-        <title>Omni International School</title>
+        <title>G.D. Goenka Public School</title>
 
         <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
 
@@ -82,7 +82,7 @@
                         </div>
                         <div class="my-4">
 
-                            <p>Omni International School, Basti, was founded with a singular vision: “Building Nation
+                            <p>G.D. Goenka Public School, Bareilly, was founded with a singular vision: “Building Nation
                                 Through Education.” From the outset, our journey has been driven by the belief that
                                 education is the cornerstone of nation-building. Our institution was established to
                                 create a transformative learning environment, particularly for students from rural
@@ -170,7 +170,7 @@
                         </div>
                         <div class="my-4">
 
-                            <p>At Omni International School, Basti, our management team is united by a shared passion
+                            <p>At G.D. Goenka Public School, Bareilly, our management team is united by a shared passion
                                 for providing an enriching, transformative educational experience that nurtures students
                                 from all walks of life. Under the visionary leadership of our Chairman, Mr. Om Narayan
                                 Singh, a retired IAS officer with years of distinguished service, we are guided by the
@@ -249,7 +249,7 @@
 
             <div class="overlay hidden" id="popup1">
                 <div class="popup-content">
-                    <p>At Omni International School, we believe that true education lies in nurturing both the intellect
+                    <p>At G.D. Goenka Public School, we believe that true education lies in nurturing both the intellect
                         and the spirit. Inspired by the words of Swami Vivekananda, "Education is the manifestation of
                         the perfection already in man," our goal is to help each student realize their inherent
                         potential and become well-rounded individuals. Our mission is to deliver inclusive, value-based
@@ -304,7 +304,7 @@
                                         <h2 class="site-title text-white mb-10">Message from <span>Principal</span></h2>
                                         <p class="text-white">
                                             Dear Students, Parents, and Well-Wishers,
-                                            A warm welcome to Omni International School, Basti! As the Principal, it is
+                                            A warm welcome to G.D. Goenka Public School, Bareilly! As the Principal, it is
                                             both an honor and a privilege to lead this vibrant institution that stands
                                             for more than just academic excellence—it is a place where young minds are
                                             nurtured, values are instilled, and futures are shaped. Our school is
@@ -456,10 +456,10 @@
                         </div>
                         <div class="my-4">
 
-                            <p>At Omni International School, Basti, we are committed to more than just education; we are
+                            <p>At G.D. Goenka Public School, Bareilly, we are committed to more than just education; we are
                                 dedicated to shaping the leaders of tomorrow. Our unique approach combines academic
                                 excellence, a values-driven curriculum, and a nurturing environment, all designed to
-                                help students thrive in a rapidly changing world. Here’s why Omni International School
+                                help students thrive in a rapidly changing world. Here’s why G.D. Goenka Public School
                                 stands out:</p>
                         </div>
                     </div>
@@ -658,7 +658,7 @@
 
                                         involvement are key components of the strong, supportive community we’ve built
                                         at
-                                        Omni International School.</span>
+                                        G.D. Goenka Public School.</span>
 
                                     <button class="read-more-btn" onclick="toggleReadMore(this)">Read more</button>
                                 </p>

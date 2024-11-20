@@ -9,7 +9,7 @@
         <meta name="description" content>
         <meta name="keywords" content>
 
-        <title>Omni International School</title>
+        <title>G.D. Goenka Public School</title>
 
         <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
 

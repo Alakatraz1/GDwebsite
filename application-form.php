@@ -9,7 +9,7 @@
         <meta name="description" content>
         <meta name="keywords" content>
 
-        <title>Omni International School</title>
+        <title>G.D. Goenka Public School</title>
 
         <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
         <script src="https://www.google.com/recaptcha/api.js" async defer></script>
@@ -92,8 +92,8 @@
                                 <span class="site-title-tagline" style="display:none"><i
                                         class="far fa-book-open-reader"></i> Registration Form</span>
                                 <h2 class="site-title" id="intro">Registration <span>Form</span></h2>
-                                <p style="text-align:justify">Thank you for your interest in Omni International School,
-                                    Basti! To make the admission process smooth and convenient, we offer an Online
+                                <p style="text-align:justify">Thank you for your interest in G.D. Goenka Public School,
+                                    Bareilly! To make the admission process smooth and convenient, we offer an Online
                                     Registration Form for all prospective students. This form allows you to express your
                                     interest and provide basic information, and our admissions team will contact you
                                     with further details. We’ve kept the form simple to ensure a quick and easy

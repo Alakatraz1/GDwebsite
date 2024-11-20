@@ -8,7 +8,7 @@
 <meta name="description" content>
 <meta name="keywords" content>
 
-<title>Omni International School</title>
+<title>G.D. Goenka Public School</title>
 
 <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
 
@@ -75,7 +75,7 @@
                                     has taught me that the change our country needs will only come through
                                     independent thinking, imaginative, and compassionate individuals—those who will
                                     lead by example and inspire others to do the same.
-                                    Omni International School is not merely an educational institution; it is a
+                                    G.D. Goenka Public School is not merely an educational institution; it is a
                                     humble yet powerful platform aimed at empowering the children of rural
                                     backgrounds. My vision is not just for the success of this school, but for the
                                     success of each student, who will go on to enlighten the world with their

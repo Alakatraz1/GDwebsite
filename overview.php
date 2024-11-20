@@ -9,7 +9,7 @@
         <meta name="description" content>
         <meta name="keywords" content>
 
-        <title>Omni International School</title>
+        <title>G.D. Goenka Public School</title>
 
         <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
 
@@ -60,7 +60,7 @@
 
                                 <h2 class="site-title" id="overview">Curriculum <span>Overview</span></h2>
 
-                                <p>At Omni International School, Basti, we follow a holistic, inclusive, and
+                                <p>At G.D. Goenka Public School, Bareilly, we follow a holistic, inclusive, and
                                     forward-thinking curriculum that aligns with the standards set by the Central Board
                                     of Secondary Education (CBSE), National Council of Educational Research and Training
                                     (NCERT), and the guidelines of the National Education Policy (NEP) 2020. Our
@@ -87,7 +87,7 @@
                                 <p>
                                 <h3>National Education Policy (NEP) Alignment</h3>
                                 The introduction of the NEP 2020 has redefined the future of Indian education, and
-                                at Omni International School, we have embraced this transformative policy. The NEP
+                                at G.D. Goenka Public School, we have embraced this transformative policy. The NEP
                                 focuses on reducing rote learning and promoting critical thinking, creativity, and
                                 interdisciplinary approaches. Our curriculum integrates these reforms, allowing
                                 flexibility in subjects, fostering a deeper understanding, and promoting skill
@@ -106,7 +106,7 @@
                                 unique learning styles. This ensures that every student progresses at their own pace
                                 while achieving excellence in academics.
                                 </p>
-                                <p>At Omni International School, we are committed to developing well-rounded
+                                <p>At G.D. Goenka Public School, we are committed to developing well-rounded
                                     individuals who not only excel in their studies but also possess the values and life
                                     skills necessary to make a positive impact on the world.
                                 </p>

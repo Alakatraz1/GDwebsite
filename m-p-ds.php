@@ -9,7 +9,7 @@
         <meta name="description" content>
         <meta name="keywords" content>
 
-        <title>Omni International School</title>
+        <title>G.D. Goenka Public School</title>
 
         <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
 
@@ -60,7 +60,7 @@
 
                                 <p>
                                     Mandatory Public Disclosures
-                                    In accordance with the CBSE mandate, Omni International School, Basti, adheres to
+                                    In accordance with the CBSE mandate, G.D. Goenka Public School, Bareilly, adheres to
                                     all required public disclosures to ensure transparency and accountability. Below you
                                     will find the mandatory public disclosures as per the CBSE guidelines, which provide
                                     insights into the school’s infrastructure, academics, and governance.
@@ -147,7 +147,7 @@
 
             <div class="container mt-5 mb-5">
 
-                <h2 class="site-title" style="text-align:center">Omni International School <span>Information</span></h2>
+                <h2 class="site-title" style="text-align:center">G.D. Goenka Public School <span>Information</span></h2>
 
                 <h2 class="mt-5">General Information</h2>
                 <div class="table-responsive">
@@ -163,7 +163,7 @@
                             <tr>
                                 <td>1</td>
                                 <td>NAME OF THE SCHOOL</td>
-                                <td>OMNI INTERNATIONAL SCHOOL</td>
+                                <td>G.D. Goenka Public School</td>
                             </tr>
                             <tr>
                                 <td>2</td>
@@ -178,7 +178,7 @@
                             <tr>
                                 <td>4</td>
                                 <td>COMPLETE ADDRESS WITH PIN CODE</td>
-                                <td>SANSARPUR, PHUTAHIYA ,POST OFFICE- GANDHI NAGAR,DISTRICT -BASTI (UP),PIN 272001</td>
+                                <td>SANSARPUR, PHUTAHIYA ,POST OFFICE- GANDHI NAGAR,DISTRICT -Bareilly (UP),PIN 272001</td>
                             </tr>
                             <tr>
                                 <td>5</td>
@@ -193,7 +193,7 @@
                             <tr>
                                 <td>7</td>
                                 <td>CONTACT DETAILS (LANDLINE/MOBILE)</td>
-                                <td>6389247000</td>
+                                <td>9012616969</td>
                             </tr>
                         </tbody>
                     </table>

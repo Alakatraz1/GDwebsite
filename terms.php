@@ -9,7 +9,7 @@
         <meta name="description" content>
         <meta name="keywords" content>
 
-        <title>Omni International School</title>
+        <title>G.D. Goenka Public School</title>
 
         <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
 
@@ -59,7 +59,7 @@
                             <div class="terms-content">
 
                                 <p>
-                                    Welcome to Omni International School, Basti. By accessing and using our website, you
+                                    Welcome to G.D. Goenka Public School, Bareilly. By accessing and using our website, you
                                     agree to comply with the following Terms of Service. Please read these terms
                                     carefully to ensure a safe and informative browsing experience.
                                 </p>
@@ -75,7 +75,7 @@
                                 <h3>2. Use of Content</h3>
                                 <p>
                                     The content on this website, including text, images, graphics, and documents, is the
-                                    property of Omni International School and is protected by copyright and other
+                                    property of G.D. Goenka Public School and is protected by copyright and other
                                     intellectual property laws. You may not copy, distribute, modify, or reproduce any
                                     content without prior written consent from the school.
                                 </p>
@@ -108,7 +108,7 @@
                                 <h3>5. External Links</h3>
                                 <p>
                                     Our website may contain links to third-party websites. These links are provided for
-                                    convenience, and Omni International School is not responsible for the content or
+                                    convenience, and G.D. Goenka Public School is not responsible for the content or
                                     practices of these external sites.
                                 </p>
                             </div>
@@ -116,7 +116,7 @@
                             <div class="terms-content">
                                 <h3>6. Limitation of Liability</h3>
                                 <p>
-                                    Omni International School is not liable for any damages arising from the use or
+                                    G.D. Goenka Public School is not liable for any damages arising from the use or
                                     inability to use the website, including any errors or omissions in the content
                                     provided.
                                 </p>
@@ -135,9 +135,9 @@
                                 <p>
                                     If you have any questions about these Terms of Service, please contact us at: <br>
                                     Omni
-                                    International School, Basti<br>
-                                    Email: Principal.omni@karmadevigroup.com<br>
-                                    (M) +91 6389247000<br>
+                                    International School, Bareilly<br>
+                                    Email: connect@gdgoenkabareilly.com<br>
+                                    (M) +91 9012616969<br>
 
                                 </p>
                             </div>

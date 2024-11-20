@@ -9,7 +9,7 @@
         <meta name="description" content>
         <meta name="keywords" content>
 
-        <title>Home - Omni International School</title>
+        <title>Home - G.D. Goenka Public School</title>
 
 
         <link rel="icon" type="image/png" href="/favicon.png">
@@ -78,7 +78,7 @@
                                         </h1 style="font-size">
                                         <p data-animation="fadeInLeft" data-delay=".75s" style="text-align:justify">
                                             Unlock your child’s full potential with a world-class education in a
-                                            nurturing and supportive environment. At Omni International School, Basti,
+                                            nurturing and supportive environment. At G.D. Goenka Public School, Bareilly,
                                             we are dedicated to empowering students with the knowledge, skills, and
                                             values they need to thrive in a rapidly changing world
                                         </p>
@@ -108,7 +108,7 @@
                                         </h1>
                                         <p data-animation="fadeInLeft" data-delay=".75s" style="text-align:justify">
                                             Unlock your child’s full potential with a world-class education in a
-                                            nurturing and supportive environment. At Omni International School, Basti,
+                                            nurturing and supportive environment. At G.D. Goenka Public School, Bareilly,
                                             we are dedicated to empowering students with the knowledge, skills, and
                                             values they need to thrive in a rapidly changing world
                                         </p>
@@ -138,7 +138,7 @@
                                         </h1>
                                         <p data-animation="fadeInLeft" data-delay=".75s" style="text-align:justify">
                                             Unlock your child’s full potential with a world-class education in a
-                                            nurturing and supportive environment. At Omni International School, Basti,
+                                            nurturing and supportive environment. At G.D. Goenka Public School, Bareilly,
                                             we are dedicated to empowering students with the knowledge, skills, and
                                             values they need to thrive in a rapidly changing world
                                         </p>
@@ -256,7 +256,7 @@
                                         <p class="text-white">
                                             For further assistance or inquiries, contact the office, and let us help you
                                             make the most of your time with
-                                            us at Omni International School.
+                                            us at G.D. Goenka Public School.
                                         </p>
 
                                         <a href="contact.php" class="theme-btn mt-5">Contact us<i
@@ -415,7 +415,7 @@
                                     </h2>
                                 </div>
                                 <p class="about-text" style="text-align:justify">
-                                    At Omni International School, Basti, we are dedicated to providing a world-class
+                                    At G.D. Goenka Public School, Bareilly, we are dedicated to providing a world-class
                                     education that empowers students to achieve academic success and personal growth.
                                     With a focus on holistic development, strong values, and a nurturing environment, we
                                     prepare students to become confident, compassionate, and responsible global
@@ -490,7 +490,7 @@
                                         <div class="col-md-5">
                                             <div class="about-quote">
                                                 <p>
-                                                    At Omni International School, Basti, our leadership team is driven
+                                                    At G.D. Goenka Public School, Bareilly, our leadership team is driven
                                                     by a shared commitment to providing exceptional education.
                                                     <span class="more-text" style="display: none;">
                                                         Through visionary leadership, we continuously strive to innovate
@@ -528,7 +528,7 @@
                                                 class="fal fa-headset"></i></div>
                                         <div class="number">
                                             <span>Call Now</span>
-                                            <h6><a href="tel:+21236547898">+91 6389247000</a></h6>
+                                            <h6><a href="tel:+21236547898">+91 9012616969</a></h6>
                                         </div>
                                     </div>
                                 </div>
@@ -609,7 +609,7 @@
                                     Facilities</span>
                                 <h2 class="site-title">State-of-the-art facilities designed to inspire learning,
                                     creativity, and <span>growth.</span></h2>
-                                <p style="text-align:justify">At Omni International School, Basti, we provide a
+                                <p style="text-align:justify">At G.D. Goenka Public School, Bareilly, we provide a
                                     comprehensive range of modern
                                     facilities designed to support academic success and personal growth. From smart
                                     classrooms and advanced science labs to sports facilities and a dedicated play zone
@@ -953,7 +953,7 @@
                                             <span>academic excellence,</span> values, and future-ready skills.
                                         </h2>
                                         <p class="text-white" style="text-align:justify">
-                                            At Omni International School, Basti, we are committed to providing an
+                                            At G.D. Goenka Public School, Bareilly, we are committed to providing an
                                             education that goes beyond academics. Our focus is on nurturing well-rounded
                                             individuals through a balanced curriculum, innovative teaching methods, and
                                             strong core values. With state-of-the-art facilities, experienced faculty,
@@ -1056,7 +1056,7 @@
                             <div class="site-heading text-center">
                                 <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Gallery</span>
                                 <h2 class="site-title">Our Photo <a href="gallery.php"><span>Gallery</span></a></h2>
-                                <p>A glimpse into the vibrant life and memorable moments at Omni International School.
+                                <p>A glimpse into the vibrant life and memorable moments at G.D. Goenka Public School.
                                 </p>
                             </div>
                         </div>
@@ -1145,7 +1145,7 @@
                                         academic session. Secure your child's spot and enjoy special savings by
                                         completing the registration early. Don't miss this
                                         opportunity to provide your child with a world-class education at Omni
-                                        International School, Basti!</p>
+                                        International School, Bareilly!</p>
                                     <div class="cta-btn">
                                         <a href="application-form.php" class="theme-btn">Register Now<i
                                                 class="fas fa-arrow-right-long"></i></a>
@@ -1166,7 +1166,7 @@
                                 <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Events</span>
                                 <h2 class="site-title">Stay updated on exciting events that inspire learning,
                                     creativity, and <span>community engagement.</span></h2>
-                                <p>At Omni International School, Basti, we host a variety of events throughout the year
+                                <p>At G.D. Goenka Public School, Bareilly, we host a variety of events throughout the year
                                     that enrich our students’ educational experience. From academic competitions and
                                     cultural festivals to sports tournaments and leadership workshops, our events are
                                     designed to foster growth, creativity, and collaboration. Stay tuned for details on
@@ -1316,7 +1316,7 @@
                                             </h2>
                                         </div>
                                         <p class="text-white" style="text-align:justify">
-                                            At Omni International School, Basti, we believe in a balanced approach to
+                                            At G.D. Goenka Public School, Bareilly, we believe in a balanced approach to
                                             education that emphasizes Excellence, Expertise, and Growth. Our commitment
                                             to academic achievement, guided by expert educators, fosters an environment
                                             where students thrive not only in their studies but also in their personal
@@ -1382,7 +1382,7 @@
                                 <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Specialized
                                     Streams for Future Success</span>
                                 <h2 class="site-title">Browse Our <span>Department</span></h2>
-                                <p style="text-align:justify">At Omni International School, Basti, our Grades 11th and
+                                <p style="text-align:justify">At G.D. Goenka Public School, Bareilly, our Grades 11th and
                                     12th offer specialized
                                     streams in Science, Commerce, and Humanities, each designed to provide students with
                                     a comprehensive and in-depth understanding of their chosen fields. Our carefully
@@ -1541,7 +1541,7 @@
                                 <span class="site-title-tagline"><i class="far fa-book-open-reader"></i>
                                     Testimonials</span>
                                 <h2 class="site-title text-white">What Our Students <span>Say's</span></h2>
-                                <p class="text-white">At Omni International School, Basti, our students, parents, and
+                                <p class="text-white">At G.D. Goenka Public School, Bareilly, our students, parents, and
                                     alumni are our greatest advocates. Their experiences reflect the values, academic
                                     excellence, and nurturing environment that we strive to provide. Read below to see
                                     what members of our community have to say about their journey with us and how Omni
@@ -1711,7 +1711,7 @@
                                 <p class="mb-4">
                                     We understand that the admission process can raise several questions. Below are some
                                     frequently asked questions to help guide you through the process of enrolling your
-                                    child at Omni International School, Basti.
+                                    child at G.D. Goenka Public School, Bareilly.
                                 </p>
                                 <a href="faq.php#" class="theme-btn mt-2">Have Any Question ?</a>
                             </div>
@@ -2206,7 +2206,7 @@
                 <div id="admissionModal" class="modal">
                     <div class="modal-content">
                         <a href="application-form.php" >
-                            <img src="assets/poster/poster.gif" alt="Admission Open Poster" style="width:100%;">
+                            <img src="assets/poster/GDG.jpg" alt="Admission Open Poster" style="width:100%;">
                         </a>
                         <button class="close-button" onclick="closeModal()" style="font-size:10px">X</button>
                     </div>

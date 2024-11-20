@@ -9,7 +9,7 @@
         <meta name="description" content>
         <meta name="keywords" content>
 
-        <title>Omni International School</title>
+        <title>G.D. Goenka Public School</title>
 
         <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
 
@@ -70,7 +70,7 @@
                                 <h3>Mrs. Neeta Singh</h3>
                                 <strong>Message from Manager</strong>
                                 
-                                <p>At Omni International School, we believe that every child has unique potential
+                                <p>At G.D. Goenka Public School, we believe that every child has unique potential
                                     waiting to be discovered. As the Manager of this institution, my role is to
                                     ensure that each student is nurtured with care, compassion, and the best
                                     possible resources to flourish not only academically but also personally.

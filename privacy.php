@@ -9,7 +9,7 @@
         <meta name="description" content>
         <meta name="keywords" content>
 
-        <title>Omni International School</title>
+        <title>G.D. Goenka Public School</title>
 
         <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
 
@@ -59,7 +59,7 @@
                             <div class="terms-content">
 
                                 <p>
-                                    Omni International School, Basti, is committed to protecting your privacy and
+                                    G.D. Goenka Public School, Bareilly, is committed to protecting your privacy and
                                     ensuring the security of your personal information. This Privacy Policy outlines how
                                     we collect, use, and protect the data you provide while using our website.
                                 </p>
@@ -134,7 +134,7 @@
 
                             <div class="terms-content">
                                 <h3>6. Third-Party Links</h3>
-                                <p>Our website may contain links to external websites. Omni International School is not
+                                <p>Our website may contain links to external websites. G.D. Goenka Public School is not
                                     responsible for the privacy practices of these third-party sites. We recommend that
                                     you review the privacy policies of any external sites you visit.</p>
 
@@ -168,9 +168,9 @@
 
                             <div class="terms-content">
                                 <h3>9. Contact Us</h3>
-                                <p>If you have any questions or concerns about this Privacy Policy or how your data is handled, please contact us at: Omni International School, Basti <br>
-Email: Principal.omni@karmadevigroup.com<br>
-(M) +91 6389247000<br>
+                                <p>If you have any questions or concerns about this Privacy Policy or how your data is handled, please contact us at: G.D. Goenka Public School, Bareilly <br>
+Email: connect@gdgoenkabareilly.com<br>
+(M) +91 9012616969<br>
 </p>
 
                             </div>

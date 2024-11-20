@@ -24,7 +24,7 @@
         }
 
         .dropdown-menu {
-            background: #003d69 !important;
+            background: #1c1b3b !important;
         }
 
         @media only screen and (max-width: 1000px) {
@@ -35,17 +35,17 @@
             }
 
             #heightmax {
-                max-height: inherit !important !important;
+                max-height: inherit !important;
             }
         }
     </style>
 
-    <div class="main-navigation hidethis" id="mainnavigation">
+    <div class="main-navigation hidethis" id="mainnavigation" style="">
         <nav class="navbar navbar-expand-lg "
-            style="top:0px;--box-shadow-none:0 0 15px rgba(0,0,0,0);;box-shadow:var(--box-shadow-none)!important; ">
+            style="background-color:#1c1b3b;top:0px;--box-shadow-none:0 0 15px rgba(0,0,0,0);;box-shadow:var(--box-shadow-none)!important; ">
             <div class="container position-relative" style="display:flex;justify-content:center">
                 <a class="navbar-brand" href="index.php">
-                    <img src="assets/img-custom/logo2.jpg" alt="logo" style=" width:400px !important">
+                    <img src="assets/gd/logo/logo1.webp" alt="logo" style=" width:400px !important">
                 </a>
             </div>
     </div>
@@ -73,8 +73,8 @@
         }
 
         @media only screen and (max-width: 768px) {
-            .site-breadcrumb{
-            background-image: url(assets/home/alltop.webp) !important;
+            .site-breadcrumb {
+                background-image: url(assets/home/alltop.webp) !important;
             }
         }
     </style>
@@ -94,16 +94,17 @@
                             <li>
                                 <a href="https://maps.app.goo.gl/6r88tbYKXNigEZh7A" target="_blank"><i
                                         class="far fa-location-dot"></i>
-                                    Campus: Sansarpur, Phutahiya,
-                                    Basti, U.P.</a>
+                                    Campus: Near Rohilkhand University,Dohra Road,
+                                    Bareilly,
+                                    U.P.</a>
                             </li>
                             <li>
-                                <a href="mailto:principal.omni@karmadevigroup.com"><i class="far fa-envelopes"></i>
-                                    <span>principal.omni@karmadevigroup.com
+                                <a href="mailto:connect@gdgoenkabareilly.com"><i class="far fa-envelopes"></i>
+                                    <span>connect@gdgoenkabareilly.com
                                     </span></a>
                             </li>
                             <li>
-                                <a href="tel:+916389247000"><i class="far fa-phone-volume"></i> +91 6389247000</a>
+                                <a href="tel:+919012616969"><i class="far fa-phone-volume"></i> +91 9012616969</a>
                             </li>
                         </ul>
                     </div>
@@ -123,7 +124,7 @@
                         <a href="https://www.linkedin.com/company/school-omni-international/"
                             style="display:flex;justify-content:center;align-items:center;" target="_blank"><i
                                 class="fab fa-linkedin"></i></a>
-                        <a href="https://wa.me/6389247000"
+                        <a href="https://wa.me/9012616969"
                             style="display:flex;justify-content:center;align-items:center;" target="_blank"><i
                                 class="fab fa-whatsapp"></i></a>
                     </div>
@@ -167,7 +168,7 @@
         <nav class="navbar navbar-expand-lg">
             <div class="container position-relative" id="heightmax">
                 <a class="navbar-brand showthis" href="index.php">
-                    <img src="assets/img-custom/logo2.jpg" alt="logo" style=" width:250px !important">
+                    <img src="assets/gd/logo/logo1.webp" alt="logo" style=" width:250px !important">
                 </a>
                 <div class="mobile-menu-right">
 
@@ -280,7 +281,7 @@
 
 
                                 <li><a class="dropdown-item" href="m-p-ds.php">Mandatory Public Disclosers</a></li>
-                                <li style="display:none"><a class="dropdown-item" href="tc.php">Transfer
+                                <li ><a class="dropdown-item" href="https://forms.edunexttechnologies.com/website-service/gdgbareilly/transfer-certificate/">Transfer
                                         Certificates(T.C.)</a></li>
 
 
@@ -425,7 +426,7 @@
 
 
                                 <li><a class="dropdown-item" href="m-p-ds.php">Mandatory Public Disclosers</a></li>
-                                <li style="display:none"><a class="dropdown-item" href="tc.php">Transfer
+                                <li ><a class="dropdown-item" href="https://forms.edunexttechnologies.com/website-service/gdgbareilly/transfer-certificate/">Transfer
                                         Certificates(T.C.)</a></li>
 
 

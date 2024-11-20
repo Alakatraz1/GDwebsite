@@ -9,7 +9,7 @@
         <meta name="description" content>
         <meta name="keywords" content>
 
-        <title>Omni International School</title>
+        <title>G.D. Goenka Public School</title>
 
         <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
         <script src="https://www.google.com/recaptcha/api.js" async defer></script>
@@ -95,7 +95,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         $mail->Port = 587;
 
         $mail->setFrom($email, $name);
-        $mail->addAddress('principal.omni@karmadevigroup.com'); // Principal's email
+        $mail->addAddress('connect@gdgoenkabareilly.com'); // Principal's email
 
         $mail->isHTML(true);
         $mail->Subject = $subject;

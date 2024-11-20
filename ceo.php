@@ -9,7 +9,7 @@
         <meta name="description" content>
         <meta name="keywords" content>
 
-        <title>Omni International School</title>
+        <title>G.D. Goenka Public School</title>
 
         <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
 
@@ -70,7 +70,7 @@
                                 <h3>Mrs. Anshu Singh Gautam</h3>
                                 <strong>Message From CEO</strong>
 
-                                <p>At Omni International School, we are committed to creating a future where
+                                <p>At G.D. Goenka Public School, we are committed to creating a future where
                                     education is a pathway to empowerment and limitless potential. As the CEO of
                                     this institution, I have the privilege of overseeing its growth, both in terms
                                     of academic achievement and the holistic development of our students.</p>
@@ -85,7 +85,7 @@
                                 <p>
                                     Aligned with our Chairman’s vision of developing leaders who think independently
                                     and compassionately, and our manager’s nurturing approach to day-to-day
-                                    operations, my role is to steer Omni International School toward sustainable
+                                    operations, my role is to steer G.D. Goenka Public School toward sustainable
                                     excellence. We aim to combine traditional values with modern education, ensuring
                                     that our students receive not just knowledge, but the wisdom to apply it in
                                     real-world situations.</p>

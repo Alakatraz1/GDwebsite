@@ -9,7 +9,7 @@
         <meta name="description" content>
         <meta name="keywords" content>
 
-        <title>Omni International School</title>
+        <title>G.D. Goenka Public School</title>
 
         <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
 
@@ -73,7 +73,7 @@
 
                         </div>
                     </div>
-                    <p class="mb-5">Experience Omni International School, Basti, from the comfort of your home! Our
+                    <p class="mb-5">Experience G.D. Goenka Public School, Bareilly, from the comfort of your home! Our
                         Virtual Tour offers a glimpse into the vibrant campus, state-of-the-art facilities,
                         and the dynamic learning environment that makes our school special. Explore our
                         classrooms, labs, sports facilities, and more to get a sense of the day-to-day life

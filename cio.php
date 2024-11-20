@@ -9,7 +9,7 @@
         <meta name="description" content>
         <meta name="keywords" content>
 
-        <title>Omni International School</title>
+        <title>G.D. Goenka Public School</title>
 
         <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
 
@@ -71,7 +71,7 @@
                                 <strong>Message From CIO</strong>
 
                                 <p>In today’s world, technology is more than a tool—it is an enabler of limitless
-                                    possibilities. As the Chief Information Officer of Omni International School, my
+                                    possibilities. As the Chief Information Officer of G.D. Goenka Public School, my
                                     role is to ensure that our students have access to the best technological
                                     resources that prepare them for the dynamic future ahead.</p>
                                 <p>
@@ -94,7 +94,7 @@
                                     confidently explore digital tools, develop critical thinking skills, and become
                                     innovators who will contribute to society.</p>
                                 <p>
-                                    At Omni International School, we see technology not just as a subject to be
+                                    At G.D. Goenka Public School, we see technology not just as a subject to be
                                     learned, but as a transformative force that can enhance creativity,
                                     collaboration, and critical thinking. Together, with the support of our
                                     management team, we are building a future-ready institution where students are

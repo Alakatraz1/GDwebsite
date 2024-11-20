@@ -65,7 +65,7 @@
                             <div class="terms-content">
 
                                 <p>
-                                    At Omni International School, Basti, we are committed to ensuring a secure and
+                                    At G.D. Goenka Public School, Bareilly, we are committed to ensuring a secure and
                                     nurturing environment for all our students, staff, and visitors. Our comprehensive
                                     safety measures are designed to protect everyone on campus while providing peace of
                                     mind for parents and the community.

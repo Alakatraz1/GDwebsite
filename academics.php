@@ -9,7 +9,7 @@
         <meta name="description" content>
         <meta name="keywords" content>
 
-        <title>Omni International School</title>
+        <title>G.D. Goenka Public School</title>
 
         <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
 
@@ -71,7 +71,7 @@
                         </div>
                         <div class="my-4 pb-50">
 
-                            <p style="text-align:justify">At Omni International School, Basti, we take immense pride in
+                            <p style="text-align:justify">At G.D. Goenka Public School, Bareilly, we take immense pride in
                                 the academic excellence of
                                 our students. Our commitment to nurturing individual potential and fostering a culture
                                 of continuous improvement has resulted in exceptional academic achievements year after
@@ -193,7 +193,7 @@
                         </div>
                         <div class="my-4">
 
-                            <p style="text-align:justify">At Omni International School, Basti, we are proud to have a
+                            <p style="text-align:justify">At G.D. Goenka Public School, Bareilly, we are proud to have a
                                 dedicated and highly
                                 qualified team of over 40 educators and support staff, all committed to providing the
                                 best possible learning experience for our students. Our faculty members come from
@@ -371,7 +371,7 @@
                         </div>
                         <div class="my-4">
 
-                            <p style="text-align:justify">At Omni International School, Basti, we follow a holistic,
+                            <p style="text-align:justify">At G.D. Goenka Public School, Bareilly, we follow a holistic,
                                 inclusive, and
                                 forward-thinking curriculum that aligns with the standards set by the Central Board of
                                 Secondary Education (CBSE), National Council of Educational Research and Training
@@ -434,7 +434,7 @@
                                     <p class="club-text">
                                         The introduction of the NEP 2020 has redefined the future of Indian education,
                                         and<span class="more-text" style="display: none;">
-                                            at Omni International School, we have embraced this transformative policy.
+                                            at G.D. Goenka Public School, we have embraced this transformative policy.
                                             The
                                             NEP
                                             focuses on reducing rote learning and promoting critical thinking,
@@ -521,7 +521,7 @@
                         </div>
                         <div class="my-4">
 
-                            <p>At Omni International School, Basti, we are committed to providing our students with
+                            <p>At G.D. Goenka Public School, Bareilly, we are committed to providing our students with
                                 state-of-the-art learning resources that enhance their educational experience. Our goal
                                 is to create an engaging and interactive learning environment where every student has
                                 access to the tools and technologies they need to succeed. Key learning resources
@@ -760,7 +760,7 @@
                         </div>
                         <div class="my-4">
 
-                            <p>At Omni International School, Basti, we follow a comprehensive assessment system in line
+                            <p>At G.D. Goenka Public School, Bareilly, we follow a comprehensive assessment system in line
                                 with the CBSE guidelines, designed to evaluate students’ academic performance and
                                 overall development throughout the academic year. Our assessment framework ensures that
                                 students are evaluated fairly and consistently, with a focus on their continuous

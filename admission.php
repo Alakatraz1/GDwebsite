@@ -9,7 +9,7 @@
         <meta name="description" content>
         <meta name="keywords" content>
 
-        <title>Omni International School</title>
+        <title>G.D. Goenka Public School</title>
 
         <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
 
@@ -86,7 +86,7 @@
                                     </h2>
                                 </div>
                                 <p class="content-text" style="text-align:justify">
-                                    Welcome to the Admissions section of Omni International School, Basti. We are
+                                    Welcome to the Admissions section of G.D. Goenka Public School, Bareilly. We are
                                     excited to announce that admissions for the 2025-26 academic session are open from
                                     14th November 2024. As a K-12 CBSE-affiliated school, we offer a nurturing and
                                     dynamic learning environment for students from Nursery to Grade 12. We invite
@@ -344,7 +344,7 @@
                                             3. Mode of Payment:
                                         </p>
                                         <li><i class="fas fa-check-circle"></i>All fees are payable via Cheque/Cash/Net
-                                            Banking/Demand Draft in favour of Omni International School, Basti. (Account
+                                            Banking/Demand Draft in favour of G.D. Goenka Public School, Bareilly. (Account
                                             details will be provided at the time of admission)</li>
 
                                         <p>
@@ -587,7 +587,7 @@
                                     </div>
                                     <div class="contact-info-content">
                                         <h5 style="color:white">Call Us</h5>
-                                        <p><a href="tel:+916389247000" style="color:white">+91 6389247000</a></p>
+                                        <p><a href="tel:+919012616969" style="color:white">+91 9012616969</a></p>
                                     </div>
 
                                 </div>
@@ -601,7 +601,7 @@
                                     <div class="contact-info-content">
                                         <h5 style="color:white">Email Us</h5>
                                         <p><a style="color:white"
-                                                href="mailto:principal.omni@karmadevigroup.com">principal.omni@karmadevigroup.com</a>
+                                                href="mailto:connect@gdgoenkabareilly.com">connect@gdgoenkabareilly.com</a>
                                         </p>
 
 
@@ -624,7 +624,7 @@
                         <div class="col">
                             <div class="terms-content" style="text-align:center">
 
-                                <p>Welcome to the Admissions section of Omni International School, Basti. We are excited
+                                <p>Welcome to the Admissions section of G.D. Goenka Public School, Bareilly. We are excited
                                     to announce that admissions for the 2025-26 academic session are open from 14th
                                     November 2024. As a K-12 CBSE-affiliated school, we offer a nurturing and dynamic
                                     learning environment for students from Nursery to Grade 12.
@@ -737,7 +737,7 @@
                                     session to confirm admission to the next class and avoid late fees.<br>
                                     3. Mode of Payment:<br>
                                     o All fees are payable via Cheque/Cash/Net Banking/Demand Draft in favour of Omni
-                                    International School, Basti. (Account details will be provided at the time of
+                                    International School, Bareilly. (Account details will be provided at the time of
                                     admission)<br>
 
 
@@ -762,7 +762,7 @@
                                     plus Rs. 50/- per day for delayed payment.<br>
                                     6. Sibling Discount:<br>
                                     o A 10% discount on tuition fees will be given to the second child of the same
-                                    parent studying at Omni International School.<br>
+                                    parent studying at G.D. Goenka Public School.<br>
                                     7. Full Payment Discount:<br>
                                     o If the total fee for the full academic session is paid on or before 31st May or on
                                     the day of admission, a 10% discount will be granted on the full fee.<br>
@@ -829,9 +829,9 @@
                                     office:</p><br>
                                 <p>
                                     Phone
-                                    (M) +91 6389247000<br>
+                                    (M) +91 9012616969<br>
                                     Email:
-                                    Principal.omni@karmadevigroup.com<br>
+                                    connect@gdgoenkabareilly.com<br>
 
                                 </p>
                             </div>

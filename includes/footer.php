@@ -1,7 +1,7 @@
 <footer class="footer-area">
     <div class="footer-shape">
-        <img src="assets/img-custom/logo3.webp" alt
-            style="display:flex;justify-content:center;align-items;center;width:90%">
+        <img src="assets/gd/logo/logo1.webp" alt
+            style="display:flex;justify-content:center;align-items:center;width:100%">
     </div>
     <div class="footer-widget">
         <div class="container">
@@ -9,21 +9,21 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="footer-widget-box about-us">
                         <a href="index.php#" class="footer-logo">
-                            <img src="assets/img-custom/logo.jpg" alt
+                            <img src="assets/gd/logo/logo1.webp" alt
                                 style="width:90%;border-radius:20px 20px 20px 0px">
                         </a>
                         <p class="mb-3" style="text-align:justify">
-                            Omni International School is an established academic institution that is dynamic and
+                            G.D. Goenka Public School is an established academic institution that is dynamic and
                             contemporary. The school offers CBSE curriculum and provides each child with a broad
                             education.
                         </p>
                         <ul class="footer-contact">
                             <li><a href="tel:+21236547898"><i class="far fa-phone"
-                                        style="background-color:#3db2d5"></i>+91 6389247000</a></li>
+                                        style="background-color:#3db2d5"></i>+91 9012616969</a></li>
                             <li><i class="far fa-map-marker-alt" style="background-color:#116E63"></i>Sansarpur,
-                                Phutahiya, Basti, U.P.</li>
-                            <li><a href="mailto:principal.omni@karmadevigroup.com"><i
-                                        class="far fa-envelope" style="background-color:#ff002a"></i><span>principal.omni@karmadevigroup.com
+                                Phutahiya, Bareilly, U.P.</li>
+                            <li><a href="mailto:connect@gdgoenkabareilly.com"><i
+                                        class="far fa-envelope" style="background-color:#ff002a"></i><span>connect@gdgoenkabareilly.com
 
                                     </span></a></li>
                         </ul>
@@ -59,7 +59,7 @@
                 </div>
                 <div class="col-md-6 col-lg-3">
                     <div class="footer-widget-box list">
-                        <h4 class="footer-widget-title">Stay Connected with Omni International School!</h4>
+                        <h4 class="footer-widget-title">Stay Connected with G.D. Goenka Public School!</h4>
                         <div class="footer-newsletter">
                             <p style="text-align:justify">Subscribe to our newsletter for the latest school news,
                                 events, and admissions updates.
@@ -84,7 +84,7 @@
                 <div class="row">
                     <div class="col-md-6 align-self-center">
                         <p class="copyright-text">
-                            &copy; Copyright <span id="date"></span> <a href="index.php#"> Omni International School
+                            &copy; Copyright <span id="date"></span> <a href="index.php#"> G.D. Goenka Public School
                             </a> | All Rights Reserved.
                         </p>
                     </div>
@@ -101,7 +101,7 @@
                             </li>
                             <li><a href="https://www.linkedin.com/company/school-omni-international/" target="_blank"><i
                                         class="fab fa-linkedin-in"></i></a></li>
-                            <li><a href="https://wa.me/6389247000"><i class="fab fa-whatsapp"></i></a></li>
+                            <li><a href="https://wa.me/9012616969"><i class="fab fa-whatsapp"></i></a></li>
                             <li><a href="https://www.youtube.com/@omniinternationalschoolbas4622/featured" target="_blank"><i
                                         class="fab fa-youtube"></i></a></li>
                         </ul>

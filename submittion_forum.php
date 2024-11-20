@@ -9,7 +9,7 @@
         <meta name="description" content>
         <meta name="keywords" content>
 
-        <title>Omni International School</title>
+        <title>G.D. Goenka Public School</title>
 
         <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
         <script src="https://www.google.com/recaptcha/api.js" async defer></script>
@@ -113,7 +113,7 @@
 
                     //Recipients
                     $mail->setFrom($email, $firstname);
-                    $mail->addAddress('principal.omni@karmadevigroup.com'); // Principal's email
+                    $mail->addAddress('connect@gdgoenkabareilly.com'); // Principal's email
             
                     //Content
                     $mail->isHTML(true);

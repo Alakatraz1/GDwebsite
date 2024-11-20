@@ -9,7 +9,7 @@
         <meta name="description" content>
         <meta name="keywords" content>
 
-        <title>Omni International School</title>
+        <title>G.D. Goenka Public School</title>
 
         <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
 
@@ -80,7 +80,7 @@
                             <div class="site-heading text-center">
                                 <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Gallery</span>
                                 <h2 class="site-title">Our Photo <span>Gallery</span></h2>
-                                <p style="text-align:justify">Step into the world of Omni International School, Basti,
+                                <p style="text-align:justify">Step into the world of G.D. Goenka Public School, Bareilly,
                                     and witness the vibrant activities, memorable events, and achievements that define
                                     our school. Our Gallery showcases the dynamic experiences of our students, from
                                     academic excellence to extracurricular participation, cultural events, sports

@@ -9,7 +9,7 @@
         <meta name="description" content>
         <meta name="keywords" content>
 
-        <title>Omni International School</title>
+        <title>G.D. Goenka Public School</title>
 
         <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
 
@@ -61,7 +61,7 @@
                                 <h2 class="site-title" id="intro">Frequently Asked Questions <span>(FAQ)</span></h2>
                                 <p>We understand that the admission process can raise several questions. Below are some
                                     frequently asked questions to help guide you through the process of enrolling your
-                                    child at Omni International School, Basti.
+                                    child at G.D. Goenka Public School, Bareilly.
                                 </p>
 
 
@@ -295,7 +295,7 @@
                                     <div class="contact-form-header">
                                         <h2>Inquiry Form</h2>
                                         <p>Whether you have questions about admissions, our
-                                            curriculum, or anything else related to Omni International School, Basti,
+                                            curriculum, or anything else related to G.D. Goenka Public School, Bareilly,
                                             we’re here to help. You can now book a call with us, and we’ll get in touch
                                             at a time that’s convenient for you.</p>
                                     </div>

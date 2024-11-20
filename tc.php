@@ -9,7 +9,7 @@
         <meta name="description" content>
         <meta name="keywords" content>
 
-        <title>Omni International School</title>
+        <title>G.D. Goenka Public School</title>
 
         <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
 
@@ -59,7 +59,7 @@
                             <div class="terms-content">
 
                                 <p>
-                                At Omni International School, Basti, we ensure that all Transfer Certificates (TC) are issued and made available for download as per CBSE guidelines. This section allows parents and students to access their issued TC documents easily. You can find and download the relevant TC by clicking on the respective links below.
+                                At G.D. Goenka Public School, Bareilly, we ensure that all Transfer Certificates (TC) are issued and made available for download as per CBSE guidelines. This section allows parents and students to access their issued TC documents easily. You can find and download the relevant TC by clicking on the respective links below.
 
                                 </p>
                             </div>

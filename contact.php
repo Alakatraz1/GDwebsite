@@ -9,7 +9,7 @@
         <meta name="description" content>
         <meta name="keywords" content>
 
-        <title>Omni International School</title>
+        <title>G.D. Goenka Public School</title>
 
         <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
         <script src="https://www.google.com/recaptcha/api.js" async defer></script>
@@ -58,19 +58,23 @@
             </div>
 
             <style>
+                .contact-info{
+                    min-height: 251px !important;
+                }
                 .contact-info::before {
                     display: none
                 }
-                .contact-info:hover{
-                    box-shadow:10px 10px rgba(0,0,0,0.5);
-                }
-                .contact-info-icon{
-                    background:var(--theme-color2)
 
+                .contact-info:hover {
+                    box-shadow: 10px 10px rgba(0, 0, 0, 0.5);
                 }
-                .contact-info-icon::before{
+
+                .contact-info-icon {
+                    background: var(--theme-color2)
+                }
+
+                .contact-info-icon::before {
                     border: 3px solid var(--theme-color2)
-
                 }
             </style>
             <div class="contact-area py-120">
@@ -78,7 +82,7 @@
                     <div class="contact-content">
                         <div class="row">
                             <div class="col-md-3">
-                                <div class="contact-info" >
+                                <div class="contact-info">
                                     <div class="contact-info-icon"
                                         style="display:flex;justify-content:center;align-items:center;">
                                         <i class="fal fa-map-location-dot"></i>
@@ -88,7 +92,10 @@
                                         <h5>Campus:</h5>
                                         <p>
                                             <a href="https://maps.app.goo.gl/6r88tbYKXNigEZh7A" target="_blank">
-                                                Sansarpur, Phutahiya, Basti, U.P.
+                                                Near Rohilkhand University,
+                                                Dohra Road,
+                                                Bareilly,
+                                                U.P. 243001
                                             </a>
                                         </p>
                                     </div>
@@ -105,7 +112,7 @@
                                     </div>
                                     <div class="contact-info-content">
                                         <h5 style="color:white">Call Us</h5>
-                                        <p><a href="tel:+916389247000" style="color:white">+91 6389247000</a></p>
+                                        <p><a href="tel:+919012616969" style="color:white">+91 9012616969</a></p>
                                     </div>
 
                                 </div>
@@ -119,7 +126,7 @@
                                     <div class="contact-info-content">
                                         <h5 style="color:white">Email Us</h5>
                                         <p><a style="color:white"
-                                                href="mailto:principal.omni@karmadevigroup.com">principal.omni@karmadevigroup.com</a>
+                                                href="mailto:connect@gdgoenkabareilly.com">connect@gdgoenkabareilly.com</a>
                                         </p>
 
 
@@ -153,12 +160,11 @@
                                     <div class="contact-form-header">
                                         <h2>Get In Touch</h2>
                                         <p>We’d love to hear from you! Whether you have questions about admissions, our
-                                            curriculum, or anything else related to Omni International School, Basti,
+                                            curriculum, or anything else related to G.D. Goenka Public School, Bareilly,
                                             we’re here to help. You can now book a call with us, and we’ll get in touch
                                             at a time that’s convenient for you.</p>
                                     </div>
-                                    <form method="post" action="inquiery.php"
-                                        id="contact-form">
+                                    <form method="post" action="inquiery.php" id="contact-form">
                                         <div class="row">
                                             <div class="col-md-6">
                                                 <div class="form-group">
@@ -181,16 +187,17 @@
                                             <textarea name="message" cols="30" rows="5" class="form-control"
                                                 placeholder="Write Your Message"></textarea>
                                         </div>
-                                        <div style="display:flex;justify-content:center;align-items:center;flex-direction:column">
-                                        <div style="margin-bottom:10px">
-                                            <div class="g-recaptcha"
-                                                data-sitekey="6Ld1-XIqAAAAACtCCX4E5zrktzKmnTc_DR9T4CAJ"></div>
-                                        </div>
-                                        <button type="submit" class="theme-btn">Send
-                                            Message <i class="far fa-paper-plane"></i></button>
-                                        <div class="col-md-12 mt-3">
-                                            <div class="form-messege text-success"></div>
-                                        </div>
+                                        <div
+                                            style="display:flex;justify-content:center;align-items:center;flex-direction:column">
+                                            <div style="margin-bottom:10px">
+                                                <div class="g-recaptcha"
+                                                    data-sitekey="6Ld1-XIqAAAAACtCCX4E5zrktzKmnTc_DR9T4CAJ"></div>
+                                            </div>
+                                            <button type="submit" class="theme-btn">Send
+                                                Message <i class="far fa-paper-plane"></i></button>
+                                            <div class="col-md-12 mt-3">
+                                                <div class="form-messege text-success"></div>
+                                            </div>
                                         </div>
                                     </form>
                                 </div>

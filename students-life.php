@@ -9,7 +9,7 @@
         <meta name="description" content>
         <meta name="keywords" content>
 
-        <title>Omni International School</title>
+        <title>G.D. Goenka Public School</title>
 
         <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
 
@@ -99,7 +99,7 @@
                         </div>
                         <div class="my-4">
 
-                            <p>At Omni International School, Basti, we believe that education goes beyond the classroom.
+                            <p>At G.D. Goenka Public School, Bareilly, we believe that education goes beyond the classroom.
                                 Our Student Life program is designed to provide students with a well-rounded experience
                                 that nurtures not just their academic talents, but also their personal interests,
                                 leadership qualities, and social skills. Through a variety of clubs, sports, cultural
@@ -142,7 +142,7 @@
                                         <a href="#">Sports Program</a>
                                     </h4>
                                     <p>
-                                        Physical education is integral to student life at Omni International School. Our
+                                        Physical education is integral to student life at G.D. Goenka Public School. Our
                                         Sports Program offers students the opportunity to participate in a variety of
                                         <span class="more-text" style="display: none;">
                                             sports, including football, cricket, athletics, and badminton. Through
@@ -215,7 +215,7 @@
                                         <a href="#">Student Leadership</a>
                                     </h4>
                                     <p>
-                                        At Omni International School, we are committed to developing future leaders. Our
+                                        At G.D. Goenka Public School, we are committed to developing future leaders. Our
                                         Student Leadership programs provide students with opportunities to take on
                                         <span class="more-text" style="display: none;">
                                             responsibilities, whether through student council positions, event
@@ -242,7 +242,7 @@
                                         <a href="#">Summer Camp</a>
                                     </h4>
                                     <p>
-                                        At Omni International School, we prioritize the holistic development of our
+                                        At G.D. Goenka Public School, we prioritize the holistic development of our
                                         students through enriching summer camps. These programs offer a variety of
                                         <span class="more-text" style="display: none;">
                                             activities, including sports, arts, and science, allowing students to
@@ -288,7 +288,7 @@
                                 <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Student
                                     Life</span>
                                 <h2 class="site-title" id="intro">Student <span>Life</span></h2>
-                                <p>At Omni International School, Basti, we believe that education goes beyond the
+                                <p>At G.D. Goenka Public School, Bareilly, we believe that education goes beyond the
                                     classroom. Our Student Life program is designed to provide students with a
                                     well-rounded experience that nurtures not just their academic talents, but also
                                     their personal interests, leadership qualities, and social skills. Through a variety
@@ -305,7 +305,7 @@
                                 </p>
                                 <p>
                                 <h3>Sports Program</h3>
-                                Physical education is integral to student life at Omni International School. Our
+                                Physical education is integral to student life at G.D. Goenka Public School. Our
                                 Sports Program offers students the opportunity to participate in a variety of
                                 sports, including football, cricket, athletics, and badminton. Through structured
                                 training and competitions, students learn teamwork, discipline, and the importance
@@ -327,7 +327,7 @@
                                 </p>
                                 <p>
                                 <h3>Student Leadership</h3>
-                                At Omni International School, we are committed to developing future leaders. Our
+                                At G.D. Goenka Public School, we are committed to developing future leaders. Our
                                 Student Leadership programs provide students with opportunities to take on
                                 responsibilities, whether through student council positions, event management, or
                                 mentoring peers. Leadership development is a key component of preparing our students

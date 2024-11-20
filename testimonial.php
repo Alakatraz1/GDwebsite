@@ -8,7 +8,7 @@
 <meta name="description" content>
 <meta name="keywords" content>
 
-<title>Omni International School</title>
+<title>G.D. Goenka Public School</title>
 
 <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
 
@@ -57,7 +57,7 @@
 <div class="site-heading text-center">
 <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Testimonials</span>
 <h2 class="site-title">Read Our Success <span>Stories</span></h2>
-<p>At Omni International School, Basti, our students, parents, and alumni are our greatest advocates. Their experiences reflect the values, academic excellence, and nurturing environment that we strive to provide. Read below to see what members of our community have to say about their journey with us and how Omni International School has made a positive impact on their lives.</p>
+<p>At G.D. Goenka Public School, Bareilly, our students, parents, and alumni are our greatest advocates. Their experiences reflect the values, academic excellence, and nurturing environment that we strive to provide. Read below to see what members of our community have to say about their journey with us and how G.D. Goenka Public School has made a positive impact on their lives.</p>
 </div>
 </div>
 </div>

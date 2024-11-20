@@ -9,7 +9,7 @@
         <meta name="description" content>
         <meta name="keywords" content>
 
-        <title>Omni International School</title>
+        <title>G.D. Goenka Public School</title>
 
         <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
 
@@ -74,7 +74,7 @@
 
                             </div>
                         </div>
-                        <p style="text-align:justify;margin-bottom:30px">At Omni International School, Basti, we are
+                        <p style="text-align:justify;margin-bottom:30px">At G.D. Goenka Public School, Bareilly, we are
                             committed to providing our students with
                             a learning environment that is safe, modern, and conducive to both academic
                             excellence and personal growth. Our state-of-the-art facilities are designed to
