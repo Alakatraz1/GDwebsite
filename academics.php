@@ -460,7 +460,7 @@
                         <div class="col-md-6 col-lg-4">
                             <div class="club-item wow fadeInUp" data-wow-delay=".25s">
                                 <div class="club-img" style="display:flex;justify-content:center;align-items:center">
-                                    <img src="assets/img-custom/logo3.png" alt width="163px" height="310">
+                                    <img src="assets/gd/logo/logo2.png" alt width="163px" height="310">
                                 </div>
                                 <div class="club-content">
                                     <h3 class="club-title">

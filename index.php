@@ -2153,6 +2153,7 @@
 
                     </div>
                 </div>
+                </div>
 
                 <style>
                     .modal {
@@ -2205,7 +2206,7 @@
 
 
 
-                <div id="admissionModal" class="modal">
+                <div id="admissionModal" class="modal" >
                     <div class="modal-content">
                         <a href="application-form.php" >
                             <img src="assets/poster/GDG.jpg" alt="Admission Open Poster" style="width:100%;">
