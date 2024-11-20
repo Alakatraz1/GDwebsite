@@ -19,9 +19,7 @@
             background: rgb(1 1 1 / 72%) !important;
         }
 
-        .preloader {
-            background: var(--footer-bg) !important;
-        }
+        
 
         .dropdown-menu {
             background: #1c1b3b !important;

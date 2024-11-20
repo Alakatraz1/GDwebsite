@@ -15,7 +15,9 @@
         }
     }
     .preloader>img{
-            width:15%;
+            background-color: rgba(255,255,255,.5);
+            border-radius: 50%;
+            width:20%;
         }
     @media only screen and (max-width: 480px) {
         .preloader>img{
@@ -24,5 +26,5 @@
     }
 </style>
 <div class="preloader ">
-    <img src="assets/img-custom/logo3.webp" alt="Loading..." class="blinking-image" />
+    <img src="assets/gd/logo/logo2.png" alt="Loading..." class="blinking-image" />
 </div>

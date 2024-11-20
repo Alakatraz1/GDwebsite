@@ -408,11 +408,11 @@
 
                         <div class="col-lg-6">
                             <div class="choose-img wow fadeInRight" data-wow-delay=".25s">
-                                <img src="assets/img-custom/principal.jpeg" alt="">
+                                <img src="assets/gd/principalsquare.jpg" alt="">
                             </div>
                             <div class="mt-50 " style="display:flex;justify-content:center">
                                 <h6 class="site-title text-white mb-10" style="font-size:25px"><span>Principal
-                                    </span>Mr. Soumitra singh thakur</h6>
+                                    </span>Ms. Ranjeeta Rani</h6>
 
 
                             </div>

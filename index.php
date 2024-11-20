@@ -389,7 +389,7 @@
                                 <div class="about-img">
                                     <div class="row g-4">
                                         <div class="col-md-6">
-                                            <img class="img-1" src="assets/home/place1.webp" alt>
+                                            <img class="img-1" src="assets/gd/images/principal.jpg" alt>
                                             <div class="about-experience mt-4" style="background-color:var(--footer-bg)">
                                                 <div class="about-experience-icon">
                                                     <img src="assets/img/icon/exchange-idea.svg" alt>
@@ -1281,7 +1281,7 @@
                 </div>
             </div>
 
-            <div class="event-area bg pt-50 pb-120">
+            <div class="event-area bg pt-50 pb-120" style="background-color:#b9b9b9">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12 mx-auto">
@@ -1290,7 +1290,7 @@
                                     Enrolment</span>
                                 <h2 class="site-title">Secure Your Child’s Future with <br><span>G.D Goenka
                                         School!</span></h2>
-                                <p>Don't miss out on the opportunity to provide your child with a world-class education
+                                <p style="color:white">Don't miss out on the opportunity to provide your child with a world-class education
                                     in a nurturing and innovative environment. Enrollnow for the 2025-26 academic
                                     session and take the first step toward your child's bright future.</p>
                             </div>
