@@ -387,7 +387,7 @@
                                             6. Sibling Discount:
                                         </p>
                                         <li><i class="fas fa-check-circle"></i>A 10% discount on tuition fees will be
-                                            given to the second child of the same parent studying at Omni International
+                                            given to the second child of the same parent studying at G.D Goenka
                                             School.</li>
 
                                         <p>
@@ -593,7 +593,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-6">
-                                <div class="contact-info" style="background-color:#003d69">
+                                <div class="contact-info" style="background-color:var(--footer-bg)">
                                     <div class="contact-info-icon"
                                         style="display:flex;justify-content:center;align-items:center;">
                                         <i class="fal fa-envelopes"></i>

@@ -88,7 +88,7 @@
 
 
                 .table thead th {
-                    background-color: #003d69;
+                    background-color: var(--footer-bg);
                     /* Use your brand color */
                     color: white;
                     /* White text for contrast */
@@ -123,7 +123,7 @@
                 }
 
                 .table button {
-                    background-color: #003d69;
+                    background-color: var(--footer-bg);
                     border-radius: 10px;
                     border: none;
                     padding: 10px;

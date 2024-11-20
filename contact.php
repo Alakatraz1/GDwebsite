@@ -58,9 +58,10 @@
             </div>
 
             <style>
-                .contact-info{
+                .contact-info {
                     min-height: 251px !important;
                 }
+
                 .contact-info::before {
                     display: none
                 }
@@ -91,7 +92,7 @@
                                     <div class="contact-info-content">
                                         <h5>Campus:</h5>
                                         <p>
-                                            <a href="https://maps.app.goo.gl/6r88tbYKXNigEZh7A" target="_blank">
+                                            <a href="https://maps.app.goo.gl/Y7EmAFKBJ3cor7gx5" target="_blank">
                                                 Near Rohilkhand University,
                                                 Dohra Road,
                                                 Bareilly,
@@ -112,13 +113,13 @@
                                     </div>
                                     <div class="contact-info-content">
                                         <h5 style="color:white">Call Us</h5>
-                                        <p><a href="tel:+919012616969" style="color:white">+91 9012616969</a></p>
+                                        <p><a href="tel:9012616969" style="color:white">+91 9012616969</a></p>
                                     </div>
 
                                 </div>
                             </div>
                             <div class="col-md-3">
-                                <div class="contact-info" style="background-color:#003d69">
+                                <div class="contact-info" style="background-color:var(--footer-bg)">
                                     <div class="contact-info-icon"
                                         style="display:flex;justify-content:center;align-items:center;">
                                         <i class="fal fa-envelopes"></i>
@@ -210,7 +211,7 @@
 
             <div class="contact-map">
                 <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3561.839633079994!2d82.69385871060011!3d26.78138137662857!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3990c576cf183ef3%3A0x5151b2561df802d6!2sOmni%20international%20school!5e0!3m2!1sen!2sin!4v1729926236608!5m2!1sen!2sin"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28085.44998718249!2d79.43277235805182!3d28.368484963951822!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39a000deaaaaaaad%3A0x6b4b8b57ad055c99!2sG.D.%20Goenka%20Public%20School%2C%20Bareilly!5e0!3m2!1sen!2sin!4v1732083064715!5m2!1sen!2sin"
                     style="border:0;" allowfullscreen loading="lazy"
                     referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>

@@ -1,7 +1,7 @@
 <footer class="footer-area">
     <div class="footer-shape">
-        <img src="assets/gd/logo/logo1.webp" alt
-            style="display:flex;justify-content:center;align-items:center;width:100%">
+        <img src="assets/gd/logo/logo2.png" alt
+            style="display:flex;justify-content:center;align-items:center;">
     </div>
     <div class="footer-widget">
         <div class="container">
@@ -18,10 +18,9 @@
                             education.
                         </p>
                         <ul class="footer-contact">
-                            <li><a href="tel:+21236547898"><i class="far fa-phone"
+                            <li><a href="tel:9012616969"><i class="far fa-phone"
                                         style="background-color:#3db2d5"></i>+91 9012616969</a></li>
-                            <li><i class="far fa-map-marker-alt" style="background-color:#116E63"></i>Sansarpur,
-                                Phutahiya, Bareilly, U.P.</li>
+                            <li><i class="far fa-map-marker-alt" style="background-color:#116E63"></i>Near Rohilkhand University,Dohra Road, Bareilly, U.P.</li>
                             <li><a href="mailto:connect@gdgoenkabareilly.com"><i
                                         class="far fa-envelope" style="background-color:#ff002a"></i><span>connect@gdgoenkabareilly.com
 
@@ -90,19 +89,19 @@
                     </div>
                     <style>
                         .footer-social li a i{
-                            color: #003d69;
+                            color: var(--footer-bg);
                         }
                     </style>
                     <div class="col-md-6 align-self-center">
                         <ul class="footer-social">
-                            <li><a href="https://www.facebook.com/omniinternationalschool/" target="_blank"><i
+                            <li><a href="https://www.facebook.com/GDGoenkaBareilly/" target="_blank"><i
                                         class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="https://www.instagram.com/omniintschool/" target="_blank"><i class="fab fa-instagram"></i></a>
+                            <li><a href="https://www.instagram.com/gdgoenkabareilly/" target="_blank"><i class="fab fa-instagram"></i></a>
                             </li>
-                            <li><a href="https://www.linkedin.com/company/school-omni-international/" target="_blank"><i
+                            <li><a href="#" target="_blank"><i
                                         class="fab fa-linkedin-in"></i></a></li>
-                            <li><a href="https://wa.me/9012616969"><i class="fab fa-whatsapp"></i></a></li>
-                            <li><a href="https://www.youtube.com/@omniinternationalschoolbas4622/featured" target="_blank"><i
+                            <li><a href="#"><i class="fab fa-whatsapp"></i></a></li>
+                            <li><a href="https://www.youtube.com/@GDGOENKABAREILLY" target="_blank"><i
                                         class="fab fa-youtube"></i></a></li>
                         </ul>
                     </div>

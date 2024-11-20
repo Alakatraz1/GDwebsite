@@ -186,7 +186,7 @@
                                 <div class="feature-item" style="background-color:#ff002a">
                                     <span class="count">02</span>
                                     <div class="feature-icon"
-                                        style="display:flex;justify-content:center;background-color:#003d69">
+                                        style="display:flex;justify-content:center;background-color:var(--footer-bg)">
                                         <img src="assets/img/icon/teacher.svg" alt>
                                     </div>
                                     <div class="feature-content">
@@ -200,7 +200,7 @@
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-3">
-                                <div class="feature-item" style="background-color:#003d69">
+                                <div class="feature-item" style="background-color:var(--footer-bg)">
                                     <span class="count">03</span>
                                     <div class="feature-icon"
                                         style="display:flex;justify-content:center;background-color:#3db2d5">
@@ -390,7 +390,7 @@
                                     <div class="row g-4">
                                         <div class="col-md-6">
                                             <img class="img-1" src="assets/home/place1.webp" alt>
-                                            <div class="about-experience mt-4" style="background-color:#003d69">
+                                            <div class="about-experience mt-4" style="background-color:var(--footer-bg)">
                                                 <div class="about-experience-icon">
                                                     <img src="assets/img/icon/exchange-idea.svg" alt>
                                                 </div>
@@ -430,7 +430,7 @@
                                     .read-more-btn {
                                         background: none;
                                         border: none;
-                                        color: #FDA31B;
+                                        color: red;
                                         /* Matches the user's preferred color */
                                         cursor: pointer;
                                         font-weight: bold;
@@ -474,7 +474,7 @@
                                                 <div class="about-item-content">
                                                     <h5>Leading with Innovation and Integrity.</h5>
                                                     <p>
-                                                        Our CEO outlines the strategic direction of Omni International
+                                                        Our CEO outlines the strategic direction of G.D Goenka
                                                         School, focusing on delivering a modern, innovative,
                                                         <span class="more-text" style="display: none;">
                                                             and value-based education that prepares students for the
@@ -574,7 +574,7 @@
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <div class="counter-box">
-                                <div class="icon" style="background-color:#003d69">
+                                <div class="icon" style="background-color:var(--footer-bg)">
                                     <img src="assets/img/icon/teacher-2.svg" alt>
                                 </div>
                                 <div>
@@ -992,7 +992,7 @@
                                                 </div>
                                             </div>
                                             <div class="col-md-6">
-                                                <div class="choose-item" style="background-color:#003d69">
+                                                <div class="choose-item" style="background-color:var(--footer-bg)">
                                                     <div class="choose-item-icon"
                                                         style="display:flex;justify-content:end;align-items:center;">
                                                         <img src="assets/img/icon/online-course.svg" alt>
@@ -1049,7 +1049,7 @@
             </style>
 
 
-            <div class="gallery-area py-120">
+            <div class="gallery-area py-120" style="display:none">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6 mx-auto">
@@ -1286,16 +1286,16 @@
                             <div class="site-heading text-center">
                                 <span class="site-title-tagline"><i class="far fa-book-open-reader"></i>
                                     Enrolment</span>
-                                <h2 class="site-title">Secure Your Child’s Future with <br><span>Omni International
+                                <h2 class="site-title">Secure Your Child’s Future with <br><span>G.D Goenka
                                         School!</span></h2>
                                 <p>Don't miss out on the opportunity to provide your child with a world-class education
-                                    in a nurturing and innovative environment. Enrol now for the 2025-26 academic
+                                    in a nurturing and innovative environment. Enrollnow for the 2025-26 academic
                                     session and take the first step toward your child's bright future.</p>
                             </div>
                         </div>
                     </div>
                     <div style="display:flex;justify-content:center;align-items:center;">
-                        <a href="application-form.php" class="theme-btn" style="padding: 14px 100px;">Enrol Now<i
+                        <a href="application-form.php" class="theme-btn" style="padding: 14px 100px;">EnrollNow<i
                                 class="fas fa-arrow-right-long"></i></a>
                     </div>
                 </div>
@@ -1357,7 +1357,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <a href="application-form.php" class="theme-btn mt-5">Enrol Now<i
+                                        <a href="application-form.php" class="theme-btn mt-5">EnrollNow<i
                                                 class="fas fa-arrow-right-long"></i></a>
                                     </div>
                                 </div>
@@ -1410,7 +1410,7 @@
                         }
 
                         .department-item2 {
-                            background-color: #003d69;
+                            background-color: var(--footer-bg);
 
                         }
 
@@ -1425,7 +1425,7 @@
                         }
 
                         .department-item2::before {
-                            border-color: #003d69;
+                            border-color: var(--footer-bg);
                             /* Custom color for Item 2 */
                         }
 
@@ -1687,7 +1687,7 @@
                 }
 
                 .faq2 {
-                    background-color: #003d69 !important;
+                    background-color: var(--footer-bg) !important;
 
                 }
 
@@ -1697,7 +1697,7 @@
                 }
             </style>
 
-            <div class="faq-area py-120">
+            <div class="faq-area py-120" style="display:none">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6">
@@ -1936,7 +1936,7 @@
                     padding-left: 10px;
                     padding-top: 10px;
                     padding-bottom: 10px;
-                    border: 4px solid #003d69;
+                    border: 4px solid var(--footer-bg);
                     border-radius: 3px
                 }
 
@@ -2023,7 +2023,7 @@
                 </div>
             </div>
 
-            <div class="event-area bg py-120" id="partner">
+            <div class="event-area bg py-120" id="partner" style="display:none">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12 mx-auto">
@@ -2079,7 +2079,7 @@
                         /* Container for the entire slider */
                     </style>
 
-                    <div class="custom-css event-slider owl-carousel owl-theme ">
+                    <div class="custom-css event-slider owl-carousel owl-theme " style="display:none">
 
                         <div class="event-item">
 

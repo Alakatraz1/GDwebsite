@@ -12,15 +12,15 @@
 
 
         .header-top {
-            background: #003d69;
+            background: rgb(1 1 1 / 72%);
         }
 
         .header-top-social a {
-            background: #003d69 !important;
+            background: rgb(1 1 1 / 72%) !important;
         }
 
         .preloader {
-            background: #003d69 !important;
+            background: var(--footer-bg) !important;
         }
 
         .dropdown-menu {
@@ -45,7 +45,7 @@
             style="background-color:#1c1b3b;top:0px;--box-shadow-none:0 0 15px rgba(0,0,0,0);;box-shadow:var(--box-shadow-none)!important; ">
             <div class="container position-relative" style="display:flex;justify-content:center">
                 <a class="navbar-brand" href="index.php">
-                    <img src="assets/gd/logo/logo1.webp" alt="logo" style=" width:400px !important">
+                    <img src="assets/gd/logo/logo1.webp" alt="logo" style=" width:400px !important;height:60px;">
                 </a>
             </div>
     </div>
@@ -69,12 +69,12 @@
         }
 
         .site-breadcrumb {
-            background-image: url(assets/home/alltop.jpg) !important;
+            background-image: url(assets/home/alltop.webp) !important;
         }
 
         @media only screen and (max-width: 768px) {
             .site-breadcrumb {
-                background-image: url(assets/home/alltop.webp) !important;
+                background-image: url(assets/home/smallalltop.jpg) !important;
             }
         }
     </style>
@@ -92,7 +92,7 @@
                     <div class="header-top-contact">
                         <ul>
                             <li>
-                                <a href="https://maps.app.goo.gl/6r88tbYKXNigEZh7A" target="_blank"><i
+                                <a href="https://maps.app.goo.gl/Y7EmAFKBJ3cor7gx5" target="_blank"><i
                                         class="far fa-location-dot"></i>
                                     Campus: Near Rohilkhand University,Dohra Road,
                                     Bareilly,
@@ -104,7 +104,7 @@
                                     </span></a>
                             </li>
                             <li>
-                                <a href="tel:+919012616969"><i class="far fa-phone-volume"></i> +91 9012616969</a>
+                                <a href="tel:9012616969"><i class="far fa-phone-volume"></i> +91 9012616969</a>
                             </li>
                         </ul>
                     </div>
@@ -112,20 +112,18 @@
                 <div class="header-top-left">
                     <div class="header-top-social" style="display:flex;justify-content:center;align-items:start;">
 
-                        <a href="https://www.facebook.com/omniinternationalschool/"
+                        <a href="https://www.facebook.com/GDGoenkaBareilly/"
                             style="display:flex;justify-content:center;align-items:center;" target="_blank"><i
                                 class="fab fa-facebook-f"></i></a>
-                        <a href="https://www.instagram.com/omniintschool/"
+                        <a href="https://www.instagram.com/gdgoenkabareilly/"
                             style="display:flex;justify-content:center;align-items:center;" target="_blank"><i
                                 class="fab fa-instagram"></i></a>
-                        <a href="https://www.youtube.com/@omniinternationalschoolbas4622/featured"
+                        <a href="https://www.youtube.com/@GDGOENKABAREILLY"
                             style="display:flex;justify-content:center;align-items:center;" target="_blank"><i
                                 class="fab fa-youtube"></i></a>
-                        <a href="https://www.linkedin.com/company/school-omni-international/"
-                            style="display:flex;justify-content:center;align-items:center;" target="_blank"><i
+                        <a href="#" style="display:flex;justify-content:center;align-items:center;" target="_blank"><i
                                 class="fab fa-linkedin"></i></a>
-                        <a href="https://wa.me/9012616969"
-                            style="display:flex;justify-content:center;align-items:center;" target="_blank"><i
+                        <a href="#" style="display:flex;justify-content:center;align-items:center;" target="_blank"><i
                                 class="fab fa-whatsapp"></i></a>
                     </div>
                 </div>
@@ -137,10 +135,31 @@
             opacity: .3 !important;
         }
 
+        .fa-bars:before,
+        .fa-navicon:before {
+            color: white;
+            content: "\f0c9";
+        }
+
         #heightmax {
             max-height: 54px !important;
 
         }
+
+        @media(max-width:800px) {
+            .navbar {
+                background-color: var(--footer-bg) !important;
+            }
+
+            .navbar.fixed-top {
+                background-color: var(--footer-bg) !important;
+            }
+        }
+
+        .hidethis .navbar.navbar-expand-lg.fixed-top {
+            background-color: var(--footer-bg) !important;
+        }
+
 
         @media only screen and (max-width: 1000px) {
 
@@ -151,7 +170,9 @@
                 max-height: none !important;
             }
 
-            .nav-link {}
+            
+
+
 
             .navbar .nav-item .nav-link {
                 margin-right: 0px;
@@ -168,7 +189,7 @@
         <nav class="navbar navbar-expand-lg">
             <div class="container position-relative" id="heightmax">
                 <a class="navbar-brand showthis" href="index.php">
-                    <img src="assets/gd/logo/logo1.webp" alt="logo" style=" width:250px !important">
+                    <img src="assets/gd/logo/logo1.webp" alt="logo" style=" width:250px !important;">
                 </a>
                 <div class="mobile-menu-right">
 
@@ -281,7 +302,8 @@
 
 
                                 <li><a class="dropdown-item" href="m-p-ds.php">Mandatory Public Disclosers</a></li>
-                                <li ><a class="dropdown-item" href="https://forms.edunexttechnologies.com/website-service/gdgbareilly/transfer-certificate/">Transfer
+                                <li><a class="dropdown-item"
+                                        href="https://forms.edunexttechnologies.com/website-service/gdgbareilly/transfer-certificate/">Transfer
                                         Certificates(T.C.)</a></li>
 
 
@@ -426,7 +448,8 @@
 
 
                                 <li><a class="dropdown-item" href="m-p-ds.php">Mandatory Public Disclosers</a></li>
-                                <li ><a class="dropdown-item" href="https://forms.edunexttechnologies.com/website-service/gdgbareilly/transfer-certificate/">Transfer
+                                <li><a class="dropdown-item"
+                                        href="https://forms.edunexttechnologies.com/website-service/gdgbareilly/transfer-certificate/">Transfer
                                         Certificates(T.C.)</a></li>
 
 

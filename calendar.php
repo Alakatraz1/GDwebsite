@@ -66,7 +66,7 @@
         .calendar-grid .day-name {
             font-weight: bold;
             color: #FFF;
-            background-color: #003d69;
+            background-color: var(--footer-bg);
         }
         .calendar-grid .date-cell {
             cursor: pointer;
@@ -183,14 +183,14 @@
                     border-radius: 0px 10px 10px 0px;
                 }
                 .thead-light th{
-                    background: #003d69 !important;
+                    background: var(--footer-bg) !important;
                     color: #fff;
                     padding-top: 15px;
                     padding-bottom: 15px;
                     
                 }
                 .form-control{
-                    background-color: #003d69;
+                    background-color: var(--footer-bg);
                     color: white;
                     
                 }
@@ -199,7 +199,7 @@
                     color: #116E63;
                 }
                 .form-control option{
-                    background-color: #003d69;
+                    background-color: var(--footer-bg);
                     color: white;
                 }
                 .calendar-nav button{

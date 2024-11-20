@@ -73,7 +73,7 @@
                 .read-more-btn {
                     background: none;
                     border: none;
-                    color: #FDA31B;
+                    color: red;
                     /* Matches the user's preferred color */
                     cursor: pointer;
                     font-weight: bold;
@@ -127,7 +127,7 @@
                             }
 
                             .blog-item2 {
-                                background-color: #003d69;
+                                background-color: var(--footer-bg);
                             }
 
                             .blog-item3 {

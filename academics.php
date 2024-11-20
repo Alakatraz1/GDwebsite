@@ -91,7 +91,7 @@
                         }
 
                         .pricing-header-content>h2 {
-                            color: #FDA31B !important;
+                            color: white;
                         }
 
                         .pricing-icon {
@@ -127,7 +127,7 @@
                         </div>
                         <div class="col-md-6 col-lg-4">
                             <div class="pricing-item    wow fadeInDown" data-wow-delay=".25s"
-                                style="background-color:#003d69;color:white;">
+                                style="background-color:var(--footer-bg);color:white;">
                                 <div class="pricing-header">
                                     <div class="pricing-icon">
                                         <img src="assets/img/icon/course-material.svg" alt>
@@ -389,7 +389,7 @@
                         .read-more-btn {
                             background: none;
                             border: none;
-                            color: #FDA31B;
+                            color: red;
                             /* Matches the user's preferred color */
                             cursor: pointer;
                             font-weight: bold;

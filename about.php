@@ -25,7 +25,7 @@
                 overflow-y: hidden;
             }
             .feature-icon{
-                background:var(--theme-color2)
+                background: #a46a3759;
             }
             .feature-item .count {
                 -webkit-text-stroke: 2px var(--theme-color2) !important !important;
@@ -123,7 +123,7 @@
                         </div>
                         <div class="col-md-6 col-lg-3">
                             <div class="feature-item wow fadeInUp feature-item1" data-wow-delay=".25s"
-                                style="background-color:#003d69;">
+                                style="background-color:var(--footer-bg);">
                                 <span class="count" style="-webkit-text-stroke: 2px var(--theme-color2);">03</span>
                                 <div class="feature-icon"
                                     style="display:flex;justify-content:center;align-items:center;">
@@ -379,7 +379,7 @@
                                                 </div>
                                             </div>
                                             <div class="col-md-6">
-                                                <div class="choose-item" style="background-color:#003d69;">
+                                                <div class="choose-item" style="background-color:var(--footer-bg);">
                                                     <div class="choose-item-icon">
                                                         <img src="assets/img/icon/online-course.svg" alt="">
                                                     </div>
@@ -471,7 +471,7 @@
                         .read-more-btn {
                             background: none;
                             border: none;
-                            color: #FDA31B;
+                            color: red;
                             /* Matches the user's preferred color */
                             cursor: pointer;
                             font-weight: bold;
@@ -484,7 +484,7 @@
                         }
 
                         .department-item2::before {
-                            border-color: #003d69;
+                            border-color: var(--footer-bg);
                             /* Custom color for Item 2 */
                         }
 

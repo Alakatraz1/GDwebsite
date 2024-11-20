@@ -112,7 +112,7 @@
 
                                 <ul class="terms-list ms-4">
                                     <li style="list-style:disc">When required by law or to protect the rights and safety
-                                        of Omni International
+                                        of G.D Goenka
                                         School.
                                     </li>
                                     <li style="list-style:disc">With trusted service providers who help us manage and

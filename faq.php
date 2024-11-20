@@ -79,7 +79,7 @@
                 }
 
                 .faq2{
-                    background-color: #003d69 !important;
+                    background-color: var(--footer-bg) !important;
                     
                 }
 
