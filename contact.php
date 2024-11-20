@@ -22,9 +22,9 @@
         <link rel="stylesheet" href="assets/css/style.css">
     </head>
     <style>
-        body {
-            overflow-y: hidden;
-        }
+    body {
+        overflow-y: hidden;
+    }
     </style>
 
     <body>
@@ -58,25 +58,25 @@
             </div>
 
             <style>
-                .contact-info {
-                    min-height: 251px !important;
-                }
+            .contact-info {
+                min-height: 251px !important;
+            }
 
-                .contact-info::before {
-                    display: none
-                }
+            .contact-info::before {
+                display: none
+            }
 
-                .contact-info:hover {
-                    box-shadow: 10px 10px rgba(0, 0, 0, 0.5);
-                }
+            .contact-info:hover {
+                box-shadow: 10px 10px rgba(0, 0, 0, 0.5);
+            }
 
-                .contact-info-icon {
-                    background: #35353554;
-                }
+            .contact-info-icon {
+                background: #35353554;
+            }
 
-                .contact-info-icon::before {
-                    border: 3px solid var(--theme-color2)
-                }
+            .contact-info-icon::before {
+                border: 3px solid var(--theme-color2)
+            }
             </style>
             <div class="contact-area py-120">
                 <div class="container">
@@ -100,33 +100,30 @@
                                             </a>
                                         </p>
                                     </div>
-
-
-
                                 </div>
                             </div>
                             <div class="col-md-3">
-                                <div class="contact-info" style="background-color:#ff002a">
+                                <div class="contact-info" style="background-color:#FFB6C1">
                                     <div class="contact-info-icon"
                                         style="display:flex;justify-content:center;align-items:center;">
                                         <i class="fal fa-phone-volume"></i>
                                     </div>
                                     <div class="contact-info-content">
-                                        <h5 style="color:white">Call Us</h5>
+                                        <h5 style="color:F0F8FF">Call Us</h5>
                                         <p><a href="tel:9012616969" style="color:white">+91 9012616969</a></p>
                                     </div>
 
                                 </div>
                             </div>
                             <div class="col-md-3">
-                                <div class="contact-info" style="background-color:var(--footer-bg)">
+                                <div class="contact-info" style="background-color:#DB7093">
                                     <div class="contact-info-icon"
                                         style="display:flex;justify-content:center;align-items:center;">
                                         <i class="fal fa-envelopes"></i>
                                     </div>
                                     <div class="contact-info-content">
-                                        <h5 style="color:white">Email Us</h5>
-                                        <p><a style="color:white"
+                                        <h5 style="color:F0F8FF">Email Us</h5>
+                                        <p><a style="color:F0F8FF"
                                                 href="mailto:connect@gdgoenkabareilly.com">connect@gdgoenkabareilly.com</a>
                                         </p>
 
@@ -135,15 +132,15 @@
                                 </div>
                             </div>
                             <div class="col-md-3">
-                                <div class="contact-info" style="background-color:#3db2d5">
+                                <div class="contact-info" style="background-color:#20B2AA">
                                     <div class="contact-info-icon"
                                         style="display:flex;justify-content:center;align-items:center;">
                                         <i class="fal fa-alarm-clock"></i>
                                     </div>
                                     <div class="contact-info-content">
-                                        <h5 style="color:white">Open Time</h5>
-                                        <p style="color:white">Mon - Fri (09.00AM - 04.00PM)</p>
-                                        <p style="color:white">Saturday (09.00AM - 01.00PM)</p>
+                                        <h5 style="color:F0F8FF">Open Time</h5>
+                                        <p style="color:F0F8FF">Mon - Fri (09.00AM - 04.00PM)</p>
+                                        <p style="color:F0F8FF">Saturday (09.00AM - 01.00PM)</p>
                                     </div>
                                 </div>
                             </div>
@@ -160,9 +157,14 @@
                                 <div class="contact-form">
                                     <div class="contact-form-header">
                                         <h2>Get In Touch</h2>
-                                        <p>We’d love to hear from you! Whether you have questions about admissions, our
-                                            curriculum, or anything else related to G.D. Goenka Public School, Bareilly,
-                                            we’re here to help. You can now book a call with us, and we’ll get in touch
+                                        <p>We’d love to hear from you! Whether you have questions about
+                                            admissions,
+                                            our
+                                            curriculum, or anything else related to G.D. Goenka Public School,
+                                            Bareilly,
+                                            we’re here to help. You can now book a call with us, and we’ll get
+                                            in
+                                            touch
                                             at a time that’s convenient for you.</p>
                                     </div>
                                     <form method="post" action="inquiery.php" id="contact-form">
@@ -192,7 +194,8 @@
                                             style="display:flex;justify-content:center;align-items:center;flex-direction:column">
                                             <div style="margin-bottom:10px">
                                                 <div class="g-recaptcha"
-                                                    data-sitekey="6Ld1-XIqAAAAACtCCX4E5zrktzKmnTc_DR9T4CAJ"></div>
+                                                    data-sitekey="6Ld1-XIqAAAAACtCCX4E5zrktzKmnTc_DR9T4CAJ">
+                                                </div>
                                             </div>
                                             <button type="submit" class="theme-btn">Send
                                                 Message <i class="far fa-paper-plane"></i></button>
