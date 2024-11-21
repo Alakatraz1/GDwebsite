@@ -300,7 +300,7 @@
 
 
 
-                                <li><a class="dropdown-item" href="m-p-ds.php">Mandatory Public Disclosers</a></li>
+                                <li style="display:none"><a class="dropdown-item" href="m-p-ds.php">Mandatory Public Disclosers</a></li>
                                 <li><a class="dropdown-item"
                                         href="https://forms.edunexttechnologies.com/website-service/gdgbareilly/transfer-certificate/">Transfer
                                         Certificates(T.C.)</a></li>
@@ -447,7 +447,7 @@
 
 
 
-                                <li><a class="dropdown-item" href="m-p-ds.php">Mandatory Public Disclosers</a></li>
+                                <li style="display:none"><a class="dropdown-item" href="m-p-ds.php">Mandatory Public Disclosers</a></li>
                                 <li><a class="dropdown-item"
                                         href="https://forms.edunexttechnologies.com/website-service/gdgbareilly/transfer-certificate/">Transfer
                                         Certificates(T.C.)</a></li>

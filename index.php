@@ -62,7 +62,7 @@
         </div>
 
         <!-- Fixed Circle -->
-        
+
 
         <main class="main">
 
@@ -77,7 +77,8 @@
                                             <i class="far fa-book-open-reader"></i>G.D. Goenka School
                                         </h6>
                                         <h1 class="hero-title" data-animation="fadeInRight" data-delay=".50s">
-                                        Welcome to <span>G.D. Goenka Bareilly</span>, where excellence meets opportunity
+                                            Welcome to <span>G.D. Goenka Bareilly</span>, where excellence meets
+                                            opportunity
                                         </h1 style="font-size">
                                         <p data-animation="fadeInLeft" data-delay=".75s" style="text-align:justify">
                                             Unlock your child’s full potential with a world-class education in a
@@ -106,9 +107,9 @@
                                             <i class="far fa-book-open-reader"></i>G.D. Goenka School
                                         </h6>
                                         <h1 class="hero-title" data-animation="fadeInRight" data-delay=".50s">
-                                            Unlock your child’s potential with <span>world-class education</span> and a
-                                            nurturing environment.
-                                        </h1>
+                                            Welcome to <span>G.D. Goenka Bareilly</span>, where excellence meets
+                                            opportunity
+                                        </h1 style="font-size">
                                         <p data-animation="fadeInLeft" data-delay=".75s" style="text-align:justify">
                                             Unlock your child’s full potential with a world-class education in a
                                             nurturing and supportive environment. At G.D. Goenka Public School,
@@ -136,9 +137,9 @@
                                             <i class="far fa-book-open-reader"></i>G.D. Goenka School
                                         </h6>
                                         <h1 class="hero-title" data-animation="fadeInRight" data-delay=".50s">
-                                            Unlock your child’s potential with <span>world-class education</span> and a
-                                            nurturing environment.
-                                        </h1>
+                                            Welcome to <span>G.D. Goenka Bareilly</span>, where excellence meets
+                                            opportunity
+                                        </h1 style="font-size">
                                         <p data-animation="fadeInLeft" data-delay=".75s" style="text-align:justify">
                                             Unlock your child’s full potential with a world-class education in a
                                             nurturing and supportive environment. At G.D. Goenka Public School,
@@ -239,8 +240,8 @@
                                         <p>Join our learning community! Learn more about
                                             our admission process and how
                                             to enroll your child for the upcoming academic session.</p>
-                                        <a href="application-form.php" class="theme-btn" style="margin-top:10px;">Apply Now<i
-                                                class="fas fa-arrow-right-long"></i></a>
+                                        <a href="application-form.php" class="theme-btn" style="margin-top:10px;">Apply
+                                            Now<i class="fas fa-arrow-right-long"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -471,7 +472,8 @@
                                                         educational experience that nurtures independent thinkers,
                                                         <span class="more-text" style="display: none;">
                                                             compassionate leaders, and lifelong learners. His message
-                                                            reflects the guiding principles that shape G.D. Goenka Bareilly mission to build a better future
+                                                            reflects the guiding principles that shape G.D. Goenka
+                                                            Bareilly mission to build a better future
                                                             through education.
                                                         </span>
                                                         <button class="read-more-btn"
@@ -541,7 +543,7 @@
                                                 class="fal fa-headset"></i></div>
                                         <div class="number">
                                             <span>Call Now</span>
-                                            <h6><a href="tel:+21236547898">+91 9012616969</a></h6>
+                                            <h6><a href="tel:9012616969">+91 9012616969</a></h6>
                                         </div>
                                     </div>
                                 </div>
@@ -1159,7 +1161,8 @@
                                     <p>We are excited to offer an Early Bird Discount for admissions in the 2025-26
                                         academic session. Secure your child's spot and enjoy special savings by
                                         completing the registration early. Don't miss this
-                                        opportunity to provide your child with a world-class education at G.D. Goenka Bareilly!</p>
+                                        opportunity to provide your child with a world-class education at G.D. Goenka
+                                        Bareilly!</p>
                                     <div class="cta-btn">
                                         <a href="application-form.php" class="theme-btn">Register Now<i
                                                 class="fas fa-arrow-right-long"></i></a>
@@ -1193,10 +1196,12 @@
                         .event-title {
                             margin-top: 20px;
                         }
-                        #home-event.event-area .event-item{
+
+                        #home-event.event-area .event-item {
                             background-color: #d4d0d0;
                         }
-                        #home-event.event-area p{
+
+                        #home-event.event-area p {
                             color: black;
                         }
                     </style>
@@ -1238,7 +1243,7 @@
 
 
 
-                        
+
                     </div>
                 </div>
             </div>
@@ -1510,7 +1515,8 @@
                                 <p class="text-white">At G.D. Goenka Public School, Bareilly, our students, parents, and
                                     alumni are our greatest advocates. Their experiences reflect the values, academic
                                     excellence, and nurturing environment that we strive to provide. Read below to see
-                                    what members of our community have to say about their journey with us and how G.D. Goenka Bareilly has made a positive impact on their lives.
+                                    what members of our community have to say about their journey with us and how G.D.
+                                    Goenka Bareilly has made a positive impact on their lives.
 
                                 </p>
                             </div>
