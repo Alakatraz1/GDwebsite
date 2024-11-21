@@ -101,7 +101,7 @@
                                     </div>
                                 </div>
                                 <div class="pricing-feature">
-                                    <p style="margin-bottom:20px;text-align:justify">
+                                    <p style="margin-bottom:20px;text-align:justify;color:white">
                                         The fee structure for classes III to XII is designed to provide comprehensive
                                         educational opportunities while maintaining transparency. It includes
                                         registration, admission, and annual charges, along with a composite monthly fee.
