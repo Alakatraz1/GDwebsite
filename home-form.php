@@ -104,7 +104,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         // Recipients
         $mail->setFrom($email, $name);
-        $mail->addAddress('principal.omni@karmadevigroup.com'); // Recipient email
+        $mail->addAddress('connect@gdgoenkabareilly.com'); // Recipient email
 
         // Content
         $mail->isHTML(true);
