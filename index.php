@@ -159,7 +159,7 @@
         <div id="enquiry-form">
             <h2>Contact Us</h2>
             <p>Please fill out the form below and we will get back to you.</p>
-            <form>
+            <form action="home-form.php" method="post">
                 <label for="name">* Name</label>
                 <input type="text" id="name" name="name" required>
 
@@ -330,7 +330,7 @@
                                         <p>Discover our state-of-the-art facilities that
                                             provide a safe, modern, and
                                             enriching environment for students to learn, play, and grow.</p>
-                                        <a href="facility.php" class="theme-btn" style="margin-top:10px;">Explore More<i
+                                        <a href="about.php" class="theme-btn" style="margin-top:10px;">Explore More<i
                                                 class="fas fa-arrow-right-long"></i></a>
                                     </div>
                                 </div>
@@ -347,7 +347,7 @@
                                         <p>Engage in a vibrant student life filled with
                                             clubs, sports, cultural
                                             activities, and leadership opportunities that foster holistic growth.</p>
-                                        <a href="students-life.php" class="theme-btn" style="margin-top:10px;">Discover
+                                        <a href="about.php" class="theme-btn" style="margin-top:10px;">Discover
                                             More<i class="fas fa-arrow-right-long"></i></a>
                                     </div>
                                 </div>
@@ -363,7 +363,7 @@
                                         <p>Join our learning community! Learn more about
                                             our admission process and how
                                             to enroll your child for the upcoming academic session.</p>
-                                        <a href="admission.php" class="theme-btn" style="margin-top:10px;">Apply Now<i
+                                        <a href="application-form.php" class="theme-btn" style="margin-top:10px;">Apply Now<i
                                                 class="fas fa-arrow-right-long"></i></a>
                                     </div>
                                 </div>

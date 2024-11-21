@@ -79,7 +79,7 @@
                                     compassionate leaders, and our CEO’s focus on innovation and growth, my
                                     objective is to integrate cutting-edge technology into every aspect of our
                                     students' learning experience. Technology is a bridge that connects knowledge
-                                    with application, and at Omni, we are committed to building that bridge with a
+                                    with application, and at G.D. Goenka Bareilly, we are committed to building that bridge with a
                                     solid foundation in values and purpose.</p>
                                 <p>
                                     We live in an age where information is readily available, but what matters most
