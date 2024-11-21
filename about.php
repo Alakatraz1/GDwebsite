@@ -66,6 +66,29 @@
                     </ul>
                 </div>
             </div>
+            <style>
+                .image-container {
+                   
+                    overflow: hidden;
+                    /* Hide any overflow when the image scales */
+                    position: relative;
+                    /* Ensure the container keeps its size */
+                }
+
+                .image-container img {
+                    width: 100%;
+                    height: 100%;
+                    object-fit: cover;
+                    /* Maintain the aspect ratio and fill the container */
+                    transition: transform 0.3s ease-in-out;
+                    /* Smooth scaling effect */
+                }
+
+                .image-container:hover img {
+                    transform: scale(1.2);
+                    /* Scale up the image on hover */
+                }
+            </style>
 
             <div class="col-lg-12 pt-80 pb-50" id="values" style="padding-left:40px;padding-right:40px;">
                 <h2 class="site-title mb-5" style="text-align:center;font-size:40px">
@@ -73,7 +96,7 @@
                 </h2>
                 <div class="row"
                     style="padding-top:20px;padding-bottom:20px;background-color:#132a6736;border-radius:40px;">
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 image-container">
 
                         <img src="assets/gd/images/home/hero1.jpg" alt="" style="border-radius:20px;">
 
@@ -119,11 +142,7 @@
                 }
 
                 @media(max-width:800px) {
-                    .flip {
-
-                    
-
-                    }
+                    .flip {}
                 }
             </style>
 
@@ -159,7 +178,7 @@
 
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 image-container">
 
                         <img src="assets//home/place3.webp" alt="" style="border-radius:20px;">
 
@@ -319,7 +338,7 @@
 
                                         <h2 class="site-title text-white mb-10">Message from <span>Principal</span></h2>
                                         <p class="text-white">
-                                            Dear Students, Parents, and Well-Wishers,
+                                            Dear Students, Parents, and Well-Wishers, <br>
                                             A warm welcome to G.D. Goenka Public School, Bareilly! As the Principal, it
                                             is
                                             both an honor and a privilege to lead this vibrant institution that stands

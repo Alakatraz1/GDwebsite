@@ -50,6 +50,29 @@
                     </ul>
                 </div>
             </div>
+            <style>
+                .image-container {
+                   
+                    overflow: hidden;
+                    /* Hide any overflow when the image scales */
+                    position: relative;
+                    /* Ensure the container keeps its size */
+                }
+
+                .image-container img {
+                    width: 100%;
+                    height: 100%;
+                    object-fit: cover;
+                    /* Maintain the aspect ratio and fill the container */
+                    transition: transform 0.3s ease-in-out;
+                    /* Smooth scaling effect */
+                }
+
+                .image-container:hover img {
+                    transform: scale(1.2);
+                    /* Scale up the image on hover */
+                }
+            </style>
 
             <div class="col-lg-12 pt-80 pb-50" id="values" style="padding-left:40px;padding-right:40px;">
                 <h2 class="site-title mb-5" style="text-align:center;font-size:40px">
@@ -57,9 +80,10 @@
                 </h2>
                 <div class="row"
                     style="padding-top:20px;padding-bottom:20px;background-color:#132a6736;border-radius:40px;">
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 image-container">
+                    <img src="assets//home/place3.webp" alt="" style="border-radius:20px;">
 
-                        <img src="assets/gd/images/home/hero1.jpg" alt="" style="border-radius:20px;">
+                        
 
                     </div>
                     <div class="col-lg-6">
@@ -168,9 +192,9 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 image-container">
 
-                        <img src="assets//home/place3.webp" alt="" style="border-radius:20px;">
+                    <img src="assets/gd/images/home/hero1.jpg" alt="" style="border-radius:20px;">
 
                     </div>
 
