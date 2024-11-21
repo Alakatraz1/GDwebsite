@@ -77,7 +77,7 @@
                         Virtual Tour offers a glimpse into the vibrant campus, state-of-the-art facilities,
                         and the dynamic learning environment that makes our school special. Explore our
                         classrooms, labs, sports facilities, and more to get a sense of the day-to-day life
-                        at Omni.Take a Virtual Tour Today!
+                        at G.D. Goenka Bareilly.Take a Virtual Tour Today!
                     </p>
 
 

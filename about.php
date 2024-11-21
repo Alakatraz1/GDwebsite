@@ -67,96 +67,109 @@
                 </div>
             </div>
 
-            <div class="feature-area fa2 pt-120 pb-50">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-6 mx-auto">
-                            <div class="site-heading text-center" id="values">
-                                <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Who We
-                                    Are</span>
+            <div class="col-lg-12 pt-80 pb-50" id="values" style="padding-left:40px;padding-right:40px;">
+                <h2 class="site-title mb-5" style="text-align:center;font-size:40px">
+                    Vision and <span>Mission</span>
+                </h2>
+                <div class="row"
+                    style="padding-top:20px;padding-bottom:20px;background-color:#132a6736;border-radius:40px;">
+                    <div class="col-lg-6">
 
-                                <h2 class="site-title" style="font-size:40px">History & Founding <span>Values</span>
-                                </h2>
-                                <p></p>
-                            </div>
+                        <img src="assets/gd/images/home/hero1.jpg" alt="" style="border-radius:20px;">
 
-                        </div>
-                        <div class="my-4">
-
-                            <p>G.D. Goenka Public School, Bareilly, was founded with a singular vision: “Building Nation
-                                Through Education.” From the outset, our journey has been driven by the belief that
-                                education is the cornerstone of nation-building. Our institution was established to
-                                create a transformative learning environment, particularly for students from rural
-                                backgrounds, ensuring that they have access to world-class educational opportunities.
-                            </p>
-                        </div>
                     </div>
-                    <div class="row g-4">
-                        <div class="col-md-6 col-lg-3">
-                            <div class="feature-item wow fadeInUp feature-item1" data-wow-delay=".25s">
-                                <span class="count " style="-webkit-text-stroke: 2px var(--theme-color2);">01</span>
-                                <div class="feature-icon"
-                                    style="display:flex;justify-content:center;align-items:center;">
-                                    <img src="assets/img/icon/scholarship.svg" alt="">
-                                </div>
-                                <div class="feature-content">
-                                    <h4 class="feature-title">Integrity</h4>
-                                    <p>We cultivate honesty and authenticity in every student, ensuring that they grow
-                                        up to be individuals who are true to their word, actions, and beliefs.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-3">
-                            <div class="feature-item active wow fadeInDown feature-item1" data-wow-delay=".25s"
-                                style="background-color:#ff002a;">
-                                <span class="count" style="-webkit-text-stroke: 2px var(--theme-color2);">02</span>
-                                <div class="feature-icon"
-                                    style="display:flex;justify-content:center;align-items:center;">
-                                    <img src="assets/img/icon/teacher.svg" alt="">
-                                </div>
-                                <div class="feature-content">
-                                    <h4 class="feature-title" style="color:white">Excellence</h4>
-                                    <p style="color:white">We believe that the pursuit of excellence is not about
-                                        perfection, but about
-                                        continuous growth and striving to be the best version of oneself.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-3">
-                            <div class="feature-item wow fadeInUp feature-item1" data-wow-delay=".25s"
-                                style="background-color:var(--footer-bg);">
-                                <span class="count" style="-webkit-text-stroke: 2px var(--theme-color2);">03</span>
-                                <div class="feature-icon"
-                                    style="display:flex;justify-content:center;align-items:center;">
-                                    <img src="assets/img/icon/library.svg" alt="">
-                                </div>
-                                <div class="feature-content">
-                                    <h4 class="feature-title" style="color:white">Heritage</h4>
-                                    <p style="color:white">We instil a sense of pride in one’s cultural and national
-                                        heritage. By honouring
-                                        the past, we empower our students to contribute to a better future</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-3">
-                            <div class="feature-item wow fadeInUp feature-item1" data-wow-delay=".25s"
-                                style="background-color:#3db2d5;">
-                                <span class="count" style="-webkit-text-stroke: 2px var(--theme-color2);">04</span>
-                                <div class="feature-icon"
-                                    style="display:flex;justify-content:center;align-items:center;">
-                                    <img src="assets/img/icon/money.svg" alt="">
-                                </div>
-                                <div class="feature-content">
-                                    <h4 class="feature-title" style="color:white">Compassion</h4>
-                                    <p style="color:white">We believe in creating individuals who are not only
-                                        successful but also
-                                        compassionate leaders who will make a positive impact on society.</p>
-                                </div>
-                            </div>
+                    <div class="col-lg-6">
+                        <h3 class="mb-3 mt-3" style="text-align:center;color:red;text-decoration:underline">
+                            VISION
+                        </h3>
+                        <p style="text-align:justify;font-size:large;color:black">
+                            In our vision for the school, each and every student should develop and mould their
+                            ambitions towards perfection.
+
+
+                        </p>
+                        <p style="text-align:justify;font-size:large;color:black">
+
+                            The goal is to support and nurture the student’s and our own natural desire to be lifelong
+                            learners. We anticipate creativity and initiative, enterprise and innovation, and cognitive
+                            strategies for progressive learning. Our vision is to prepare and motivate our students for
+                            a rapidly changing world, by instilling in them critical thinking skills, a global
+                            perspective and a respect for core values of honesty, loyalty, perseverance and compassion.
+                            Students will have success for today and be prepared for tomorrow.
+
+                        </p>
+                        <div class="button-1">
+
                         </div>
                     </div>
                 </div>
+
             </div>
+            <style>
+                .flip {
+                    --bs-gutter-x: 1.5rem;
+                    --bs-gutter-y: 0;
+                    display: flex;
+                    flex-wrap: wrap;
+                    margin-top: calc(-1* var(--bs-gutter-y));
+                    margin-right: calc(-.5* var(--bs-gutter-x));
+                    margin-left: calc(-.5* var(--bs-gutter-x));
+
+
+                }
+
+                @media(max-width:800px) {
+                    .flip {
+
+                    
+
+                    }
+                }
+            </style>
+
+            <div class="col-lg-12 pt-30 pb-120" style="padding-left:40px;padding-right:40px;">
+
+                <div class="row"
+                    style="padding-top:20px;padding-bottom:20px;background-color:#132a6736;border-radius:40px;">
+                    <div class="col-lg-6">
+                        <h3 class="mb-3" style="text-align:center;color:red;text-decoration:underline">
+                            MISSION
+                        </h3>
+                        <p style="text-align:justify;font-size:large;color:black">
+                            The school motto HIGHER STRONGER BRIGHTER takes its core idea from a quest for excellence,
+                            an insatiable thirst for knowledge and a limitless craving for the latest.
+                            Our school aspires to be a national leader in developing educated contributors, career ready
+                            learners and global citizens, and in generating a meaningful, high impact, progressive and
+                            sustainable partnership with society.
+
+
+
+
+
+
+                        </p>
+                        <p style="text-align:justify;font-size:large;color:black">
+
+                            Our mission is to provide a safe haven where everyone is valued and respected. The faculty,
+                            in partnership with parents and families are fully committed to student’s college and career
+                            readiness. Students are empowered to meet current and future challenges to develop social
+                            awareness, civic responsibility and personal growth.
+                        </p>
+                        <div class="button-1">
+
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+
+                        <img src="assets//home/place3.webp" alt="" style="border-radius:20px;">
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
 
             <div class="team-area2 pb-120">
                 <div class="container">
@@ -275,7 +288,8 @@
             </div>
             <div class="overlay hidden" id="popup3">
                 <div class="popup-content">
-                    <p>While academic success is important, we at Omni recognize that education extends far beyond the
+                    <p>While academic success is important, we at G.D. Goenka Bareilly recognize that education extends
+                        far beyond the
                         classroom. Our school places strong emphasis on extracurricular activities, including sports,
                         arts, music, and community service. Through these, we aim to develop essential life skills such
                         as leadership, teamwork, and empathy, nurturing students who are not only knowledgeable but also
@@ -288,7 +302,8 @@
                         to instilling these virtues in every aspect of school life. In a world where moral values and
                         ethics are often overlooked, we ensure that our students are guided by principles that will
                         stand them in good stead throughout their lives. As Swami Vivekananda wisely stated, "Education
-                        is that by which character is formed," and at Omni, we strive to develop individuals who lead
+                        is that by which character is formed," and at G.D. Goenka Bareilly, we strive to develop
+                        individuals who lead
                         with integrity, respect, and a sense of responsibility toward society.</p>
                 </div>
             </div>
@@ -505,8 +520,8 @@
 
                         .owl-carousel .owl-item img {
                             filter: brightness(4) invert(.9);
-                            
-                            
+
+
                         }
                     </style>
                     <div class="department-slider owl-carousel owl-theme">
@@ -580,7 +595,8 @@
                             <div class="department-info">
                                 <h4 class="department-title"><a href="#">Global Perspective with
                                         Local Roots</a></h4>
-                                <p>At Omni, we balance our rich cultural heritage with a global perspective. We
+                                <p>At G.D. Goenka Bareilly, we balance our rich cultural heritage with a global
+                                    perspective. We
                                     encourage our students to appreciate their own cultural identity while also
                                     <span class="more-text" style="display: none;">
                                         broadening their horizons through global awareness and understanding, equipping

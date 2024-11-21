@@ -49,6 +49,8 @@
         <?php include('includes/navbar.php') ?>
 
 
+
+
         <div class="search-popup">
             <button class="close-search"><span class="far fa-times"></span></button>
             <form action="index.php#">
@@ -58,6 +60,133 @@
                 </div>
             </form>
         </div>
+
+        <!-- Fixed Circle -->
+        <style>
+            /* Fixed Circle */
+            #circle {
+                z-index: 999;
+                width: 60px;
+                height: 60px;
+                background-color: red;
+                /* User's preferred color */
+                color: white;
+                font-size: 24px;
+                text-align: center;
+                line-height: 60px;
+                border-radius: 50%;
+                position: fixed;
+                bottom: 20px;
+                right: 20px;
+                cursor: pointer;
+                box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            }
+            #circle{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                
+            }
+            #circle svg{
+                fill: white;
+
+            }
+
+            /* Enquiry Form */
+            #enquiry-form {
+                width: 300px;
+                max-height: fit-content;
+                background: #fff;
+                border: 1px solid #ccc;
+                box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+                padding: 20px;
+                border-radius: 8px;
+                position: fixed;
+                bottom: 100px;
+                right: 20px;
+                display: none;
+                z-index: 1000;
+            }
+
+            #enquiry-form h2 {
+                margin: 0 0 10px;
+                font-size: 20px;
+                color: #333;
+            }
+
+            #enquiry-form label {
+                display: block;
+                font-size: 14px;
+                margin: 10px 0 5px;
+                color: #555;
+            }
+
+            #enquiry-form input,
+            #enquiry-form textarea {
+                width: 100%;
+                padding: 8px;
+                margin-bottom: 10px;
+                border: 1px solid #ccc;
+                border-radius: 4px;
+                font-size: 14px;
+            }
+
+            #enquiry-form button {
+                width: 100%;
+                padding: 10px;
+                background-color: var(--footer-bg);
+                /* User's preferred color */
+                color: white;
+                border: none;
+                border-radius: 4px;
+                font-size: 16px;
+                cursor: pointer;
+            }
+
+            #enquiry-form button:hover {
+                background-color:red;
+               
+            }
+        </style>
+        <div id="circle" onclick="toggleForm()"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800"
+                height="32px" width="32px" role="img" alt="Chat icon" class="tawk-min-chat-icon">
+                <path fill-rule="evenodd" clip-rule="evenodd"
+                    d="M400 26.2c-193.3 0-350 156.7-350 350 0 136.2 77.9 254.3 191.5 312.1 15.4 8.1 31.4 15.1 48.1 20.8l-16.5 63.5c-2 7.8 5.4 14.7 13 12.1l229.8-77.6c14.6-5.3 28.8-11.6 42.4-18.7C672 630.6 750 512.5 750 376.2c0-193.3-156.7-350-350-350zm211.1 510.7c-10.8 26.5-41.9 77.2-121.5 77.2-79.9 0-110.9-51-121.6-77.4-2.8-6.8 5-13.4 13.8-11.8 76.2 13.7 147.7 13 215.3.3 8.9-1.8 16.8 4.8 14 11.7z">
+                </path>
+            </svg></div>
+
+        <!-- Enquiry Form -->
+        <div id="enquiry-form">
+            <h2>Contact Us</h2>
+            <p>Please fill out the form below and we will get back to you.</p>
+            <form>
+                <label for="name">* Name</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">* Email</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="phone">* Phone</label>
+                <input type="tel" id="phone" name="phone" required>
+
+                <label for="message">* Message</label>
+                <textarea id="message" name="message" rows="1" required></textarea>
+
+                <button type="submit">Submit</button>
+            </form>
+        </div>
+        <script>
+            // Toggle Enquiry Form Visibility
+            function toggleForm() {
+                const form = document.getElementById('enquiry-form');
+                if (form.style.display === 'none' || form.style.display === '') {
+                    form.style.display = 'block';
+                } else {
+                    form.style.display = 'none';
+                }
+            }
+
+        </script>
 
         <main class="main">
 
@@ -69,16 +198,15 @@
                                 <div class="col-md-12 col-lg-7">
                                     <div class="hero-content">
                                         <h6 class="hero-sub-title" data-animation="fadeInDown" data-delay=".25s">
-                                            <i class="far fa-book-open-reader"></i>Shaping Future Leaders at Omni
-                                            International School
+                                            <i class="far fa-book-open-reader"></i>G.D. Goenka School
                                         </h6>
                                         <h1 class="hero-title" data-animation="fadeInRight" data-delay=".50s">
-                                            Unlock your child’s potential with <span>world-class education</span> and a
-                                            nurturing environment.
+                                        Welcome to <span>G.D. Goenka Bareilly</span>, where excellence meets opportunity
                                         </h1 style="font-size">
                                         <p data-animation="fadeInLeft" data-delay=".75s" style="text-align:justify">
                                             Unlock your child’s full potential with a world-class education in a
-                                            nurturing and supportive environment. At G.D. Goenka Public School, Bareilly,
+                                            nurturing and supportive environment. At G.D. Goenka Public School,
+                                            Bareilly,
                                             we are dedicated to empowering students with the knowledge, skills, and
                                             values they need to thrive in a rapidly changing world
                                         </p>
@@ -99,8 +227,7 @@
                                 <div class="col-md-12 col-lg-7">
                                     <div class="hero-content">
                                         <h6 class="hero-sub-title" data-animation="fadeInDown" data-delay=".25s">
-                                            <i class="far fa-book-open-reader"></i>Shaping Future Leaders at Omni
-                                            International School
+                                            <i class="far fa-book-open-reader"></i>G.D. Goenka School
                                         </h6>
                                         <h1 class="hero-title" data-animation="fadeInRight" data-delay=".50s">
                                             Unlock your child’s potential with <span>world-class education</span> and a
@@ -108,7 +235,8 @@
                                         </h1>
                                         <p data-animation="fadeInLeft" data-delay=".75s" style="text-align:justify">
                                             Unlock your child’s full potential with a world-class education in a
-                                            nurturing and supportive environment. At G.D. Goenka Public School, Bareilly,
+                                            nurturing and supportive environment. At G.D. Goenka Public School,
+                                            Bareilly,
                                             we are dedicated to empowering students with the knowledge, skills, and
                                             values they need to thrive in a rapidly changing world
                                         </p>
@@ -129,8 +257,7 @@
                                 <div class="col-md-12 col-lg-7">
                                     <div class="hero-content">
                                         <h6 class="hero-sub-title" data-animation="fadeInDown" data-delay=".25s">
-                                            <i class="far fa-book-open-reader"></i>Shaping Future Leaders at Omni
-                                            International School
+                                            <i class="far fa-book-open-reader"></i>G.D. Goenka School
                                         </h6>
                                         <h1 class="hero-title" data-animation="fadeInRight" data-delay=".50s">
                                             Unlock your child’s potential with <span>world-class education</span> and a
@@ -138,7 +265,8 @@
                                         </h1>
                                         <p data-animation="fadeInLeft" data-delay=".75s" style="text-align:justify">
                                             Unlock your child’s full potential with a world-class education in a
-                                            nurturing and supportive environment. At G.D. Goenka Public School, Bareilly,
+                                            nurturing and supportive environment. At G.D. Goenka Public School,
+                                            Bareilly,
                                             we are dedicated to empowering students with the knowledge, skills, and
                                             values they need to thrive in a rapidly changing world
                                         </p>
@@ -156,12 +284,14 @@
                 </div>
             </div>
             <style>
-                .feature-item{
-                    background-color:#d4d0d0;
+                .feature-item {
+                    background-color: #d4d0d0;
                 }
-                .feature-item:hover{
-                    background-color:white;
+
+                .feature-item:hover {
+                    background-color: white;
                 }
+
                 .feature-item .count {
                     -webkit-text-stroke: 2px #FDA31B;
                 }
@@ -189,15 +319,15 @@
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-3">
-                                <div class="feature-item" >
+                                <div class="feature-item">
                                     <span class="count">02</span>
                                     <div class="feature-icon"
                                         style="display:flex;justify-content:center;background-color:var(--footer-bg)">
                                         <img src="assets/img/icon/teacher.svg" alt>
                                     </div>
                                     <div class="feature-content">
-                                        <h4 class="feature-title" >Facilities</h4>
-                                        <p >Discover our state-of-the-art facilities that
+                                        <h4 class="feature-title">Facilities</h4>
+                                        <p>Discover our state-of-the-art facilities that
                                             provide a safe, modern, and
                                             enriching environment for students to learn, play, and grow.</p>
                                         <a href="facility.php" class="theme-btn" style="margin-top:10px;">Explore More<i
@@ -213,8 +343,8 @@
                                         <img src="assets/img/icon/library.svg" alt>
                                     </div>
                                     <div class="feature-content">
-                                        <h4 class="feature-title" >Student Life</h4>
-                                        <p >Engage in a vibrant student life filled with
+                                        <h4 class="feature-title">Student Life</h4>
+                                        <p>Engage in a vibrant student life filled with
                                             clubs, sports, cultural
                                             activities, and leadership opportunities that foster holistic growth.</p>
                                         <a href="students-life.php" class="theme-btn" style="margin-top:10px;">Discover
@@ -223,14 +353,14 @@
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-3">
-                                <div class="feature-item" >
+                                <div class="feature-item">
                                     <span class="count">04</span>
                                     <div class="feature-icon" style="display:flex;justify-content:center;">
                                         <img src="assets/img/icon/money.svg" alt>
                                     </div>
                                     <div class="feature-content">
-                                        <h4 class="feature-title" >Admissions</h4>
-                                        <p >Join our learning community! Learn more about
+                                        <h4 class="feature-title">Admissions</h4>
+                                        <p>Join our learning community! Learn more about
                                             our admission process and how
                                             to enroll your child for the upcoming academic session.</p>
                                         <a href="admission.php" class="theme-btn" style="margin-top:10px;">Apply Now<i
@@ -396,7 +526,8 @@
                                     <div class="row g-4">
                                         <div class="col-md-6">
                                             <img class="img-1" src="assets/gd/images/principal.jpg" alt>
-                                            <div class="about-experience mt-4" style="background-color:var(--footer-bg)">
+                                            <div class="about-experience mt-4"
+                                                style="background-color:var(--footer-bg)">
                                                 <div class="about-experience-icon">
                                                     <img src="assets/img/icon/exchange-idea.svg" alt>
                                                 </div>
@@ -464,8 +595,7 @@
                                                         educational experience that nurtures independent thinkers,
                                                         <span class="more-text" style="display: none;">
                                                             compassionate leaders, and lifelong learners. His message
-                                                            reflects the guiding principles that shape Omni
-                                                            International School's mission to build a better future
+                                                            reflects the guiding principles that shape G.D. Goenka Bareilly mission to build a better future
                                                             through education.
                                                         </span>
                                                         <button class="read-more-btn"
@@ -496,7 +626,8 @@
                                         <div class="col-md-5">
                                             <div class="about-quote">
                                                 <p>
-                                                    At G.D. Goenka Public School, Bareilly, our leadership team is driven
+                                                    At G.D. Goenka Public School, Bareilly, our leadership team is
+                                                    driven
                                                     by a shared commitment to providing exceptional education.
                                                     <span class="more-text" style="display: none;">
                                                         Through visionary leadership, we continuously strive to innovate
@@ -1152,8 +1283,7 @@
                                     <p>We are excited to offer an Early Bird Discount for admissions in the 2025-26
                                         academic session. Secure your child's spot and enjoy special savings by
                                         completing the registration early. Don't miss this
-                                        opportunity to provide your child with a world-class education at Omni
-                                        International School, Bareilly!</p>
+                                        opportunity to provide your child with a world-class education at G.D. Goenka Bareilly!</p>
                                     <div class="cta-btn">
                                         <a href="application-form.php" class="theme-btn">Register Now<i
                                                 class="fas fa-arrow-right-long"></i></a>
@@ -1166,7 +1296,7 @@
             </div>
 
 
-            <div class="event-area bg py-120">
+            <div class="event-area bg py-120" id="home-event">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12 mx-auto">
@@ -1174,7 +1304,8 @@
                                 <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Events</span>
                                 <h2 class="site-title">Stay updated on exciting events that inspire learning,
                                     creativity, and <span>community engagement.</span></h2>
-                                <p>At G.D. Goenka Public School, Bareilly, we host a variety of events throughout the year
+                                <p>At G.D. Goenka Public School, Bareilly, we host a variety of events throughout the
+                                    year
                                     that enrich our students’ educational experience. From academic competitions and
                                     cultural festivals to sports tournaments and leadership workshops, our events are
                                     designed to foster growth, creativity, and collaboration. Stay tuned for details on
@@ -1186,41 +1317,44 @@
                         .event-title {
                             margin-top: 20px;
                         }
+                        #home-event.event-area .event-item{
+                            background-color: #d4d0d0;
+                        }
+                        #home-event.event-area p{
+                            color: black;
+                        }
                     </style>
                     <div class="event-slider owl-carousel owl-theme">
                         <div class="event-item">
                             <div class="event-img">
-                                <img src="assets/events/robotics.webp" alt>
+                                <img src="assets/gd/images/events/teachers.png" alt>
                             </div>
                             <div class="event-info">
 
-                                <h4 class="event-title"><a href="gallery.php">Robotics Workshop</a></h4>
-                                <p>Innovators compete to showcase cutting-edge technology in a thrilling robotics
-                                    competitiom, gaining insights into the latest technologies</p>
+                                <h4 class="event-title"><a href="#">Teachers Day</a></h4>
+                                <p>5th Sept</p>
 
                             </div>
                         </div>
                         <div class="event-item">
                             <div class="event-img">
-                                <img src="assets/events/sports.webp" alt>
+                                <img src="assets/gd/images/events/blue.png" alt>
                             </div>
                             <div class="event-info">
 
-                                <h4 class="event-title"><a href="gallery.php">Sports Day</a></h4>
-                                <p>Join us for an exciting day of athletic competition, celebrating teamwork,
-                                    determination, and sportsmanship.</p>
+                                <h4 class="event-title"><a href="#">Blue Day</a></h4>
+                                <p>3rd September</p>
 
                             </div>
                         </div>
                         <div class="event-item">
                             <div class="event-img">
-                                <img src="assets/events/graduation.webp" alt>
+                                <img src="assets/gd/images/events/paper.jpg" alt>
                             </div>
                             <div class="event-info">
 
-                                <h4 class="event-title"><a href="gallery.php">Graduation Day</a></h4>
-                                <p>Celebrating students’ achievements with certificates and memorable graduation
-                                    ceremonies.</p>
+                                <h4 class="event-title"><a href="#">Paper Bag Making & Distribution</a></h4>
+                                <p>2nd Sept</p>
 
                             </div>
                         </div>
@@ -1228,61 +1362,7 @@
 
 
 
-                        <div class="event-item">
-
-                            <div class="event-img">
-                                <img src="assets/gallery/40.webp" alt>
-                            </div>
-                            <div class="event-info">
-
-                                <h4 class="event-title"><a href="gallery.php">Diwali Celebration</a></h4>
-                                <p>Diwali festivities with decorations, cultural events, and community gatherings for
-                                    joy and unity.</p>
-
-                            </div>
-                        </div>
-
-
-                        <div class="event-item">
-
-                            <div class="event-img">
-                                <img src="assets/events/krishna.jpg" alt>
-                            </div>
-                            <div class="event-info">
-
-                                <h4 class="event-title"><a href="gallery.php">Krishna Janamasthmi</a></h4>
-                                <p>Traditional celebrations honor Lord Krishna’s birth with music, dance, and devotional
-                                    activities.</p>
-
-                            </div>
-                        </div>
-                        <div class="event-item">
-
-                            <div class="event-img">
-                                <img src="assets/student/summer.webp" alt>
-                            </div>
-                            <div class="event-info">
-
-                                <h4 class="event-title"><a href="gallery.php">Summer camp</a></h4>
-                                <p>Interactive Summer Camp for students with fun learning activities, workshops, and
-                                    outdoor adventures.</p>
-
-                            </div>
-                        </div>
-
-                        <div class="event-item">
-
-                            <div class="event-img">
-                                <img src="assets/events/ganesh.jpg" alt>
-                            </div>
-                            <div class="event-info">
-
-                                <h4 class="event-title"><a href="gallery.php">Ganesh Chaturthi</a></h4>
-                                <p>Festival commemorating Lord Ganesha with decorations, prayers, and cultural
-                                    performances.</p>
-
-                            </div>
-                        </div>
+                        
                     </div>
                 </div>
             </div>
@@ -1296,7 +1376,8 @@
                                     Enrolment</span>
                                 <h2 class="site-title">Secure Your Child’s Future with <br><span>G.D Goenka
                                         School!</span></h2>
-                                <p style="color:white">Don't miss out on the opportunity to provide your child with a world-class education
+                                <p style="color:white">Don't miss out on the opportunity to provide your child with a
+                                    world-class education
                                     in a nurturing and innovative environment. Enroll now for the 2025-26 academic
                                     session and take the first step toward your child's bright future.</p>
                             </div>
@@ -1309,7 +1390,7 @@
                 </div>
             </div>
 
-            <div class="enroll-area pt-80 pb-80" style="background-image: url(assets/home/updates.webp)">
+            <div class="enroll-area pt-80 pb-80" style="background-image: url(assets/gd/images/home/hero1.jpg)">
                 <div class="container">
                     <div class="col-lg-12">
                         <div class="row g-5 align-items-center">
@@ -1372,7 +1453,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="choose-img wow fadeInRight" data-wow-delay=".25s">
-                                    <img src="assets/home/sideimage2.jpg" alt>
+                                    <img src="assets/gd/images/home/hero3.jpg" alt>
                                 </div>
                             </div>
 
@@ -1390,7 +1471,8 @@
                                 <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Specialized
                                     Streams for Future Success</span>
                                 <h2 class="site-title">Browse Our <span>Department</span></h2>
-                                <p style="text-align:justify">At G.D. Goenka Public School, Bareilly, our Grades 11th and
+                                <p style="text-align:justify">At G.D. Goenka Public School, Bareilly, our Grades 11th
+                                    and
                                     12th offer specialized
                                     streams in Science, Commerce, and Humanities, each designed to provide students with
                                     a comprehensive and in-depth understanding of their chosen fields. Our carefully
@@ -1552,8 +1634,7 @@
                                 <p class="text-white">At G.D. Goenka Public School, Bareilly, our students, parents, and
                                     alumni are our greatest advocates. Their experiences reflect the values, academic
                                     excellence, and nurturing environment that we strive to provide. Read below to see
-                                    what members of our community have to say about their journey with us and how Omni
-                                    International School has made a positive impact on their lives.
+                                    what members of our community have to say about their journey with us and how G.D. Goenka Bareilly has made a positive impact on their lives.
 
                                 </p>
                             </div>
@@ -1966,7 +2047,7 @@
                             </div>
                             <div class="event-info">
 
-                                <h4 class="event-title"><a href="gallery.php">Graduation Day</a></h4>
+                                <h4 class="event-title"><a href="#">Graduation Day</a></h4>
 
 
                             </div>
@@ -1979,7 +2060,7 @@
                             </div>
                             <div class="event-info">
 
-                                <h4 class="event-title"><a href="gallery.php">Graduation Day</a></h4>
+                                <h4 class="event-title"><a href="#">Graduation Day</a></h4>
 
 
                             </div>
@@ -1992,7 +2073,7 @@
                             </div>
                             <div class="event-info">
 
-                                <h4 class="event-title"><a href="gallery.php">Graduation Day</a></h4>
+                                <h4 class="event-title"><a href="#">Graduation Day</a></h4>
 
 
                             </div>
@@ -2005,7 +2086,7 @@
                             </div>
                             <div class="event-info">
 
-                                <h4 class="event-title"><a href="gallery.php">Graduation Day</a></h4>
+                                <h4 class="event-title"><a href="#">Graduation Day</a></h4>
 
 
                             </div>
@@ -2018,7 +2099,7 @@
                             </div>
                             <div class="event-info">
 
-                                <h4 class="event-title"><a href="gallery.php">Graduation Day</a></h4>
+                                <h4 class="event-title"><a href="#">Graduation Day</a></h4>
 
 
                             </div>
@@ -2159,79 +2240,79 @@
 
                     </div>
                 </div>
+            </div>
+
+            <style>
+                .modal {
+                    display: none;
+                    position: fixed;
+                    top: 0;
+                    left: 0;
+                    width: 100%;
+                    height: 100%;
+                    background-color: rgba(0, 0, 0, 0.8);
+                    justify-content: center;
+                    align-items: center;
+                    z-index: 1000;
+                }
+
+                .modal-content {
+                    position: relative;
+                    width: 90vw;
+                    max-width: 450px;
+                    /* Ensures a manageable size on larger screens */
+
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                }
+
+                .modal-content img {
+                    width: 100%;
+                    height: 100%;
+                    object-fit: cover;
+                    border-radius: 10px;
+                }
+
+                .close-button {
+                    position: absolute;
+                    width: 30px;
+                    height: 30px;
+                    top: -10px;
+                    right: -10px;
+                    font-size: 24px;
+                    color: white;
+                    cursor: pointer;
+                    background: white;
+                    color: black;
+                    padding: 5px;
+                    border-radius: 50%;
+                }
+            </style>
+
+
+
+
+            <div id="admissionModal" class="modal">
+                <div class="modal-content">
+                    <a href="application-form.php">
+                        <img src="assets/poster/GDG.jpg" alt="Admission Open Poster" style="width:100%;">
+                    </a>
+                    <button class="close-button" onclick="closeModal()" style="font-size:10px">X</button>
                 </div>
+            </div>
+            <script>
+                window.addEventListener('load', function () {
+                    // Display the modal after the page has loaded
+                    document.getElementById('admissionModal').style.display = 'flex';
+                });
 
-                <style>
-                    .modal {
-                        display: none;
-                        position: fixed;
-                        top: 0;
-                        left: 0;
-                        width: 100%;
-                        height: 100%;
-                        background-color: rgba(0, 0, 0, 0.8);
-                        justify-content: center;
-                        align-items: center;
-                        z-index: 1000;
-                    }
-
-                    .modal-content {
-                        position: relative;
-                        width: 90vw;
-                        max-width: 450px;
-                        /* Ensures a manageable size on larger screens */
-                        
-                        display: flex;
-                        justify-content: center;
-                        align-items: center;
-                    }
-
-                    .modal-content img {
-                        width: 100%;
-                        height: 100%;
-                        object-fit: cover;
-                        border-radius: 10px;
-                    }
-
-                    .close-button {
-                        position: absolute;
-                        width: 30px;
-                        height: 30px;
-                        top: -10px;
-                        right: -10px;
-                        font-size: 24px;
-                        color: white;
-                        cursor: pointer;
-                        background: white;
-                        color: black;
-                        padding: 5px;
-                        border-radius: 50%;
-                    }
-                </style>
+                function closeModal() {
+                    document.getElementById('admissionModal').style.display = 'none';
+                }
 
 
-
-
-                <div id="admissionModal" class="modal" >
-                    <div class="modal-content">
-                        <a href="application-form.php" >
-                            <img src="assets/poster/GDG.jpg" alt="Admission Open Poster" style="width:100%;">
-                        </a>
-                        <button class="close-button" onclick="closeModal()" style="font-size:10px">X</button>
-                    </div>
-                </div>
-                <script>
-                    window.addEventListener('load', function () {
-                        // Display the modal after the page has loaded
-                        document.getElementById('admissionModal').style.display = 'flex';
-                    });
-
-                    function closeModal() {
-                        document.getElementById('admissionModal').style.display = 'none';
-                    }
-
-
-                </script>
+            </script>
 
 
 

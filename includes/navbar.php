@@ -208,7 +208,7 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="about.php">About Us</a>
                             <ul class="dropdown-menu fade-down">
-                                <li><a class="dropdown-item" href="about.php#values">History & Founding Values</a></li>
+                                <li><a class="dropdown-item" href="about.php#values">Mission and Vision</a></li>
                                 <li><a class="dropdown-item" href="about.php#intro">Management Introduction</a></li>
                                 <li><a class="dropdown-item" href="about.php#principal">Principal’s Message</a></li>
                                 <li><a class="dropdown-item" href="about.php#choose">Why Choose us</a></li>
@@ -221,7 +221,7 @@
                             <a class="nav-link dropdown-toggle" href="about.php">About Us</a>
 
                             <ul class="dropdown-menu fade-down">
-                                <li><a class="dropdown-item" href="about.php#values">History & Founding Values</a></li>
+                                <li><a class="dropdown-item" href="about.php#values">Mission and Vision</a></li>
                                 <li><a class="dropdown-item" href="about.php#intro">Management Introduction</a></li>
                                 <li><a class="dropdown-item" href="about.php#principal">Principal’s Message</a></li>
                                 <li><a class="dropdown-item" href="about.php#choose">Why Choose us</a></li>

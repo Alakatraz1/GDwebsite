@@ -134,8 +134,7 @@
                                 <h3>8. Contact Information</h3>
                                 <p>
                                     If you have any questions about these Terms of Service, please contact us at: <br>
-                                    Omni
-                                    International School, Bareilly<br>
+                                    G.D. Goenka Bareilly<br>
                                     Email: connect@gdgoenkabareilly.com<br>
                                     (M) +91 9012616969<br>
 

@@ -153,7 +153,7 @@
                         <div class="row">
                             <div class="col-lg-5">
                                 <div class="contact-img">
-                                    <img src="assets/img-custom/contact.jpg" alt>
+                                    <img src="assets/gd/images/home/hero4.jpg" alt>
                                 </div>
                             </div>
                             <div class="col-lg-7 align-self-center">

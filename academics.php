@@ -509,7 +509,7 @@
 
 
 
-            <div class="course-area py-120">
+            <div class="course-area py-120" style="display:none">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6 mx-auto" id="resources">
@@ -713,7 +713,7 @@
 
 
 
-            <div>
+            <div style="display:none">
                 <div class="container" style="text-align:justify">
                     <div class="row">
                         <div class="col">
@@ -752,7 +752,7 @@
 
 
             <!-- scholarship -->
-            <div class="scholarship pt-50">
+            <div class="scholarship pt-50" style="display:none">
                 <div class="container">
                     <div class="scholarship-content">
                         <div class="scholarship-img">
@@ -902,7 +902,7 @@
 
 
             <!-- scholarship details -->
-            <div class="campus-life-details pb-80">
+            <div class="campus-life-details pb-80" style="display:none">
                 <div class="container">
                     <div class="details-wrapper">
                         <div class="row">
