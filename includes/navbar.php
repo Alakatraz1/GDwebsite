@@ -263,7 +263,7 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="admission.php">Admissions</a>
                             <ul class="dropdown-menu fade-down">
-                            <li ><a class="dropdown-item" href="admission.php">Fee Structure</a></li>
+                            <li ><a class="dropdown-item" href="fee.php">Fee Structure</a></li>
                                 <li style="display:none"><a class="dropdown-item" href="admission.php">Admission Guidelines</a></li>
                                 <li><a class="dropdown-item" href="application-form.php">Online Registration Form</a>
                                 </li>
@@ -408,7 +408,7 @@
                             <a class="nav-link dropdown-toggle" href="admission.php"
                                 data-bs-toggle="dropdown">Admissions</a>
                             <ul class="dropdown-menu fade-down">
-                            <li><a class="dropdown-item" href="admission.php">Fee Structure</a></li>
+                            <li><a class="dropdown-item" href="fee.php">Fee Structure</a></li>
                                 <li style="display:none"><a class="dropdown-item" href="admission.php">Admission Guidelines</a></li>
                                 <li><a class="dropdown-item" href="application-form.php">Online Registration Form</a>
                                 </li>
