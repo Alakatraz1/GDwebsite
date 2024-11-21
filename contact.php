@@ -60,6 +60,7 @@
             <style>
                 .contact-info {
                     min-height: 251px !important;
+                    background-color: #d4d0d0;
                 }
 
                 .contact-info::before {
@@ -67,11 +68,12 @@
                 }
 
                 .contact-info:hover {
+                    background-color: white;
                     box-shadow: 10px 10px rgba(0, 0, 0, 0.5);
                 }
 
                 .contact-info-icon {
-                    background: #35353554;
+                    background: red;
                 }
 
                 .contact-info-icon::before {
@@ -106,27 +108,27 @@
                                 </div>
                             </div>
                             <div class="col-md-3">
-                                <div class="contact-info" style="background-color:#ff002a">
+                                <div class="contact-info" >
                                     <div class="contact-info-icon"
                                         style="display:flex;justify-content:center;align-items:center;">
                                         <i class="fal fa-phone-volume"></i>
                                     </div>
                                     <div class="contact-info-content">
-                                        <h5 style="color:white">Call Us</h5>
-                                        <p><a href="tel:9012616969" style="color:white">+91 9012616969</a></p>
+                                        <h5 >Call Us</h5>
+                                        <p><a href="tel:9012616969" >+91 9012616969</a></p>
                                     </div>
 
                                 </div>
                             </div>
                             <div class="col-md-3">
-                                <div class="contact-info" style="background-color:var(--footer-bg)">
+                                <div class="contact-info" >
                                     <div class="contact-info-icon"
                                         style="display:flex;justify-content:center;align-items:center;">
                                         <i class="fal fa-envelopes"></i>
                                     </div>
                                     <div class="contact-info-content">
-                                        <h5 style="color:white">Email Us</h5>
-                                        <p><a style="color:white"
+                                        <h5 >Email Us</h5>
+                                        <p><a 
                                                 href="mailto:connect@gdgoenkabareilly.com">connect@gdgoenkabareilly.com</a>
                                         </p>
 
@@ -135,15 +137,15 @@
                                 </div>
                             </div>
                             <div class="col-md-3">
-                                <div class="contact-info" style="background-color:#3db2d5">
+                                <div class="contact-info" >
                                     <div class="contact-info-icon"
                                         style="display:flex;justify-content:center;align-items:center;">
                                         <i class="fal fa-alarm-clock"></i>
                                     </div>
                                     <div class="contact-info-content">
-                                        <h5 style="color:white">Open Time</h5>
-                                        <p style="color:white">Mon - Fri (09.00AM - 04.00PM)</p>
-                                        <p style="color:white">Saturday (09.00AM - 01.00PM)</p>
+                                        <h5 >Open Time</h5>
+                                        <p >Mon - Fri (09.00AM - 04.00PM)</p>
+                                        <p >Saturday (09.00AM - 01.00PM)</p>
                                     </div>
                                 </div>
                             </div>
