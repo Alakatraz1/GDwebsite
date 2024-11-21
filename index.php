@@ -1067,8 +1067,6 @@
 
 
             
-
-
             <div class="cta-area" style="background-image: url(assets/gd/images/home/hero1.jpg)">
                 <div class="container">
                     <div class="cta-wrapper">
@@ -1244,7 +1242,7 @@
                 .read-more {
                     text-decoration: none;
                     color: #fff;
-                    background-color: red;
+                    background-color:#c50227;
                     padding: 5px 15px;
                     border-radius: 5px;
                 }
@@ -1274,7 +1272,7 @@
                             <div class="blog-content">
                                 <h3 class="blog-title">
                                     <a href="news.php"
-                                        style="color:red">
+                                        style="color:#c50227">
                                         Proud Moment for Our School!
                                     </a>
                                 </h3>
@@ -1646,7 +1644,7 @@
                 </div>
                 <style>
                     .bottom-buttom{
-                        background-color:red;
+                        background-color:#c50227;
                     }
                      .bottom-buttom:hover {
                         color: red;

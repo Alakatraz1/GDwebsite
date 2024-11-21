@@ -102,7 +102,7 @@
 
                     </div>
                     <div class="col-lg-6">
-                        <h3 class="mb-3 mt-3" style="text-align:center;color:red;text-decoration:underline">
+                        <h3 class="mb-3 mt-3" style="text-align:center;color:#c50227;text-decoration:underline">
                             VISION
                         </h3>
                         <p style="text-align:justify;font-size:large;color:black">
@@ -151,7 +151,7 @@
                 <div class="row"
                     style="padding-top:20px;padding-bottom:20px;background-color:#132a6736;border-radius:40px;">
                     <div class="col-lg-6">
-                        <h3 class="mb-3" style="text-align:center;color:red;text-decoration:underline">
+                        <h3 class="mb-3" style="text-align:center;color:#c50227;text-decoration:underline">
                             MISSION
                         </h3>
                         <p style="text-align:justify;font-size:large;color:black">

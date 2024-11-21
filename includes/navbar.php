@@ -541,7 +541,7 @@
         z-index: 999;
         width: 60px;
         height: 60px;
-        background-color: red;
+        background-color:#c50227;
         /* User's preferred color */
         color: white;
         font-size: 24px;
@@ -619,7 +619,7 @@
     }
 
     #enquiry-form button:hover {
-        background-color: red;
+        background-color:#c50227;
 
     }
 </style>

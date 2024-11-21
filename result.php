@@ -48,9 +48,19 @@
 </ul>
 </div>
 </div>
+<style>
+    .image-size{
+        padding:150px;
+    }
+    @media(max-width:800px){
+        .image-size{
+        padding:10px;
+    }
+    }
+</style>
 
 
-<div class="col-lg-">
+<div class="image-size">
     <img src="assets/gd/result/result.jpg" alt="">
 </div>
 
