@@ -19,7 +19,7 @@
             background: rgb(1 1 1 / 72%) !important;
         }
 
-        
+
 
         .dropdown-menu {
             background: #1c1b3b !important;
@@ -168,7 +168,7 @@
                 max-height: none !important;
             }
 
-            
+
 
 
 
@@ -232,7 +232,8 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="academics.php">Academics</a>
                             <ul class="dropdown-menu fade-down" style="width:auto">
-                                <li style="display:none"><a class="dropdown-item" href="students-life.php#">Student Life</a></li>
+                                <li style="display:none"><a class="dropdown-item" href="students-life.php#">Student
+                                        Life</a></li>
                                 <li><a class="dropdown-item" href="academics.php#achievements">Academic Achievements</a>
                                 </li>
                                 <li><a class="dropdown-item" href="academics.php#profiles">Faculty Profiles</a></li>
@@ -240,8 +241,10 @@
 
                                 <li style="display:none"><a class="dropdown-item" href="grades.php">Grades</a></li>
 
-                                <li style="display:none"><a class="dropdown-item" href="academics.php#resources">Learning Resources</a></li>
-                                <li style="display:none"><a class="dropdown-item" href="academics.php#assessment">Examination &
+                                <li style="display:none"><a class="dropdown-item"
+                                        href="academics.php#resources">Learning Resources</a></li>
+                                <li style="display:none"><a class="dropdown-item"
+                                        href="academics.php#assessment">Examination &
                                         Assessment</a></li>
                                 <li style="display:none"><a class="dropdown-item" href="calendar.php">Academic
                                         Calendar</a></li>
@@ -263,8 +266,9 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="admission.php">Admissions</a>
                             <ul class="dropdown-menu fade-down">
-                            <li ><a class="dropdown-item" href="fee.php">Fee Structure</a></li>
-                                <li style="display:none"><a class="dropdown-item" href="admission.php">Admission Guidelines</a></li>
+                                <li><a class="dropdown-item" href="fee.php">Fee Structure</a></li>
+                                <li style="display:none"><a class="dropdown-item" href="admission.php">Admission
+                                        Guidelines</a></li>
                                 <li><a class="dropdown-item" href="application-form.php">Online Registration Form</a>
                                 </li>
                                 <li style="display:none"><a class="dropdown-item" href="faq.php">FAQs</a></li>
@@ -300,7 +304,8 @@
 
 
 
-                                <li style="display:none"><a class="dropdown-item" href="m-p-ds.php">Mandatory Public Disclosers</a></li>
+                                <li style="display:none"><a class="dropdown-item" href="m-p-ds.php">Mandatory Public
+                                        Disclosers</a></li>
                                 <li><a class="dropdown-item"
                                         href="https://forms.edunexttechnologies.com/website-service/gdgbareilly/transfer-certificate/">Transfer
                                         Certificates(T.C.)</a></li>
@@ -363,7 +368,8 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="about.php" data-bs-toggle="dropdown">About Us</a>
                             <ul class="dropdown-menu fade-down">
-                                <li><a class="dropdown-item" href="about.php#values">History & Founding Values</a></li>
+                                <li><a class="dropdown-item" href="about.php#values">Mission and Vision</a></li>
+                                
                                 <li><a class="dropdown-item" href="about.php#intro">Management Introduction</a></li>
                                 <li><a class="dropdown-item" href="about.php#principal">Principal’s Message</a></li>
                                 <li><a class="dropdown-item" href="about.php#choose">Why Choose us</a></li>
@@ -375,7 +381,8 @@
                             <a class="nav-link dropdown-toggle" href="academics.php"
                                 data-bs-toggle="dropdown">Academics</a>
                             <ul class="dropdown-menu fade-down">
-                                <li style="display:none"><a class="dropdown-item" href="students-life.php#">Student Life</a></li>
+                                <li style="display:none"><a class="dropdown-item" href="students-life.php#">Student
+                                        Life</a></li>
                                 <li><a class="dropdown-item" href="academics.php#achievements">Academic Achievements</a>
                                 </li>
                                 <li><a class="dropdown-item" href="academics.php#profiles">Faculty Profiles</a></li>
@@ -383,8 +390,10 @@
 
                                 <li style="display:none"><a class="dropdown-item" href="grades.php">Grades</a></li>
 
-                                <li style="display:none"><a class="dropdown-item" href="academics.php#resources">Learning Resources</a></li>
-                                <li style="display:none"><a class="dropdown-item" href="academics.php#assessment">Examination &
+                                <li style="display:none"><a class="dropdown-item"
+                                        href="academics.php#resources">Learning Resources</a></li>
+                                <li style="display:none"><a class="dropdown-item"
+                                        href="academics.php#assessment">Examination &
                                         Assessment</a></li>
                                 <li style="display:none"><a class="dropdown-item" href="calendar.php">Academic
                                         Calendar</a></li>
@@ -408,8 +417,9 @@
                             <a class="nav-link dropdown-toggle" href="admission.php"
                                 data-bs-toggle="dropdown">Admissions</a>
                             <ul class="dropdown-menu fade-down">
-                            <li><a class="dropdown-item" href="fee.php">Fee Structure</a></li>
-                                <li style="display:none"><a class="dropdown-item" href="admission.php">Admission Guidelines</a></li>
+                                <li><a class="dropdown-item" href="fee.php">Fee Structure</a></li>
+                                <li style="display:none"><a class="dropdown-item" href="admission.php">Admission
+                                        Guidelines</a></li>
                                 <li><a class="dropdown-item" href="application-form.php">Online Registration Form</a>
                                 </li>
                                 <li style="display:none"><a class="dropdown-item" href="faq.php">FAQs</a></li>
@@ -447,7 +457,8 @@
 
 
 
-                                <li style="display:none"><a class="dropdown-item" href="m-p-ds.php">Mandatory Public Disclosers</a></li>
+                                <li style="display:none"><a class="dropdown-item" href="m-p-ds.php">Mandatory Public
+                                        Disclosers</a></li>
                                 <li><a class="dropdown-item"
                                         href="https://forms.edunexttechnologies.com/website-service/gdgbareilly/transfer-certificate/">Transfer
                                         Certificates(T.C.)</a></li>
@@ -518,127 +529,129 @@
 </header>
 
 <style>
-            /* Fixed Circle */
-            #circle {
-                z-index: 999;
-                width: 60px;
-                height: 60px;
-                background-color: red;
-                /* User's preferred color */
-                color: white;
-                font-size: 24px;
-                text-align: center;
-                line-height: 60px;
-                border-radius: 50%;
-                position: fixed;
-                bottom: 20px;
-                right: 20px;
-                cursor: pointer;
-                box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            }
-            #circle{
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                
-            }
-            #circle svg{
-                fill: white;
+    /* Fixed Circle */
+    #circle {
+        z-index: 999;
+        width: 60px;
+        height: 60px;
+        background-color: red;
+        /* User's preferred color */
+        color: white;
+        font-size: 24px;
+        text-align: center;
+        line-height: 60px;
+        border-radius: 50%;
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        cursor: pointer;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
 
-            }
+    #circle {
+        display: flex;
+        align-items: center;
+        justify-content: center;
 
-            /* Enquiry Form */
-            #enquiry-form {
-                width: 300px;
-                max-height: fit-content;
-                background: #fff;
-                border: 1px solid #ccc;
-                box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-                padding: 20px;
-                border-radius: 8px;
-                position: fixed;
-                bottom: 100px;
-                right: 20px;
-                display: none;
-                z-index: 1000;
-            }
+    }
 
-            #enquiry-form h2 {
-                margin: 0 0 10px;
-                font-size: 20px;
-                color: #333;
-            }
+    #circle svg {
+        fill: white;
 
-            #enquiry-form label {
-                display: block;
-                font-size: 14px;
-                margin: 10px 0 5px;
-                color: #555;
-            }
+    }
 
-            #enquiry-form input,
-            #enquiry-form textarea {
-                width: 100%;
-                padding: 8px;
-                margin-bottom: 10px;
-                border: 1px solid #ccc;
-                border-radius: 4px;
-                font-size: 14px;
-            }
+    /* Enquiry Form */
+    #enquiry-form {
+        width: 300px;
+        max-height: fit-content;
+        background: #fff;
+        border: 1px solid #ccc;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+        padding: 20px;
+        border-radius: 8px;
+        position: fixed;
+        bottom: 100px;
+        right: 20px;
+        display: none;
+        z-index: 1000;
+    }
 
-            #enquiry-form button {
-                width: 100%;
-                padding: 10px;
-                background-color: var(--footer-bg);
-                /* User's preferred color */
-                color: white;
-                border: none;
-                border-radius: 4px;
-                font-size: 16px;
-                cursor: pointer;
-            }
+    #enquiry-form h2 {
+        margin: 0 0 10px;
+        font-size: 20px;
+        color: #333;
+    }
 
-            #enquiry-form button:hover {
-                background-color:red;
-               
-            }
-        </style>
-        <div id="circle" onclick="toggleForm()"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800"
-                height="32px" width="32px" role="img" alt="Chat icon" class="tawk-min-chat-icon">
-                <path fill-rule="evenodd" clip-rule="evenodd"
-                    d="M400 26.2c-193.3 0-350 156.7-350 350 0 136.2 77.9 254.3 191.5 312.1 15.4 8.1 31.4 15.1 48.1 20.8l-16.5 63.5c-2 7.8 5.4 14.7 13 12.1l229.8-77.6c14.6-5.3 28.8-11.6 42.4-18.7C672 630.6 750 512.5 750 376.2c0-193.3-156.7-350-350-350zm211.1 510.7c-10.8 26.5-41.9 77.2-121.5 77.2-79.9 0-110.9-51-121.6-77.4-2.8-6.8 5-13.4 13.8-11.8 76.2 13.7 147.7 13 215.3.3 8.9-1.8 16.8 4.8 14 11.7z">
-                </path>
-            </svg></div>
+    #enquiry-form label {
+        display: block;
+        font-size: 14px;
+        margin: 10px 0 5px;
+        color: #555;
+    }
 
-        <!-- Enquiry Form -->
-        <div id="enquiry-form">
-            <h2>Contact Us</h2>
-            <p>Please fill out the form below and we will get back to you.</p>
-            <form action="home-form.php" method="post">
-                <label for="name">* Name</label>
-                <input type="text" id="name" name="name" required>
+    #enquiry-form input,
+    #enquiry-form textarea {
+        width: 100%;
+        padding: 8px;
+        margin-bottom: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        font-size: 14px;
+    }
 
-                <label for="email">* Email</label>
-                <input type="email" id="email" name="email" required>
+    #enquiry-form button {
+        width: 100%;
+        padding: 10px;
+        background-color: var(--footer-bg);
+        /* User's preferred color */
+        color: white;
+        border: none;
+        border-radius: 4px;
+        font-size: 16px;
+        cursor: pointer;
+    }
 
-                <label for="phone">* Phone</label>
-                <input type="tel" id="phone" name="phone" required>
+    #enquiry-form button:hover {
+        background-color: red;
 
-                <label for="message">* Message</label>
-                <textarea id="message" name="message" rows="1" required></textarea>
+    }
+</style>
+<div id="circle" onclick="toggleForm()"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" height="32px"
+        width="32px" role="img" alt="Chat icon" class="tawk-min-chat-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd"
+            d="M400 26.2c-193.3 0-350 156.7-350 350 0 136.2 77.9 254.3 191.5 312.1 15.4 8.1 31.4 15.1 48.1 20.8l-16.5 63.5c-2 7.8 5.4 14.7 13 12.1l229.8-77.6c14.6-5.3 28.8-11.6 42.4-18.7C672 630.6 750 512.5 750 376.2c0-193.3-156.7-350-350-350zm211.1 510.7c-10.8 26.5-41.9 77.2-121.5 77.2-79.9 0-110.9-51-121.6-77.4-2.8-6.8 5-13.4 13.8-11.8 76.2 13.7 147.7 13 215.3.3 8.9-1.8 16.8 4.8 14 11.7z">
+        </path>
+    </svg></div>
 
-                <button type="submit">Submit</button>
-            </form>
-        </div>
-        <script>
-            // Toggle Enquiry Form Visibility
-            function toggleForm() {
-                const form = document.getElementById('enquiry-form');
-                if (form.style.display === 'none' || form.style.display === '') {
-                    form.style.display = 'block';
-                } else {
-                    form.style.display = 'none';
-                }
-            }
+<!-- Enquiry Form -->
+<div id="enquiry-form">
+    <h2>Contact Us</h2>
+    <p>Please fill out the form below and we will get back to you.</p>
+    <form action="home-form.php" method="post">
+        <label for="name">* Name</label>
+        <input type="text" id="name" name="name" required>
 
-        </script>
+        <label for="email">* Email</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="phone">* Phone</label>
+        <input type="tel" id="phone" name="phone" required>
+
+        <label for="message">* Message</label>
+        <textarea id="message" name="message" rows="1" required></textarea>
+
+        <button type="submit">Submit</button>
+    </form>
+</div>
+<script>
+    // Toggle Enquiry Form Visibility
+    function toggleForm() {
+        const form = document.getElementById('enquiry-form');
+        if (form.style.display === 'none' || form.style.display === '') {
+            form.style.display = 'block';
+        } else {
+            form.style.display = 'none';
+        }
+    }
+
+</script>
