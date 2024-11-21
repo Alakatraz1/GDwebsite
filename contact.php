@@ -73,7 +73,7 @@
                 }
 
                 .contact-info-icon {
-                    background: red;
+                    background:#c50227;
                 }
 
                 .contact-info-icon::before {

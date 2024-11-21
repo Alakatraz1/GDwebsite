@@ -123,7 +123,7 @@
                         </div>
                         <style>
                             .blog-item1 {
-                                background-color: #ff002a;
+                                background-color:#c50227;
                             }
 
                             .blog-item2 {

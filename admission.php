@@ -580,7 +580,7 @@
                         <div class="row">
 
                             <div class="col-lg-6">
-                                <div class="contact-info" style="background-color:#ff002a">
+                                <div class="contact-info" style="background-color:#c50227">
                                     <div class="contact-info-icon"
                                         style="display:flex;justify-content:center;align-items:center;">
                                         <i class="fal fa-phone-volume"></i>

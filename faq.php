@@ -74,7 +74,7 @@
             </div>
             <style>
                 .faq1{
-                    background-color: #ff002a !important;
+                    background-color:#c50227 !important;
 
                 }
 

@@ -102,7 +102,7 @@
                     <div class="row">
                         <div class="col-md-6 col-lg-4">
                             <div class="pricing-item wow fadeInUp" data-wow-delay=".25s"
-                                style="background-color:#ff002a;color:white;">
+                                style="background-color:#c50227;color:white;">
                                 <div class="pricing-header">
                                     <div class="pricing-icon">
                                         <img src="assets/img/icon/course-material.svg" alt>

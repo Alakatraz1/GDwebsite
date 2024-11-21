@@ -20,7 +20,7 @@
                                         style="background-color:#3db2d5"></i>+91 9012616969</a></li>
                             <li><i class="far fa-map-marker-alt" style="background-color:#116E63"></i>Near Rohilkhand University,Dohra Road, Bareilly, U.P.</li>
                             <li><a href="mailto:connect@gdgoenkabareilly.com"><i
-                                        class="far fa-envelope" style="background-color:#ff002a"></i><span>connect@gdgoenkabareilly.com
+                                        class="far fa-envelope" style="background-color:#c50227"></i><span>connect@gdgoenkabareilly.com
 
                                     </span></a></li>
                         </ul>

@@ -462,7 +462,7 @@
                                     <div class="row">
                                         <div class="col-md-7">
                                             <div class="about-item">
-                                                <div class="about-item-icon" style="background-color:#ff002a">
+                                                <div class="about-item-icon" style="background-color:#c50227">
                                                     <img src="assets/img/icon/open-book.svg" alt="">
                                                 </div>
                                                 <div class="about-item-content">
@@ -578,7 +578,7 @@
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <div class="counter-box">
-                                <div class="icon" style="background-color:#ff002a">
+                                <div class="icon" style="background-color:#c50227">
                                     <img src="assets/img/icon/graduation.svg" alt>
                                 </div>
                                 <div>
@@ -993,7 +993,7 @@
                                                 </div>
                                             </div>
                                             <div class="col-md-6">
-                                                <div class="choose-item" style="background-color:#ff002a">
+                                                <div class="choose-item" style="background-color:#c50227">
                                                     <div class="choose-item-icon"
                                                         style="display:flex;justify-content:end;align-items:center;">
                                                         <img src="assets/img/icon/course-material.svg" alt>
@@ -1432,7 +1432,7 @@
                         }
 
                         .department-item1 {
-                            background-color: #ff002a;
+                            background-color:#c50227;
 
                         }
 
@@ -1836,7 +1836,7 @@
             </div>
             <style>
                 .faq1 {
-                    background-color: #ff002a !important;
+                    background-color:#c50227 !important;
 
                 }
 

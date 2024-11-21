@@ -404,7 +404,7 @@
                                                 </div>
                                             </div>
                                             <div class="col-md-6">
-                                                <div class="choose-item" style="background-color:#ff002a;">
+                                                <div class="choose-item" style="background-color:#c50227;">
                                                     <div class="choose-item-icon">
                                                         <img src="assets/img/icon/course-material.svg" alt="">
                                                     </div>
