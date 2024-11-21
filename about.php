@@ -444,11 +444,11 @@
 
                         <div class="col-lg-6">
                             <div class="choose-img wow fadeInRight" data-wow-delay=".25s">
-                                <img src="assets/gd/principalsquare.jpg" alt="">
+                                <img src="assets/gd/principalsquare.webp" alt="">
                             </div>
                             <div class="mt-50 " style="display:flex;justify-content:center">
                                 <h6 class="site-title text-white mb-10" style="font-size:25px"><span>Principal
-                                    </span>Ms. Ranjeeta Rani</h6>
+                                    </span>Mr. Rajesh Kumar K</h6>
 
 
                             </div>

@@ -402,7 +402,7 @@
                                 <div class="about-img">
                                     <div class="row g-4">
                                         <div class="col-md-6">
-                                            <img class="img-1" src="assets/gd/images/principal.jpg" alt>
+                                            <img class="img-1" src="assets/gd/images/principal.webp" alt>
                                             <div class="about-experience mt-4"
                                                 style="background-color:var(--footer-bg)">
                                                 <div class="about-experience-icon">
