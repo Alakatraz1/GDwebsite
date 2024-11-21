@@ -43,7 +43,7 @@
 
             <div class="site-breadcrumb" style="background: url(assets/home/alltop.webp)">
                 <div class="container">
-                    <h2 class="breadcrumb-title">Fee Structure</h2>
+                    <h2 class="breadcrumb-title">Fee Structure 2025-2026</h2>
                     <ul class="breadcrumb-menu">
                         <li><a href="index.php">Home</a></li>
                         <li class="active">Fee Structure</li>
@@ -57,7 +57,7 @@
                         <div class="col-lg-6 mx-auto">
                             <div class="site-heading text-center">
                                 <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Fee</span>
-                                <h2 class="site-title">G.D Goenka <span>Fee</span> Structure</h2>
+                                <h2 class="site-title">G.D Goenka <br> Fee Structure <br><span>2025-2026</span></h2>
 
                             </div>
                         </div>
@@ -83,7 +83,7 @@
                                         optional services like transport and mess facilities. Payments are scheduled
                                         quarterly, offering flexibility and convenience.
                                     </p>
-                                    <a href="assets/gd/documents/PNC.pdf" class="theme-btn">Choose Plan<i
+                                    <a href="assets/gd/documents/PNC.pdf" class="theme-btn">Fee Plan PDF<i
                                             class="fas fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
@@ -108,7 +108,7 @@
                                         Optional services such as transport and mess facilities are also available. Fees
                                         are collected quarterly, ensuring a smooth and convenient process for parents.
                                     </p>
-                                    <a href="assets/gd/documents/III.pdf" class="theme-btn">Choose Plan<i
+                                    <a href="assets/gd/documents/III.pdf" class="theme-btn">Fee Plan PDF<i
                                             class="fas fa-arrow-right-long"></i></a>
                                 </div>
                             </div>

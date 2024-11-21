@@ -263,7 +263,7 @@
 
 
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="admission.php">Admissions</a>
+                            <a class="nav-link dropdown-toggle" href="application-form.php">Admissions</a>
                             <ul class="dropdown-menu fade-down">
                                 <li><a class="dropdown-item" href="fee.php">Fee Structure</a></li>
                                 <li style="display:none"><a class="dropdown-item" href="admission.php">Admission
@@ -275,6 +275,10 @@
                                         Tour</a></li>
 
                             </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link" href="result.php">Result</a>
+
                         </li>
                         <li class="nav-item dropdown" style="display:none">
                             <a class="nav-link " href="gallery.php#">Gallery</a>
@@ -413,8 +417,8 @@
 
 
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="admission.php"
-                                data-bs-toggle="dropdown">Admissions</a>
+                            <a class="nav-link dropdown-toggle" 
+                                data-bs-toggle="dropdown" href="application-form.php">Admissions</a>
                             <ul class="dropdown-menu fade-down">
                                 <li><a class="dropdown-item" href="fee.php">Fee Structure</a></li>
                                 <li style="display:none"><a class="dropdown-item" href="admission.php">Admission
@@ -426,6 +430,10 @@
                                         Tour</a></li>
 
                             </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link" href="result.php">Result</a>
+
                         </li>
 
 

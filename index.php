@@ -1247,6 +1247,140 @@
                     </div>
                 </div>
             </div>
+            <style>
+                .blog-thumbnail {
+                    position: relative;
+                    overflow: hidden;
+                    border-radius: 10px;
+                }
+
+                .blog-thumbnail img {
+                    width: 100%;
+                    transition: transform 0.3s ease;
+                }
+
+                .blog-thumbnail:hover img {
+                    transform: scale(1.1);
+                }
+
+                .blog-date {
+                    position: absolute;
+                    top: 10px;
+                    left: 10px;
+                    background-color: rgba(0, 0, 0, 0.7);
+                    color: #fff;
+                    padding: 5px 10px;
+                    border-radius: 5px;
+                    text-align: center;
+                }
+
+                .blog-date-day {
+                    font-size: 24px;
+                    font-weight: bold;
+                }
+
+                .blog-date-month {
+                    font-size: 14px;
+                }
+
+                .blog-content {
+                    padding-top: 15px;
+                }
+
+                .blog-title {
+                    font-size: 40px;
+                    font-weight: bold;
+                    margin-bottom: 10px;
+                }
+
+                .blog-title a {
+                    text-decoration: none;
+                    color: #000;
+                }
+
+                .blog-title a:hover {
+                    text-decoration: underline;
+                }
+
+                .blog-meta {
+                    font-size: 14px;
+                    color: #666;
+                    margin-bottom: 10px;
+                }
+
+                .blog-meta a {
+                    text-decoration: none;
+                    color: red;
+                }
+
+                .blog-meta a:hover {
+                    text-decoration: underline;
+                }
+
+                .read-more {
+                    text-decoration: none;
+                    color: #fff;
+                    background-color: red;
+                    padding: 5px 15px;
+                    border-radius: 5px;
+                }
+
+                .read-more:hover {
+                    background-color: white;
+                    color: red;
+                }
+            </style>
+
+
+            <div class="container py-5">
+
+                <div class="col-lg-12">
+                    <div class="row">
+                        <h2 class="site-title my-3">School News and <span> Updates</span></h2>
+                        <div class="col-lg-5">
+                            <div class="blog-thumbnail">
+                                <img src="assets/gd/news/main.jpg" alt="Blog Image">
+                                <div class="blog-date">
+                                    <div class="blog-date-day">11</div>
+                                    <div class="blog-date-month">Sep</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-7">
+                            <div class="blog-content">
+                                <h3 class="blog-title">
+                                    <a href="news.php"
+                                        style="color:red">
+                                        Proud Moment for Our School!
+                                    </a>
+                                </h3>
+                                <h1>
+                                    <a
+                                        href="news.php">Gauri
+                                        Sri Vastav Shines on the Global Stage</a>
+
+                                    </h3>
+                                    <div class="blog-meta">
+                                        <span>By <a href="#">GD Goenka Bareilly</a></span>
+
+                                    </div>
+                                    <p>
+                                        At GD Goenka Public School, Bareilly, we believe in nurturing not only academic
+                                        excellence but also leadership and life skills in our students. It brings us
+                                        immense pride and joy to share a remarkable achievement by one of our brightest
+                                        students, Gauri Sri Vastav from Class VIII. She recently represented our school
+                                        at the prestigious international conference, ‘Embracing Artificial Intelligence
+                                        for Sustainability and Life Skills,’ held in Paro, Bhutan, on the 24th and 25th
+                                        of August 2024....
+                                        <a class="read-more"
+                                            href="news.php">Read
+                                            More</a>
+                                    </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
             <div class="event-area bg pt-50 pb-120" style="background-color:#b9b9b9">
                 <div class="container">
@@ -1501,6 +1635,133 @@
                     </div>
                 </div>
             </div>
+
+            <style>
+                .square-box {
+                    position: relative;
+                    width: 100%;
+                    padding-bottom: 100%;
+                    /* Aspect ratio 1:1 */
+                    overflow: hidden;
+                    background: #f8f9fa;
+                    /* Optional background for spacing */
+                    border: 1px solid #ddd;
+                    /* Optional border */
+                }
+
+                .square-content {
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    width: 100%;
+                    height: 100%;
+                    object-fit: cover;
+                    /* Ensures the image scales and crops to fit */
+                }
+            </style>
+
+            <style>
+                .sbi_instagram_header {
+                    background: #f8f9fa;
+                    border: 1px solid #ddd;
+                    padding: 1rem;
+                    border-radius: 8px;
+                }
+
+                .sbi_header_img {
+                    position: relative;
+                    width: 50px;
+                    height: 50px;
+                }
+
+                .sbi_header_img_hover {
+                    visibility: hidden;
+                    background: rgba(0, 0, 0, 0.6);
+                    color: #fff;
+                    border-radius: 50%;
+                    cursor: pointer;
+                }
+
+                .sbi_header_img:hover .sbi_header_img_hover {
+                    visibility: visible;
+                }
+            </style>
+
+
+            <div class="container py-5">
+
+                <div class="container py-4">
+                    <div class="sbi_instagram_header text-center">
+                        <a class="sbi_header_link d-flex align-items-center justify-content-center"
+                            href="https://www.instagram.com/gdgoenkabareilly/" target="_blank" rel="nofollow noopener"
+                            title="@gdgoenkabareilly">
+
+                            <!-- Logo Section -->
+                            <div class="sbi_header_img position-relative me-3">
+                                <div
+                                    class="sbi_header_img_hover position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center">
+                                    <svg class="sbi_new_logo fa-instagram fa-w-14" aria-hidden="true"
+                                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"
+                                        style="width: 30px; height: 30px; fill: currentColor;">
+                                        <path
+                                            d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z">
+                                        </path>
+                                    </svg>
+                                </div>
+                                <img loading="lazy" decoding="async"
+                                    src="http://gdgoenkabareilly.com/wp-content/uploads/2023/10/cropped-Logo.png"
+                                    alt="gdgoenkabareilly" width="50" height="50" class="rounded-circle">
+                            </div>
+
+                            <!-- Text Section -->
+                            <div class="sbi_feedtheme_header_text">
+                                <h3 class="mb-0" style="color: rgb(191,0,0);">gdgoenkabareilly</h3>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <style>
+                    .bottom-buttom{
+                        background-color:red;
+                    }
+                     .bottom-buttom:hover {
+                        color: red;
+                        background-color: white;
+                        border:3px black solid;
+                    }
+                </style>
+
+                <div class="row">
+                    <div class="col-md-4 mb-4">
+                        <div class="square-box">
+                            <a href="https://www.instagram.com/gdgoenkabareilly/" target="_blank">
+                                <img src="assets/gd/gallery/img1.jpg" class="img-fluid square-content" alt="Image 1">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-4">
+                        <div class="square-box">
+                            <a href="https://www.instagram.com/gdgoenkabareilly/" target="_blank">
+                                <img src="assets/gd/gallery/img2.jpg" class="img-fluid square-content" alt="Image 2">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-4">
+                        <div class="square-box">
+                            <a href="https://www.instagram.com/gdgoenkabareilly/" target="_blank">
+                                <img src="assets/gd/gallery/img3.jpg" class="img-fluid square-content" alt="Image 3">
+                            </a>
+                        </div>
+                    </div>
+                    <div style="display:flex;justify-content:center;align-items:center">
+                        <a class="bottom-buttom" href="https://www.instagram.com/gdgoenkabareilly/"
+                            style="border:none;padding:10px;font-size:large;border-radius:10px;">Load More</a>
+                    </div>
+                </div>
+            </div>
+
+
+
 
 
             <div class="testimonial-area ts-bg pt-80 pb-80"
@@ -1791,6 +2052,8 @@
                     </div>
                 </div>
             </div>
+
+
 
             <div class="blog-area py-120" style="display:none">
                 <div class="container">

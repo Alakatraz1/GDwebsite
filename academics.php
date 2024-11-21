@@ -84,11 +84,7 @@
                         </div>
                     </div>
                     <style>
-                        .pricing-item:hover {
-                            background: white !important;
-                            color: black !important;
-                            box-shadow: 10px 10px rgba(0, 0, 0, 0.2);
-                        }
+                        
 
                         .pricing-header-content>h2 {
                             color: white;
@@ -98,6 +94,9 @@
                             display: flex;
                             justify-content: center;
                             align-items: center;
+                        }
+                        .pricing-item{
+                            min-height: 472px;
                         }
                     </style>
                     <div class="row">
@@ -151,7 +150,7 @@
                         </div>
                         <div class="col-md-6 col-lg-4">
                             <div class="pricing-item wow fadeInUp" data-wow-delay=".25s"
-                                style="background-color:#3db2d5;color:white;">
+                                style="background-color:grey;color:white;">
                                 <div class="pricing-header">
                                     <div class="pricing-icon">
                                         <img src="assets/img/icon/course-material.svg" alt>
