@@ -50,157 +50,74 @@
                     </ul>
                 </div>
             </div>
-            <style>
-                .image-container {
-                   
-                    overflow: hidden;
-                    /* Hide any overflow when the image scales */
-                    position: relative;
-                    /* Ensure the container keeps its size */
-                }
 
-                .image-container img {
-                    width: 100%;
-                    height: 100%;
-                    object-fit: cover;
-                    /* Maintain the aspect ratio and fill the container */
-                    transition: transform 0.3s ease-in-out;
-                    /* Smooth scaling effect */
-                }
+            <div class="pricing-area bg py-120">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-6 mx-auto">
+                            <div class="site-heading text-center">
+                                <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Fee</span>
+                                <h2 class="site-title">G.D Goenka <span>Fee</span> Structure</h2>
 
-                .image-container:hover img {
-                    transform: scale(1.2);
-                    /* Scale up the image on hover */
-                }
-            </style>
-
-            <div class="col-lg-12 pt-80 pb-50" id="values" style="padding-left:40px;padding-right:40px;">
-                <h2 class="site-title mb-5" style="text-align:center;font-size:40px">
-                    Fee Structure <span>2025-2026</span>
-                </h2>
-                <div class="row"
-                    style="padding-top:20px;padding-bottom:20px;background-color:#132a6736;border-radius:40px;">
-                    <div class="col-lg-6 image-container">
-                    <img src="assets//home/place3.webp" alt="" style="border-radius:20px;">
-
-                        
-
-                    </div>
-                    <div class="col-lg-6">
-                        <h3 class="mb-3 mt-3" style="text-align:center;color:red;text-decoration:underline">
-                            CLASS PNC TO II
-                        </h3>
-
-                        <p style="text-align:justify;font-size:large;color:black">
-
-                            The fee structure for classes PNC to II has been thoughtfully planned to ensure clarity and
-                            fairness for all parents. It includes components such as registration, admission, annual
-                            charges, and a composite monthly fee, with optional services like transport and mess
-                            facilities. Payments are scheduled quarterly, offering flexibility and convenience. The
-                            school adheres to the Uttar Pradesh Self-Financed Independent School (Fee Regulation) Act,
-                            2018, ensuring a transparent and standardized approach to fee management.
-
-                        </p>
-                        <style>
-                            .button-1{
-                                display: flex;
-                                justify-content: center;
-                                align-items: center;
-                                margin-top: 40px;
-                                
-                            }
-                            .pdf-button {
-                                display: inline-block;
-                                padding: 10px 20px;
-                                font-size: 16px;
-                                font-weight: bold;
-                                color: #ffffff;
-                                background: red;
-                                border: none;
-                                border-radius: 5px;
-                                cursor: pointer;
-                                text-decoration: none;
-                                transition: all 0.3s ease;
-                            }
-
-                            .pdf-button:hover {
-                                background: white;
-                                color: red;
-                                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-                            }
-                        </style>
-                        <div class="button-1">
-                            <a href="assets/gd/documents/PNC.pdf" target="_blank" class="pdf-button">
-                                Open PDF
-                            </a>
-
+                            </div>
                         </div>
                     </div>
-                </div>
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="pricing-item wow fadeInUp" data-wow-delay=".25s"
+                                style="visibility: visible; animation-delay: 0.25s; animation-name: fadeInUp;">
+                                <div class="pricing-header">
+                                    <div class="pricing-icon">
+                                        <img src="assets/img/icon/course-material.svg" alt="">
+                                    </div>
+                                    <div class="pricing-header-content">
+                                        <h4 style="color:black">CLASS PNC TO II</h4>
 
-            </div>
-            <style>
-                .flip {
-                    --bs-gutter-x: 1.5rem;
-                    --bs-gutter-y: 0;
-                    display: flex;
-                    flex-wrap: wrap;
-                    margin-top: calc(-1* var(--bs-gutter-y));
-                    margin-right: calc(-.5* var(--bs-gutter-x));
-                    margin-left: calc(-.5* var(--bs-gutter-x));
-
-
-                }
-
-                @media(max-width:800px) {
-                    .flip {
-                        flex-direction: column-reverse;
-
-
-
-                    }
-                }
-            </style>
-
-            <div class="col-lg-12 pt-30 pb-120" style="padding-left:40px;padding-right:40px;">
-
-                <div class="row flip"
-                    style="padding-top:20px;padding-bottom:20px;background-color:#132a6736;border-radius:40px;">
-                    <div class="col-lg-6">
-                        <h3 class="mb-3" style="text-align:center;color:red;text-decoration:underline">
-                            CLASS PNC TO II
-                        </h3>
-                        <p style="text-align:justify;font-size:large;color:black">
-                            TThe fee structure for classes III to XII is designed to provide comprehensive educational
-                            opportunities while maintaining transparency. It includes registration, admission, and
-                            annual charges, along with a composite monthly fee. Optional services such as transport and
-                            mess facilities are also available. Fees are collected quarterly, ensuring a smooth and
-                            convenient process for parents. The school follows the Uttar Pradesh Self-Financed
-                            Independent School (Fee Regulation) Act, 2018, ensuring fairness and compliance in all
-                            financial matters.
-
-
-
-
-
-
-                        </p>
-
-                        <div class="button-1">
-                            <a href="assets/gd/documents/PNC.pdf" target="_blank" class="pdf-button">
-                                Open PDF
-                            </a>
+                                    </div>
+                                </div>
+                                <div class="pricing-feature">
+                                    <p style="margin-bottom:20px;text-align:justify">
+                                        The fee structure for classes PNC to II has been thoughtfully planned to ensure
+                                        clarity and fairness for all parents. It includes components such as
+                                        registration, admission, annual charges, and a composite monthly fee, with
+                                        optional services like transport and mess facilities. Payments are scheduled
+                                        quarterly, offering flexibility and convenience.
+                                    </p>
+                                    <a href="assets/gd/documents/PNC.pdf" class="theme-btn">Choose Plan<i
+                                            class="fas fa-arrow-right-long"></i></a>
+                                </div>
+                            </div>
                         </div>
+                        <div class="col-lg-6">
+                            <div class="pricing-item active wow fadeInDown" data-wow-delay=".25s"
+                                style="visibility: visible; animation-delay: 0.25s; animation-name: fadeInDown;">
+                                <div class="pricing-header">
+                                    <div class="pricing-icon">
+                                        <img src="assets/img/icon/course-material.svg" alt="">
+                                    </div>
+                                    <div class="pricing-header-content">
+                                        <h4>CLASS III TO XII</h4>
+
+                                    </div>
+                                </div>
+                                <div class="pricing-feature">
+                                    <p style="margin-bottom:20px;text-align:justify">
+                                        The fee structure for classes III to XII is designed to provide comprehensive
+                                        educational opportunities while maintaining transparency. It includes
+                                        registration, admission, and annual charges, along with a composite monthly fee.
+                                        Optional services such as transport and mess facilities are also available. Fees
+                                        are collected quarterly, ensuring a smooth and convenient process for parents.
+                                    </p>
+                                    <a href="assets/gd/documents/III.pdf" class="theme-btn">Choose Plan<i
+                                            class="fas fa-arrow-right-long"></i></a>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
-                    <div class="col-lg-6 image-container">
-
-                    <img src="assets/gd/images/home/hero1.jpg" alt="" style="border-radius:20px;">
-
-                    </div>
-
                 </div>
-
             </div>
+
 
 
 

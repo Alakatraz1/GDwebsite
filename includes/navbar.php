@@ -119,9 +119,8 @@
                         <a href="https://www.youtube.com/@GDGOENKABAREILLY"
                             style="display:flex;justify-content:center;align-items:center;" target="_blank"><i
                                 class="fab fa-youtube"></i></a>
-                        <a href="#" style="display:flex;justify-content:center;align-items:center;" target="_blank"><i
-                                class="fab fa-linkedin"></i></a>
-                        <a href="#" style="display:flex;justify-content:center;align-items:center;" target="_blank"><i
+                        
+                        <a href="https://wa.me/9012616969" style="display:flex;justify-content:center;align-items:center;" target="_blank"><i
                                 class="fab fa-whatsapp"></i></a>
                     </div>
                 </div>

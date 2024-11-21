@@ -95,9 +95,8 @@
                                         class="fab fa-facebook-f"></i></a></li>
                             <li><a href="https://www.instagram.com/gdgoenkabareilly/" target="_blank"><i class="fab fa-instagram"></i></a>
                             </li>
-                            <li><a href="#" target="_blank"><i
-                                        class="fab fa-linkedin-in"></i></a></li>
-                            <li><a href="#"><i class="fab fa-whatsapp"></i></a></li>
+                            
+                            <li><a href="https://wa.me/9012616969"><i class="fab fa-whatsapp"></i></a></li>
                             <li><a href="https://www.youtube.com/@GDGOENKABAREILLY" target="_blank"><i
                                         class="fab fa-youtube"></i></a></li>
                         </ul>
