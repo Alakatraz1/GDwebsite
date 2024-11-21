@@ -46,30 +46,34 @@
             </form>
         </div>
         <style>
-            <style>
-@keyframes panBackground {
-    0% {
-        background-position: center top;
-    }
-    25% {
-        background-position: right center;
-    }
-    50% {
-        background-position: center bottom;
-    }
-    75% {
-        background-position: left center;
-    }
-    100% {
-        background-position: center top;
-    }
-}
 
-.site-breadcrumb {
-    background-size: cover;
-    animation: panBackground 12s linear infinite;
-}
-</style>
+            @keyframes panBackground {
+                0% {
+                    background-position: center top;
+                }
+
+                25% {
+                    background-position: right center;
+                }
+
+                50% {
+                    background-position: center bottom;
+                }
+
+                75% {
+                    background-position: left center;
+                }
+
+                100% {
+                    background-position: center top;
+                }
+            }
+
+            .site-breadcrumb {
+                background-size: cover;
+                animation: panBackground 12s linear infinite;
+            }
+        </style>
         </style>
 
         <main class="main">
@@ -120,14 +124,14 @@
                                     <div class="form-group">
                                         <label>Student's Name</label>
                                         <input type="text" class="form-control" name="firstname"
-                                            placeholder="Your First Name">
+                                            placeholder="Your First Name" required>
                                     </div>
                                 </div>
 
                                 <div class="col-lg-6">
                                     <div class="form-group">
                                         <label>Date Of Birth</label>
-                                        <input type="date" class="form-control" name="dob">
+                                        <input type="date" class="form-control" name="dob" required>
                                     </div>
                                 </div>
                                 <style>
@@ -167,7 +171,7 @@
                                     <div class="form-group">
                                         <label>Parent/Guardian Name</label>
                                         <input type="text" class="form-control" name="fathername"
-                                            placeholder="Parent/Guardian Name">
+                                            placeholder="Parent/Guardian Name" required>
                                     </div>
                                 </div>
 
@@ -175,14 +179,14 @@
                                     <div class="form-group">
                                         <label>Contact Number</label>
                                         <input type="tel" class="form-control" name="number"
-                                            placeholder="Your Contact Number">
+                                            placeholder="Your Contact Number" required>
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="form-group">
                                         <label>Email Address</label>
                                         <input type="email" class="form-control" name="email"
-                                            placeholder="Your Email Address">
+                                            placeholder="Your Email Address" required>
                                     </div>
                                 </div>
                                 <div class="col-lg-12">
@@ -196,7 +200,7 @@
                                     <div class="form-group">
                                         <label>City/Location</label>
                                         <input type="text" class="form-control" name="address"
-                                            placeholder="Your Present Address">
+                                            placeholder="Your Present Address" required>
                                     </div>
                                 </div>
 
