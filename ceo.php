@@ -43,15 +43,15 @@
 
             <div class="site-breadcrumb" style="background: url(assets/home/alltop.webp)">
                 <div class="container">
-                    <h2 class="breadcrumb-title">CEO</h2>
+                    <h2 class="breadcrumb-title">Chairman</h2>
                     <ul class="breadcrumb-menu">
                         <li><a href="index.php">Home</a></li>
-                        <li class="active">CEO</li>
+                        <li class="active">Chairman</li>
                     </ul>
                 </div>
             </div>
             <style>
-                .team-details p{
+                .team-details p {
                     text-align: justify;
                 }
             </style>
@@ -68,42 +68,47 @@
                         <div class="col-md-8">
                             <div class="team-details">
                                 <h3>Mrs. Anshu Singh Gautam</h3>
-                                <strong>Message From CEO</strong>
+                                <strong>Message From Chairman</strong>
 
-                                <p>At G.D. Goenka Public School, we are committed to creating a future where
-                                    education is a pathway to empowerment and limitless potential. As the CEO of
-                                    this institution, I have the privilege of overseeing its growth, both in terms
-                                    of academic achievement and the holistic development of our students.</p>
-                                <p>
-                                    My focus is on ensuring that our school not only meets the highest standards of
-                                    education but also provides a robust platform for innovation and growth. With a
-                                    background in finance from Oxford University, I believe that a well-structured,
-                                    resourceful approach is essential in today’s rapidly evolving world. But beyond
-                                    strategy and structure, what drives me is a passion for making meaningful
-                                    change—one that transforms young minds and equips them with the tools to succeed
-                                    in any field they choose.</p>
-                                <p>
-                                    Aligned with our Chairman’s vision of developing leaders who think independently
-                                    and compassionately, and our manager’s nurturing approach to day-to-day
-                                    operations, my role is to steer G.D. Goenka Public School toward sustainable
-                                    excellence. We aim to combine traditional values with modern education, ensuring
-                                    that our students receive not just knowledge, but the wisdom to apply it in
-                                    real-world situations.</p>
-                                <p>
-                                    Our guiding principles of Integrity, Excellence, Heritage, and Compassion are at
-                                    the heart of our decision-making process. These values enable us to prepare our
-                                    students for a future where they can confidently navigate challenges while
-                                    holding onto the values that shape their character.</p>
-                                <p>
-                                    As we continue to grow, my priority remains to provide our students with access
-                                    to world-class resources and innovative learning opportunities. I believe that
-                                    by empowering students with the right skills and mindset, we are laying the
-                                    foundation for a better future—not just for them, but for the community and the
-                                    world at large.</p>
-                                <p>
-                                    Together, we are creating an institution where every child is inspired to excel,
-                                    driven by curiosity, and prepared to make a meaningful impact on the world.
+                                <p>Dear Students, Parents, and Visitors,</p>
+
+                                <p>It gives me immense pleasure to welcome you to GD Goenka Public School, Bareilly—a
+                                    place
+                                    where young minds are nurtured, dreams are realized, and future leaders are shaped.
                                 </p>
+
+                                <p>At GD Goenka Public School, we are committed to fostering an environment that
+                                    balances
+                                    academic excellence with holistic development. Our state-of-the-art facilities,
+                                    dedicated faculty, and well-designed curriculum ensure that every child receives the
+                                    best opportunities to grow intellectually, emotionally, and socially.
+                                </p>
+
+                                <p>We believe that education goes beyond textbooks and classrooms. Our aim is to instill
+                                    values, creativity, and a lifelong passion for learning in every student. Through
+                                    co-curricular activities, sports, and community engagements, we strive to prepare
+                                    our
+                                    students to excel in all spheres of life.
+                                </p>
+
+                                <p>As the Chairperson of this esteemed institution, I assure you that we are dedicated
+                                    to
+                                    providing a nurturing and stimulating environment where every child can achieve
+                                    their
+                                    full potential.
+                                </p>
+
+                                <p>Thank you for being a part of our journey towards excellence. Together, let us
+                                    inspire
+                                    our children to dream, believe, and achieve.
+                                </p><br>
+
+                                Warm regards, <br>
+                                Anshu Singh Gautam<br>
+                                Chairperson<br>
+                                GD Goenka Public School, Bareilly<br>
+
+
 
                             </div>
                         </div>

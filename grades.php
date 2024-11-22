@@ -73,7 +73,7 @@
                 .read-more-btn {
                     background: none;
                     border: none;
-                    color: red;
+                    color:#c50227;
                     /* Matches the user's preferred color */
                     cursor: pointer;
                     font-weight: bold;

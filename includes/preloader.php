@@ -21,10 +21,10 @@
         }
     @media only screen and (max-width: 480px) {
         .preloader>img{
-            width:50%;
+            width:30%;
         }
     }
 </style>
 <div class="preloader ">
-    <img src="assets/gd/logo/logo2.png" alt="Loading..." class="blinking-image" />
+    <img src="assets/gd/preloader/preloader.png" alt="Loading..." class="blinking-image" />
 </div>

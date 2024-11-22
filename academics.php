@@ -388,14 +388,14 @@
                         .read-more-btn {
                             background: none;
                             border: none;
-                            color: red;
+                            color:#c50227;
                             /* Matches the user's preferred color */
                             cursor: pointer;
                             font-weight: bold;
                         }
                     </style>
-                    <div class="row">
-                        <div class="col-md-6 col-lg-4">
+                    <div class="row" style="justify-content:space-around">
+                        <div class="col-lg-5">
                             <div class="club-item wow fadeInUp" data-wow-delay=".25s">
                                 <div class="club-img" style="display:flex;justify-content:center;align-items:center">
                                     <img src="assets/academics/cbse.jpg" alt width="310px" style="height:163px">
@@ -421,9 +421,9 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6 col-lg-4">
+                        <div class="col-lg-5">
                             <div class="club-item wow fadeInDown" data-wow-delay=".25s">
-                                <div class="club-img">
+                                <div class="club-img" style="display:flex;justify-content:center;align-items:center">
                                     <img src="assets/academics/nep.png" alt>
                                 </div>
                                 <div class="club-content">
@@ -456,37 +456,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-6 col-lg-4">
-                            <div class="club-item wow fadeInUp" data-wow-delay=".25s">
-                                <div class="club-img" style="display:flex;justify-content:center;align-items:center">
-                                    <img src="assets/gd/logo/logo2.png" alt width="163px" height="310">
-                                </div>
-                                <div class="club-content">
-                                    <h3 class="club-title">
-                                        <a href="#">Lead Curriculum School</a>
-                                    </h3>
-                                    <p class="club-text">
-                                        As a Lead Curriculum School, we go beyond traditional methods of teaching. The
-                                        Lead<span class="more-text" style="display: none;">
-                                            Curriculum is an innovative approach designed to make learning more
-                                            interactive,
-                                            engaging, and personalized. It integrates digital tools, modern pedagogical
-                                            techniques, and real-world contexts to make lessons more relevant to
-                                            students.
-                                            Through the Lead Curriculum, our students benefit from world-class
-                                            resources,
-                                            continuous assessments, and individualized learning pathways that cater to
-                                            their
-                                            unique learning styles. This ensures that every student progresses at their
-                                            own
-                                            pace
-                                            while achieving excellence in academics.</span>
-                                        <button class="read-more-btn" onclick="toggleReadMore(this)">Read more</button>
-                                    </p>
-
-                                </div>
-                            </div>
-                        </div>
+                        
 
                     </div>
                 </div>

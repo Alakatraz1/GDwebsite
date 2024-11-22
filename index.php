@@ -444,7 +444,7 @@
                                     .read-more-btn {
                                         background: none;
                                         border: none;
-                                        color: red;
+                                        color:#c50227;
                                         /* Matches the user's preferred color */
                                         cursor: pointer;
                                         font-weight: bold;
@@ -1232,7 +1232,7 @@
 
                 .blog-meta a {
                     text-decoration: none;
-                    color: red;
+                    color:#c50227;
                 }
 
                 .blog-meta a:hover {
@@ -1249,7 +1249,7 @@
 
                 .read-more:hover {
                     background-color: white;
-                    color: red;
+                    color:#c50227;
                 }
             </style>
 
@@ -1631,7 +1631,7 @@
                                     </svg>
                                 </div>
                                 <img loading="lazy" decoding="async"
-                                    src="http://gdgoenkabareilly.com/wp-content/uploads/2023/10/cropped-Logo.png"
+                                    src="assets/gd/logo/logo2.png"
                                     alt="gdgoenkabareilly" width="50" height="50" class="rounded-circle">
                             </div>
 
@@ -1647,7 +1647,7 @@
                         background-color:#c50227;
                     }
                      .bottom-buttom:hover {
-                        color: red;
+                        color:#c50227;
                         background-color: white;
                         border:3px black solid;
                     }
