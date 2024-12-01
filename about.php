@@ -305,7 +305,7 @@
                                 <div class="blog-content">
                                     <h3 class="blog-title">
                                         <a href="ceo.php" style="color:#c50227">
-                                            Ms. Anshu Singh Gautam
+                                            Mrs. Anshu Singh Gautam
                                         </a>
                                     </h3>
                                     <h1>

@@ -1,53 +1,5 @@
-<!DOCTYPE php>
-<php lang="en">
 
-    <head>
-
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content>
-        <meta name="keywords" content>
-
-        <title>G.D. Goenka Public School</title>
-
-        <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
-        <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-
-        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-        <link rel="stylesheet" href="assets/css/all-fontawesome.min.css">
-        <link rel="stylesheet" href="assets/css/animate.min.css">
-        <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
-        <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-        <link rel="stylesheet" href="assets/css/style.css">
-    </head>
-    <style>
-        body {
-            overflow-y: hidden;
-        }
-    </style>
-
-    <body>
-
-        <?php include("includes/preloader.php") ?>
-
-
-        <?php include("includes/navbar.php") ?>
-
-
-
-        <div class="search-popup">
-            <button class="close-search"><span class="far fa-times"></span></button>
-            <form action="application-form.php#">
-                <div class="form-group">
-                    <input type="search" name="search-field" placeholder="Search Here..." required>
-                    <button type="submit"><i class="far fa-search"></i></button>
-                </div>
-            </form>
-        </div>
-
-        <main class="main">
-        <?php
+<?php
 
 // Autoloader for PHPMailer
 function autoloadPHPMailer($className)
@@ -86,17 +38,27 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     $mail = new PHPMailer\PHPMailer\PHPMailer(true);
 
     try {
+        // SMTP server configuration
         $mail->isSMTP();
         $mail->Host = 'smtp-relay.brevo.com';
         $mail->SMTPAuth = true;
-        $mail->Username = '7fc513001@smtp-brevo.com';
-        $mail->Password = 'TcsW5fk8DtbXLPgV'; // Securely store your password in an environment variable
+        $mail->Username = '80b4f1001@smtp-brevo.com';
+        $mail->Password = 'LkV7qCUrm0gKZBhy'; // Securely store your password in an environment variable
         $mail->SMTPSecure = PHPMailer\PHPMailer\PHPMailer::ENCRYPTION_STARTTLS;
         $mail->Port = 587;
 
-        $mail->setFrom($email, $name);
+        // Use a verified sender email address in the "From" field
+        $mail->setFrom('botkarmadevi@gmail.com', 'Omni Enquiery Form');
+
+        // Add the user's email as a "Reply-To" address
+        if ($email) {
+            $mail->addReplyTo($email, $name);
+        }
+
+        // Set the recipient email
         $mail->addAddress('connect@gdgoenkabareilly.com'); // Principal's email
 
+        // Email content
         $mail->isHTML(true);
         $mail->Subject = $subject;
         $mail->Body = $message;
@@ -107,31 +69,78 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
     }
 }
+
+?>
+<?php
+
+// Autoloader for PHPMailer
+function autoloadPHPMailer1($className)
+{
+    $libsDir = __DIR__ . '/libs/';
+    $classMap = [
+        'PHPMailer\\PHPMailer\\PHPMailer' => 'PHPMailer.php',
+        'PHPMailer\\PHPMailer\\Exception' => 'Exception.php',
+        'PHPMailer\\PHPMailer\\SMTP' => 'SMTP.php',
+    ];
+
+    if (isset($classMap[$className])) {
+        require_once $libsDir . $classMap[$className];
+    }
+}
+
+spl_autoload_register('autoloadPHPMailer');
+
+if ($_SERVER["REQUEST_METHOD"] === "POST") {
+    // Sanitize and retrieve form data
+    $name = filter_input(INPUT_POST, 'name', FILTER_SANITIZE_STRING);
+    $email = filter_input(INPUT_POST, 'email', FILTER_VALIDATE_EMAIL);
+
+    if ($email) {
+        // Prepare the thank-you message
+        $thankYouSubject = "Thank You for Your Submission!";
+        $thankYouMessage = "
+            <h2>Dear $name,</h2>
+            <p>Thank you for submitting your form. We have received your information and will get back to you soon.</p>
+            <p>Best Regards,<br>Karma Devi Group</p>
+        ";
+
+        // Send thank-you email using PHPMailer
+        $mail = new PHPMailer\PHPMailer\PHPMailer(true);
+
+        try {
+            // SMTP server configuration
+            $mail->isSMTP();
+            $mail->Host = 'smtp-relay.brevo.com';
+            $mail->SMTPAuth = true;
+            $mail->Username = '7fc513001@smtp-brevo.com';
+            $mail->Password = 'TcsW5fk8DtbXLPgV'; // Securely store your password in an environment variable
+            $mail->SMTPSecure = PHPMailer\PHPMailer\PHPMailer::ENCRYPTION_STARTTLS;
+            $mail->Port = 587;
+
+            // Sender and recipient settings
+            $mail->setFrom('botkarmadevi@gmail.com', 'Omni Enquiery Form');
+            $mail->addAddress($email, $name); // Send to the form filler
+
+            $mail->addReplyTo('connect@gdgoenkabareilly.com', 'G.D. Goenka');
+
+            // Email content
+            $mail->isHTML(true);
+            $mail->Subject = $thankYouSubject;
+            $mail->Body = $thankYouMessage;
+
+            $mail->send();
+            echo 'Thank-you email has been sent.';
+        } catch (PHPMailer\PHPMailer\Exception $e) {
+            echo "Thank-you email could not be sent. Mailer Error: {$mail->ErrorInfo}";
+        }
+    } else {
+        echo "Invalid email address. Cannot send thank-you email.";
+    }
+}
 ?>
 
 
 
 
-        </main>
-        <?php include('includes/footer.php') ?>
 
 
-
-        <a href="application-form.php#" id="scroll-top"><i class="far fa-arrow-up-from-arc"></i></a>
-
-
-        <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-        <script src="assets/js/jquery-3.7.1.min.js"></script>
-        <script src="assets/js/modernizr.min.js"></script>
-        <script src="assets/js/bootstrap.bundle.min.js"></script>
-        <script src="assets/js/imagesloaded.pkgd.min.js"></script>
-        <script src="assets/js/jquery.magnific-popup.min.js"></script>
-        <script src="assets/js/isotope.pkgd.min.js"></script>
-        <script src="assets/js/jquery.appear.min.js"></script>
-        <script src="assets/js/jquery.easing.min.js"></script>
-        <script src="assets/js/owl.carousel.min.js"></script>
-        <script src="assets/js/counter-up.js"></script>
-        <script src="assets/js/wow.min.js"></script>
-        <script src="assets/js/main.js"></script>
-    </body>
-</php>
